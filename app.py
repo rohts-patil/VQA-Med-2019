@@ -7,6 +7,7 @@ import time
 import numpy as np
 import pandas as pd
 import torch
+import torch.nn as nn
 from torch.utils.data import DataLoader, RandomSampler
 from transformers import AdamW, get_linear_schedule_with_warmup
 
@@ -33,6 +34,10 @@ def flat_accuracy(preds, labels):
 def format_time(elapsed):
     elapsed_rounded = int(round((elapsed)))
     return str(datetime.timedelta(seconds=elapsed_rounded))
+
+
+def loss_fn(outputs, targets):
+    return nn.BCEWithLogitsLoss()(outputs, targets.view(-1, 1))
 
 
 def train_questions():
@@ -103,20 +108,20 @@ def train_questions():
                     )
                 )
 
-            b_input_ids = batch[0].to(device)
-            b_input_mask = batch[1].to(device)
-            b_labels = batch[2].to(device)
+            ids = batch["ids"].to(device)
+            token_type_ids = batch["token_type_ids"].to(device)
+            mask = batch["mask"].to(device)
+            targets = batch["targets"].to(device)
 
             model.zero_grad()
-            loss, logits = model(
-                b_input_ids,
-                token_type_ids=None,
-                attention_mask=b_input_mask,
-                labels=b_labels,
+            outputs = model(
+                ids=ids,
+                mask=mask,
+                token_type_ids=token_type_ids,
             )
 
+            loss = loss_fn(outputs, targets)
             total_train_loss += loss.item()
-
             loss.backward()
 
             torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
@@ -144,22 +149,22 @@ def train_questions():
         total_eval_loss = 0
 
         for batch in valid_data_loader:
-            b_input_ids = batch[0].to(device)
-            b_input_mask = batch[1].to(device)
-            b_labels = batch[2].to(device)
+            ids = batch["ids"].to(device)
+            token_type_ids = batch["token_type_ids"].to(device)
+            mask = batch["mask"].to(device)
+            targets = batch["targets"].to(device)
 
             with torch.no_grad():
                 (loss, logits) = model(
-                    b_input_ids,
-                    token_type_ids=None,
-                    attention_mask=b_input_mask,
-                    labels=b_labels,
+                    ids=ids,
+                    token_type_ids=token_type_ids,
+                    attention_mask=mask
                 )
-
+            loss = loss_fn(outputs, targets)
             total_eval_loss += loss.item()
 
             logits = logits.detach().cpu().numpy()
-            label_ids = b_labels.to("cpu").numpy()
+            label_ids = targets.to("cpu").numpy()
 
             total_eval_accuracy += flat_accuracy(logits, label_ids)
 
