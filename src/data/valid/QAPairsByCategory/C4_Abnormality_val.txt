@@ -1,0 +1,500 @@
+synpic54733|what is the primary abnormality in this image?|paraganglioma
+synpic25647|is there an abnormality in the x-ray?|no
+synpic35681|is there an abnormality in the mri?|no
+synpic39641|what is the primary abnormality in this image?|ganglion cyst
+synpic35693|is this a normal mri?|yes
+synpic17419|is this a normal ct scan?|yes
+synpic32909|what abnormality is seen in the image?|cholelithiasis
+synpic48040|is there an abnormality in the ct scan?|no
+synpic48351|what abnormality is seen in the image?|congenital cystic adenomatoid malformation
+synpic49503|is there evidence of any abnormalities?|no
+synpic18176|what is abnormal in the ct scan?|pancreatic ductal adenocarcinoma
+synpic36498|is there an abnormality in the x-ray?|no
+synpic26850|is there an abnormality in the mri?|no
+synpic19508|what is the primary abnormality in this image?|omental cake
+synpic23496|what is most alarming about this mri?|imaging in traumatic brain injury
+synpic25435|what is abnormal in the mri?|dnet (dysembryoplastic neuroepithelial tumor)
+synpic38894|what is abnormal in the ct scan?|liposarcoma, myxoid liposarcoma
+synpic25620|is this image normal?|yes
+synpic25634|is there evidence of any abnormalities?|no
+synpic36490|does this image look normal?|yes
+synpic40658|what is the primary abnormality in this image?|astrocytoma, low-grade (who 2), supratentorial
+synpic27614|is this a normal x-ray?|yes
+synpic26245|what is the primary abnormality in this image?|adult medulloblastoma
+synpic25628|are there abnormalities in this x-ray?|no
+synpic34446|what is abnormal in the mri?|pleomorphic adenoma
+synpic28899|does this image look normal?|yes
+synpic28331|does this image look normal?|yes
+synpic55791|what is abnormal in the mri?|giant tumefactive perivascular spaces
+synpic32867|what is the primary abnormality in this image?|fibrous dysplasia
+synpic21201|is there an abnormality in the x-ray?|no
+synpic20686|what is most alarming about this mammograph?|invasive lobular breast carcinoma
+synpic17412|is this a normal ct scan?|yes
+synpic53907|what is abnormal in the ct scan?|paranasal sinus osteoma
+synpic24024|is this image normal?|yes
+synpic59540|is there an abnormality in the image|yes
+synpic19169|what is most alarming about this mri?|nonossifying fibroma
+synpic52424|what is abnormal in the ct scan?|burst fracture of l1
+synpic52430|what is most alarming about this mri?|acute knee injury with effusion
+synpic51878|what is abnormal in the mri?|crohn disease
+synpic25109|what is abnormal in the mri?|schizencephaly (open-lip and closed-lip)
+synpic21186|what is most alarming about this x-ray?|osteoarthritis
+synpic52140|what is most alarming about this ct scan?|sialolithiasis
+synpic32893|what is most alarming about this x-ray?|small bowel obstruction
+synpic25451|what is abnormal in the x-ray?|pulmonary septic emboli
+synpic18101|what is most alarming about this x-ray?|sacral agenesis
+synpic18115|what is abnormal in the mri?|multifocal bone infarcts (osteonecrosis) in a patient with systemic lupus erythematosus
+synpic17583|what is the primary abnormality in this image?|heterotopic ossification
+synpic100295|what abnormality is seen in the image?|renal disease in systemic lupus erythematosus (sle) versus c3 glomerulonephritis
+synpic46243|what is the primary abnormality in this image?|adenocarcinoma of the lung
+synpic38951|what is abnormal in the x-ray?|scaphoid fracture
+synpic60290|what is the primary abnormality in this image?|nephroblastomatosis with bilateral wilms tumors
+synpic17970|what is the primary abnormality in this image?|ankle fracture, weber class c
+synpic17780|what abnormality is seen in the image?|intussusception
+synpic28216|what is most alarming about this gastrointestinal image?|juvenile polyposis syndrome
+synpic31753|what abnormality is seen in the image?|aortic pseudoaneurysm
+synpic16475|what abnormality is seen in the image?|bronchogenic carcinoma of the lung with metastasis to the liver
+synpic38575|what abnormality is seen in the image?|unilateral megaloencephaly, hemimegalencephaly
+synpic41707|what is the primary abnormality in this image?|diffuse large cell lymphoma
+synpic26950|what is abnormal in the gastrointestinal image?|traction esophageal diverticulum
+synpic18921|what is most alarming about this ultrasound?|evaluation of ovarian mass
+synpic29054|what abnormality is seen in the image?|kohler's disease
+synpic56870|what is the primary abnormality in this image?|diastematomyelia
+synpic21385|what abnormality is seen in the image?|open lip schizencephaly
+synpic57577|what is abnormal in the angiogram?|persistent trigeminal artery
+synpic40779|what is most alarming about this ct scan?|pseudomembranous colitis
+synpic49985|what is abnormal in the ct scan?|fracture dislocation at c6-c7
+synpic50556|what is abnormal in the ct scan?|dva, developmental venous anomaly, venous angioma
+synpic57239|what is most alarming about this mri?|intracranial epidermoid cyst
+synpic54730|what is most alarming about this ct scan?|splenic artery aneurysm
+synpic52631|what is most alarming about this mri?|toxoplasmosis
+synpic28837|what is abnormal in the ct scan?|brain, parenchymal hemorrhage, contusion
+synpic39709|what is the primary abnormality in this image?|hypothalamic glioma
+synpic61204|what is most alarming about this x-ray?|osteochondritis dissecans, trauma, and ischemia
+synpic27523|what is most alarming about this ct scan?|mucus plug
+synpic61238|what abnormality is seen in the image?|langerhan cell histiocytosis
+synpic58532|what abnormality is seen in the image?|vestibular schwannoma ("acoustic"schwannoma)
+synpic45577|what is most alarming about this ct scan?|astrocytoma, grading and subtypes
+synpic39696|what is abnormal in the mri?|hypothalamic glioma
+synpic23157|what is the primary abnormality in this image?|cavernous malformation (cavernous angioma)
+synpic23631|what abnormality is seen in the image?|posterior cerebellar artery infarct
+synpic27319|what abnormality is seen in the image?|enchondroma
+synpic51072|what is abnormal in the mri?|adult medulloblastoma
+synpic53659|what is the primary abnormality in this image?|metastatic malignant melanoma
+synpic58095|what is abnormal in the ct scan?|contained gallbladder perforation
+synpic60250|what is most alarming about this mri?|intracranial epidermoid cyst (retroclival)
+synpic40194|what abnormality is seen in the image?|unicameral bone cyst
+synpic29645|what abnormality is seen in the image?|osteoid osteoma
+synpic31036|what is abnormal in the ct scan?|pe
+synpic33806|is there evidence of any abnormalities?|yes
+synpic27873|what is abnormal in the mammograph?|secretory calcifications of the breast
+synpic38953|what is most alarming about this x-ray?|scaphoid fracture
+synpic49172|what is most alarming about this mri?|bucket handle tear
+synpic59407|what abnormality is seen in the image?|osteosarcoma
+synpic43477|what is the primary abnormality in this image?|achilles tendon tear
+synpic53314|what is most alarming about this mri?|meningioma
+synpic46876|what is the primary abnormality in this image?|empyema
+synpic28188|what is most alarming about this x-ray?|heterotopic ossification
+synpic47573|what is the primary abnormality in this image?|pachygyria with schizencephaly
+synpic30260|what abnormality is seen in the image?|median arcuate ligament syndrome
+synpic45827|what abnormality is seen in the image?|marked hydrocephalus due to aqueductal stenosis
+synpic27046|what is the primary abnormality in this image?|unicameral bone cyst with pathologic fracture
+synpic20729|what is abnormal in the ct scan?|brain tumor and cancer protocols
+synpic30248|what is the primary abnormality in this image?|aberrant right subclavian artery (arsa)
+synpic53738|what is the primary abnormality in this image?|lumbar spinal stenosis
+synpic17620|what is most alarming about this ct scan?|cholangiocarcinoma
+synpic47017|what is the primary abnormality in this image?|non-hodgkin's lymphoma - b-cell lymphoma
+synpic41314|what is abnormal in the mri?|vestibular ("acoustic") schwannoma
+synpic55403|what is the primary abnormality in this image?|cerebral arteriovenous malformation (avm)
+synpic27730|what is abnormal in the ultrasound?|gastroschisis
+synpic58682|what abnormality is seen in the image?|pyogenic discitis
+synpic50023|what is most alarming about this x-ray?|swimming-induced pulmonary edema (sipe)
+synpic57758|what abnormality is seen in the image?|fibro osseous lesions of the face and sinuses
+synpic19225|what is the primary abnormality in this image?|obstructive hydrocephalus (at level of sylvian aqueduct)
+synpic16880|what abnormality is seen in the image?|enchondroma
+synpic48730|what abnormality is seen in the image?|ureterolithiasis
+synpic21786|what is abnormal in the ct scan?|ossification of stylohyoid ligament
+synpic25090|what is abnormal in the ct scan?|colonic inguinal hernia
+synpic58912|what abnormality is seen in the image?|cerebral infarction
+synpic35240|what is the primary abnormality in this image?|tuberous sclerosis
+synpic33143|what is the primary abnormality in this image?|segond fracture with asssociated anterior cruciate ligament tear
+synpic28204|what is the primary abnormality in this image?|pancreatic divisum
+synpic26201|what is abnormal in the x-ray?|ied - improvised explosive device
+synpic41271|what is most alarming about this x-ray?|medial epicondyle avulsion, entrapment between trochlea and olecranon
+synpic8182|what abnormality is seen in the image?|diverticulitis
+synpic57188|what abnormality is seen in the image?|glioblastoma multiforme (gbm)
+synpic43843|what is most alarming about this angiogram?|arteriovenous malformation (avm)
+synpic36210|what abnormality is seen in the image?|odontogenic keratocyst of the mandible
+synpic58495|what is abnormal in the mri?|glioblastoma multiforme
+synpic40231|what is abnormal in the mri?|holoprosencephaly, alobar
+synpic40782|what is most alarming about this ct scan?|malignant melanoma
+synpic53098|what is the primary abnormality in this image?|rosette forming glioneuronal tumor of the pineal gland
+synpic31184|what is the primary abnormality in this image?|mature cystic teratoma
+synpic56123|what is most alarming about this x-ray?|spinal osteochondroma
+synpic59548|what is the primary abnormality in this image?|arteriovenous malformation
+synpic21418|what abnormality is seen in the image?|invasive aspergillosis
+synpic17814|what abnormality is seen in the image?|biliary leak
+synpic22893|what abnormality is seen in the image?|solitary thyroid nodule
+synpic33236|what is most alarming about this angiogram?|raynaud's disease
+synpic59945|what is the primary abnormality in this image?|posterior inferior cerebellar artery infarct
+synpic27492|what abnormality is seen in the image?|meningiomas
+synpic45565|what abnormality is seen in the image?|sand aspiration
+synpic16883|what is most alarming about this mri?|enchondroma
+synpic43699|what is abnormal in the mri?|intracranial lipoma
+synpic23151|what is abnormal in the x-ray?|malignant mesothelioma
+synpic21020|what is the primary abnormality in this image?|glioblastoma multiforme
+synpic52596|what is abnormal in the x-ray?|ankylosing spondylitis
+synpic56901|what is the primary abnormality in this image?|spine, epidural abscess
+synpic38404|what abnormality is seen in the image?|lipomyelomeningocele with spinal cord syrinx
+synpic40597|what abnormality is seen in the image?|immature teratoma
+synpic26612|what is abnormal in the angiogram?|meningioma
+synpic100332|what is most alarming about this x-ray?|lumbosacral disc herniation vs lumbar spondylosis
+synpic26809|what is the primary abnormality in this image?|contrast-induced nephropathy
+synpic59005|what is the primary abnormality in this image?|pilocytic astrocytoma
+synpic43576|what is most alarming about this x-ray?|hallux rigidus
+synpic33913|what abnormality is seen in the image?|adenomyosis
+synpic23255|what is abnormal in the ct scan?|dermoid tumor (inclusion cyst) of cns
+synpic21442|what is the primary abnormality in this image?|urinoma
+synpic38885|what is most alarming about this ct scan?|neuroendocrine carcinoma of duodenum
+synpic17866|what is most alarming about this ct scan?|peritoneal metastasis
+synpic24512|what is the primary abnormality in this image?|metastatic carcinoma unknown primary
+synpic24506|what abnormality is seen in the image?|developmental venous anomaly (venous angioma)
+synpic39557|what is abnormal in the x-ray?|pulmonary hamartoma
+synpic33293|what is abnormal in the gastrointestinal image?|malrotation, intestine
+synpic13143|what is abnormal in the mri?|extraskeletal sarcoma
+synpic17319|what is most alarming about this ct scan?|gastropexy anchor appendiceal foreign body
+synpic33481|what is most alarming about this x-ray?|multiple pulmonary nodules
+synpic24857|what is the primary abnormality in this image?|silent sinus syndrome
+synpic37195|what is the primary abnormality in this image?|transitional cell carcinoma, bladder
+synpic48796|what is most alarming about this ct scan?|pneumocystis jiroveci pneumonia
+synpic47664|what is most alarming about this mri?|meningioma
+synpic56027|what is most alarming about this ct scan?|cleidocranial dysostosis/dysplasia
+synpic42084|what is abnormal in the mri?|intracranial epidermoid tumor
+synpic37433|what is abnormal in the mri?|oropharyngeal cancer
+synpic34853|what is the primary abnormality in this image?|paradoxic embolization, patent foramen ovale, cerebral infarction
+synpic32749|what is abnormal in the ct scan?|limbus vertebra
+synpic60966|what is most alarming about this x-ray?|solitary pulmonary nodule - calcified granuloma
+synpic25382|what is abnormal in the pet scan?|non-hodgkin’s lymphoma, staging  stage i nhl
+synpic39967|what is abnormal in the mri?|large cell lymphoma, of the b-cell phenotype (cd20 positive)
+synpic27768|what is abnormal in the angiogram?|cryoplasty of femoropopliteal atherosclerotic disease
+synpic30200|what is the primary abnormality in this image?|epiglottitis
+synpic31678|what is abnormal in the ct scan?|clay shoveler's fracture
+synpic53994|what is abnormal in the ct scan?|brain death
+synpic49072|what is most alarming about this mri?|metastatic disease from colonic carcinoma
+synpic19651|what is the primary abnormality in this image?|tethered spinal cord with terminal spinal lipoma
+synpic53980|what abnormality is seen in the image?|left pica infarct
+synpic33084|what is abnormal in the ct scan?|bilateral wilms tumor
+synpic56608|what abnormality is seen in the image?|c-spine fracture
+synpic48422|what is most alarming about this mri?|hypoxic/ischemic encephalopathy
+synpic46419|what abnormality is seen in the image?|chloroma
+synpic17124|what abnormality is seen in the image?|femoral neck insufficiency fracture
+synpic47049|what is most alarming about this ct scan?|hemangiomas of the liver
+synpic40915|what is abnormal in the mri?|intraventricular meningioma
+synpic51818|what is most alarming about this ct scan?|squamous cell carcinoma
+synpic32401|what is most alarming about this x-ray?|pseudofracture of the cervical vertebral body
+synpic34070|what abnormality is seen in the image?|adenocarcinoma of the gastroesophageal junction
+synpic55854|what is the primary abnormality in this image?|intracranial hypotension
+synpic29237|what is abnormal in the x-ray?|anterior dislocation right shoulder
+synpic39193|what is most alarming about this mri?|femoral neck stress fractures
+synpic33455|what abnormality is seen in the image?|hemorrhagic cyst
+synpic41564|what is the primary abnormality in this image?|cephalocele
+synpic54169|what is abnormal in the mri?|dnet (dysembryoplastic neuroepithelial tumor)
+synpic57312|what is abnormal in the ct scan?|osteogenesis imperfecta
+synpic54627|what is the primary abnormality in this image?|juvenile pilocytic astrocytoma
+synpic58790|what abnormality is seen in the image?|neuroblastoma
+synpic58974|what is most alarming about this mri?|intravascular lymphomatosis
+synpic35568|what abnormality is seen in the image?|bilateral subacute (isodense) subdural hematomas
+synpic53835|what is abnormal in the mri?|coarctation of the aorta
+synpic47855|what abnormality is seen in the image?|spine fracture, t4
+synpic58008|what abnormality is seen in the image?|bilateral perched facets c5 c6 with spinal cord injury
+synpic15120|what is the primary abnormality in this image?|spine, angiolipoma
+synpic33695|what is abnormal in the x-ray?|femoral neck stress fractures
+synpic100545|what abnormality is seen in the image?|atlanto-axial instability imaging and clinical affect
+synpic58544|what abnormality is seen in the image?|motor vehicle accident and multiple sclerosis exacerbation
+synpic32825|what is the primary abnormality in this image?|hirschsprung's disease
+synpic41613|what abnormality is seen in the image?|esophageal lipomatosis
+synpic39569|what abnormality is seen in the image?|spiral salter-harris ii fracture
+synpic24538|what is the primary abnormality in this image?|left ventricular aneurysm
+synpic17121|what is abnormal in the x-ray?|ductal carcinoma in situ (dcis), breast calcification on mammogram
+synpic34061|what abnormality is seen in the image?|acute appendicitis
+synpic36110|what abnormality is seen in the image?|freiberg's infraction
+synpic56814|what is most alarming about this mri?|medial meniscal tear and comminuted fibula fracture
+synpic43955|what abnormality is seen in the image?|lipoma arborescens
+synpic54434|what is most alarming about this mri?|glioblastoma multiforme
+synpic24879|what abnormality is seen in the image?|diverticulosis  and  diverticulitis
+synpic39828|what is abnormal in the mri?|chondrosarcoma
+synpic48021|what abnormality is seen in the image?|glioblastoma multiforme
+synpic49129|what is most alarming about this ct scan?|renal cell carcinoma
+synpic58742|what is abnormal in the ct scan?|brain meningioma
+synpic15871|what abnormality is seen in the image?|juvenile dermatomyositis
+synpic58965|what is most alarming about this mri?|cpa mass - meningioma
+synpic39357|what is the primary abnormality in this image?|myocardial infarction with ventricular aneurysm
+synpic60223|what is the primary abnormality in this image?|anaplastic ganglioglioma (who grade iii)
+synpic34841|what abnormality is seen in the image?|primary bone neoplasm, chondro-osseous variants
+synpic21041|what is abnormal in the ct scan?|pericardial cyst
+synpic55071|what abnormality is seen in the image?|pituitary apoplexy
+synpic41825|what is the primary abnormality in this image?|medial collateral ligament injuries
+synpic55850|what is most alarming about this mri?|intracranial hypotension
+synpic34276|what is most alarming about this mri?|os odontoideum
+synpic25384|what is the primary abnormality in this image?|schizencephaly
+synpic43767|what is most alarming about this ct scan?|brain, cerebral abscess
+synpic23252|what is most alarming about this ultrasound?|subchorionic hemorrhage
+synpic53789|what is the primary abnormality in this image?|glioblastoma multiforme
+synpic52468|what is most alarming about this mri?|sturge weber syndrome
+synpic42135|what is most alarming about this ct scan?|hereditary multiple exostoses
+synpic58184|what is abnormal in the mri?|intracranial venous thrombosis
+synpic48397|what is the primary abnormality in this image?|hemangioblastoma of cerebellum
+synpic45466|what is most alarming about this mri?|tricholemmoma
+synpic46966|what is abnormal in the x-ray?|intrinsic sclerotic bone dysplasia (likely osteopetrosis) with fracture
+synpic39618|what is most alarming about this x-ray?|osteochondroma
+synpic18359|what is abnormal in the mri?|plantar plate disruption
+synpic56036|what is abnormal in the mri?|meningioma
+synpic49116|what abnormality is seen in the image?|neuroblastoma
+synpic53199|what is abnormal in the ct scan?|hypoxic/ischemic encephalopathy
+synpic38739|what is most alarming about this ultrasound?|medullary nephrocalcinosis
+synpic17902|what abnormality is seen in the image?|metastatic melanoma
+synpic22952|what is most alarming about this ct scan?|ovarian torsion
+synpic16361|what abnormality is seen in the image?|slap lesion of the glenoid labrum
+synpic19052|what abnormality is seen in the image?|transmesenteric internal hernia
+synpic27433|what is the primary abnormality in this image?|vesicoureteral reflux
+synpic54393|what abnormality is seen in the image?|diffuse axonal injury
+synpic42268|what is the primary abnormality in this image?|ewing sarcoma
+synpic17527|what is abnormal in the x-ray?|sarcoidosis
+synpic43604|what is most alarming about this ultrasound?|hemorrhagic cysts
+synpic50917|what is most alarming about this mri?|arachnoid cyst, sella
+synpic39751|what abnormality is seen in the image?|proximal focal femoral deficiency
+synpic21687|what abnormality is seen in the image?|subclavian central venous catheter fracture and embolization
+synpic35180|what is most alarming about this ct scan?|wilms tumor
+synpic18012|what is the primary abnormality in this image?|hypothalamic hamartoma
+synpic16765|what is abnormal in the x-ray?|cppd (pseudogout)
+synpic19640|what abnormality is seen in the image?|superior vena cava obstruction
+synpic54017|what abnormality is seen in the image?|frontal sinus mucocele
+synpic33926|what abnormality is seen in the image?|horseshoe kidney
+synpic59241|what is the primary abnormality in this image?|potts puffy tumor
+synpic44990|what abnormality is seen in the image?|solitary fibrous tumor in the cervical spine
+synpic28094|is there an abnormality in the x-ray?|yes
+synpic35947|what is abnormal in the mri?|schwannoma
+synpic41793|what is abnormal in the mri?|right vertebral artery dissection, lateral medullary syndrome (wallenberg syndrome)
+synpic43423|what is abnormal in the mri?|partial avulsion of the patella tendon
+synpic16378|what is abnormal in the ct scan?|osseous hemangioma
+synpic33107|what is the primary abnormality in this image?|epidermoid cyst
+synpic47877|what is the primary abnormality in this image?|cavernous  hemangioma and convexity meningioma
+synpic22547|what abnormality is seen in the image?|shattered kidney
+synpic33489|what is most alarming about this ct scan?|diverticulitis
+synpic20393|what abnormality is seen in the image?|melorheostosis
+synpic50674|what is the primary abnormality in this image?|epidural spinal hematoma
+synpic46002|what abnormality is seen in the image?|pulmonary artery pseudaneurysm
+synpic41751|what is the primary abnormality in this image?|spinal dural arteriovenous fistula
+synpic21890|what is the primary abnormality in this image?|primary sclerosing cholangitis
+synpic9384|what is the primary abnormality in this image?|aortic dissection
+synpic31315|what abnormality is seen in the image?|bilateral axillary lymphadenopathy
+synpic38331|what abnormality is seen in the image?|spinal "phytes"
+synpic25374|what is the primary abnormality in this image?|hemochromatosis, hepatocellular carcinoma, hcc
+synpic54214|what abnormality is seen in the image?|spondylolisthesis, bilateral pars fracture
+synpic56615|is there an abnormality in the ct scan?|yes
+synpic37599|what is abnormal in the mri?|venous malformation
+synpic55308|what is most alarming about this ct scan?|cirrhosis
+synpic45133|what is abnormal in the ct scan?|ruptured appendicitis
+synpic54994|what abnormality is seen in the image?|nonketotic hyperglycemic hemichorea hemiballismus
+synpic41341|what abnormality is seen in the image?|choanal atresia and congenital nasal airway obstruction
+synpic54766|what is abnormal in the mri?|olfactory neuroblastoma (esthesioneuroblastoma)
+synpic22196|what abnormality is seen in the image?|renal tubular acidosis, medullary nephrocalcinosis
+synpic29772|what is abnormal in the x-ray?|osteomyelitis
+synpic18008|what is most alarming about this x-ray?|slipped capital femoral epiphysis
+synpic30800|what is most alarming about this mri?|bicuspid aortic valve with aortic stenosis and aortic dilatation
+synpic41960|what is the primary abnormality in this image?|superior mesenteric artery syndrome
+synpic28295|what abnormality is seen in the image?|mucocele
+synpic24487|what is abnormal in the angiogram?|dural av fistulae
+synpic20187|what is most alarming about this angiogram?|gunther tulip retrievable vena cava filter
+synpic26246|what is abnormal in the mri?|adult medulloblastoma
+synpic16352|what abnormality is seen in the image?|superior mesenteric artery dissection, isolated
+synpic59337|what abnormality is seen in the image?|sequestration, intralobar bronchopulmonary
+synpic48212|what is abnormal in the x-ray?|pcp pneumonia (pneumocystis jiroveci pneumonia)
+synpic57871|what is most alarming about this angiogram?|dural  fistula, avf
+synpic34454|what abnormality is seen in the image?|cricopharyngeal bar
+synpic17299|what is most alarming about this angiogram?|arteriovenous fistula
+synpic28733|what is the primary abnormality in this image?|non-small cell carcinoma
+synpic55727|what abnormality is seen in the image?|vestibular schwannoma
+synpic45246|what is most alarming about this ct scan?|fine needle aspiration of lung lesions
+synpic57642|what is most alarming about this ct scan?|meningioma
+synpic60171|what abnormality is seen in the image?|subdural empyema secondary to sinusitis in an adolescent
+synpic29565|what is most alarming about this x-ray?|adenocarcinoma of the lung
+synpic19303|what is most alarming about this mammograph?|circumscribed masses in the breast
+synpic51353|what is most alarming about this mri?|oligodendroglioma, profile and who grade
+synpic26332|what is abnormal in the ct scan?|liver metastases from breast cancer.  (path) malignant cells derived from adenocarcinoma, favoring metastatic breast carcinoma
+synpic53785|what is the primary abnormality in this image?|glioblastoma multiforme
+synpic53024|what is abnormal in the ct scan?|acute epidural hematoma
+synpic45861|what abnormality is seen in the image?|gallstone pancreatitis
+synpic31104|what abnormality is seen in the image?|aspergillosis and the air-crescent sign
+synpic49242|what is abnormal in the mri?|pleomorphic  xanthoastrocytoma, pxa
+synpic41636|what is the primary abnormality in this image?|oral antral fistula
+synpic58401|what is most alarming about this angiogram?|traumatic carotid-cavernous fistula
+synpic51357|what is abnormal in the mri?|glioblastoma multiforme (who grade 4 astrocytoma)
+synpic44955|what is the primary abnormality in this image?|atypical teratoid/rhabdoid tumor
+synpic23070|what is the primary abnormality in this image?|insulinoma
+synpic47469|what is abnormal in the ct scan?|chiari malformation
+synpic19529|what is the primary abnormality in this image?|histoplasmosis
+synpic46993|what is most alarming about this mri?|chronic lymphocytic leukemia (cll)
+synpic28051|what abnormality is seen in the image?|mondini syndrome
+synpic58993|what is the primary abnormality in this image?|arachnoid cyst
+synpic43431|is there an abnormality in the x-ray?|yes
+synpic20814|what is most alarming about this mammograph?|breast oil cyst
+synpic46549|what is abnormal in the gastrointestinal image?|jejunal atresia (proximal)
+synpic54830|what abnormality is seen in the image?|femoroacetabular impingement (fai)
+synpic40845|what is most alarming about this mri?|meningioma
+synpic35203|what abnormality is seen in the image?|neurocytoma, central neurocytoma
+synpic58951|what is the primary abnormality in this image?|carotid cavernous fistula
+synpic51752|what is abnormal in the ultrasound?|hydrocephalus secondary to intraventricular hemorrhage.  periventricular leukomalacia
+synpic19716|what is abnormal in the mri?|neurocysticercosis
+synpic56001|what abnormality is seen in the image?|giant aneurysm
+synpic55508|what is abnormal in the ct scan?|laryngeal lipoma
+synpic32746|what is abnormal in the x-ray?|unicameral bone cyst with associated pathological fracture
+synpic52918|what abnormality is seen in the image?|pseudotumor  cerebri ("benign" idiopathic intracranial hypertension)
+synpic21672|what is most alarming about this ultrasound?|cholangiocarcinoma
+synpic51395|what abnormality is seen in the image?|cerebellar infarction in sca distribution
+synpic27571|what is most alarming about this ct scan?|osteochondritis dissecans
+synpic50921|what is most alarming about this mri?|arachnoid cyst, sella
+synpic53596|what is the primary abnormality in this image?|marfan syndrome
+synpic32632|what is abnormal in the x-ray?|avascular necrosis
+synpic59939|what is abnormal in the mri?|posterior inferior cerebellar artery infarct
+synpic22390|what abnormality is seen in the image?|primary lymphoma of bone
+synpic28454|what is the primary abnormality in this image?|cavernous hemangioma
+synpic40703|what is most alarming about this mri?|dermoid tumor (inclusion cyst) of cns
+synpic38876|what abnormality is seen in the image?|multiple sclerosis
+synpic15700|what abnormality is seen in the image?|takayasu arteritis
+synpic21328|what is the primary abnormality in this image?|spine, epidural abscess
+synpic44995|what is most alarming about this mri?|posterior reversible encephalopathy syndrome (pres)
+synpic48836|what abnormality is seen in the image?|situs ambiguous (heterotaxy)
+synpic26651|what is the primary abnormality in this image?|artificial cardiac valves
+synpic57862|what abnormality is seen in the image?|dural  fistula, avf
+synpic43817|what is most alarming about this mri?|anterior cruciate ligament tear
+synpic24495|what is abnormal in the x-ray?|hodgkin's lymphoma
+synpic22755|what is the primary abnormality in this image?|arachnoid cyst
+synpic34123|what is most alarming about this ct scan?|transitional cell carcinoma
+synpic22741|what is abnormal in the mri?|l5-s1 extruded disk fragment
+synpic33102|what is most alarming about this x-ray?|hydropneumothorax
+synpic47683|what is the primary abnormality in this image?|lingual thyroid
+synpic19933|what is most alarming about this ct scan?|pulmonary arteriovenous malformation
+synpic53152|what is the primary abnormality in this image?|rathke's cleft cyst
+synpic40660|what is the primary abnormality in this image?|astrocytoma, low-grade (who 2), supratentorial
+synpic31933|what is most alarming about this ct scan?|shaken baby syndrome
+synpic24899|what is abnormal in the x-ray?|high velocity rifle injury
+synpic55682|what abnormality is seen in the image?|depressed  skull  fractures
+synpic53581|what is the primary abnormality in this image?|fat embolism with cerebral infarction
+synpic11771|what is most alarming about this ct scan?|subependymoma, lateral ventricle
+synpic31884|what is the primary abnormality in this image?|appendicitis
+synpic17664|what is most alarming about this x-ray?|constrictive pericarditis, calcified pericardium
+synpic36696|what is the primary abnormality in this image?|inguinal hernia involving bladder
+synpic53727|what is most alarming about this ct scan?|rheumatic valve disease
+synpic42170|what abnormality is seen in the image?|epiploic appendigitis
+synpic34794|what is most alarming about this mri?|dural metastases, prostate cancer
+synpic49970|what is the primary abnormality in this image?|necrotizing pancreatitis
+synpic47975|what abnormality is seen in the image?|colon cancer
+synpic40559|what is the primary abnormality in this image?|ganglioneuroma
+synpic57757|what abnormality is seen in the image?|fibro osseous lesions of the face and sinuses
+synpic21602|what is abnormal in the x-ray?|salter harris fracture type 1
+synpic47342|what is abnormal in the mri?|arachnoid cyst
+synpic16119|what abnormality is seen in the image?|infected thyroglossal duct cyst
+synpic48065|what is the primary abnormality in this image?|avm, arterio-venous malformation, vascular malformation
+synpic51285|what is most alarming about this mri?|brain, cerebral abscess
+synpic36236|what is most alarming about this x-ray?|double aortic arch
+synpic28587|what is the primary abnormality in this image?|graves disease
+synpic50366|what is the primary abnormality in this image?|amyloidosis
+synpic28544|what is abnormal in the gastrointestinal image?|hiatal hernia
+synpic37470|what is the primary abnormality in this image?|dieulafoy's lesion:  an angiographic finding of a gastric avm
+synpic38742|what is the primary abnormality in this image?|medullary nephrocalcinosis
+synpic42788|what abnormality is seen in the image?|cystic meningioma, atypical
+synpic43455|what is abnormal in the x-ray?|poorly differentiated non-small cell lung carcinoma
+synpic55545|what is the primary abnormality in this image?|carbon monoxide poisoning
+synpic38795|what is abnormal in the mri?|dysembryoplastic neuroepithelial tumor
+synpic60065|what is the primary abnormality in this image?|osteoid osteoma
+synpic18848|what abnormality is seen in the image?|ileal atresia
+synpic49352|what is most alarming about this ct scan?|gastrointestinal bleed, lower gi tract
+synpic23766|what is most alarming about this mri?|moyamoya
+synpic50039|what abnormality is seen in the image?|epidural spinal hematoma
+synpic40000|what is abnormal in the mri?|rathke cleft cyst
+synpic54713|what is most alarming about this ultrasound?|papillary carcinoma of the thyroid
+synpic45150|what abnormality is seen in the image?|meningioma
+synpic47023|what is abnormal in the mri?|non-hodgkin's lymphoma - b-cell lymphoma
+synpic53042|what abnormality is seen in the image?|pituitary apoplexy
+synpic47751|what is the primary abnormality in this image?|arteriovenous malformation
+synpic57218|what is the primary abnormality in this image?|chondromalacia patella in the presence of meniscal tear
+synpic30532|what is abnormal in the x-ray?|complete paraplegia secondary to cord transection and l1 vertebral body puncture from gun shot wound
+synpic22136|what abnormality is seen in the image?|“secondary” finding of breast carcinoma
+synpic24235|what is abnormal in the ultrasound?|ectopic pregnancy
+synpic48112|what is most alarming about this mri?|serous cystadenoma
+synpic14645|what is most alarming about this mri?|clear cell chondrosarcoma
+synpic58329|what abnormality is seen in the image?|avm, arterio-venous malformation, vascular malformation
+synpic50775|what is most alarming about this mri?|spine, epidural abscess
+synpic18902|what abnormality is seen in the image?|paget disease of bone
+synpic35648|what is the primary abnormality in this image?|peripheral vascular disease s/p atherectomy
+synpic26620|what is most alarming about this angiogram?|microcoil embolization of a lower gastrointestinal bleed
+synpic48066|what is the primary abnormality in this image?|avm, arterio-venous malformation, vascular malformation
+synpic39853|what is abnormal in the ct scan?|acute appendicitis
+synpic27338|what is most alarming about this mri?|ewing's sarcoma
+synpic37881|what is abnormal in the mri?|spinal cord astrocytoma
+synpic33629|what is abnormal in the mri?|fat embolism, brain
+synpic53877|what abnormality is seen in the image?|giant tumefactive perivascular spaces
+synpic39463|what is most alarming about this mri?|hsv encephalitis
+synpic43481|what abnormality is seen in the image?|cleft lip
+synpic32126|what abnormality is seen in the image?|endograft leak
+synpic44926|what abnormality is seen in the image?|calcific tendinitis
+synpic58300|what is the primary abnormality in this image?|synovial cyst
+synpic25880|what abnormality is seen in the image?|hiatal hernia
+synpic16292|what is most alarming about this mri?|subependymoma, fourth ventricle
+synpic51136|what is abnormal in the ct scan?|penetrating diaphragm injury after trauma
+synpic49209|what is abnormal in the x-ray?|lipohemarthrosis
+synpic55813|what abnormality is seen in the image?|meningioma
+synpic46847|what abnormality is seen in the image?|meningioma
+synpic45382|what abnormality is seen in the image?|sarcoidosis
+synpic55026|what is most alarming about this mri?|fibrous dysplasia
+synpic21980|what is most alarming about this x-ray?|hydropneumothorax
+synpic48249|what is the primary abnormality in this image?|leptomeningeal carcinomatosis
+synpic54648|what is the primary abnormality in this image?|common carotid occlusion, collateral reconstitution of ipsilateral ica from vertebral artery muscular branches
+synpic16484|what is most alarming about this mammograph?|intramammary lymph node
+synpic43447|what is most alarming about this ct scan?|rectovaginal fistula
+synpic54675|what abnormality is seen in the image?|radiation necrosis
+synpic29463|what is most alarming about this mri?|developmental venous anomaly
+synpic47351|what is abnormal in the ct scan?|renal cell carcinoma
+synpic17228|what abnormality is seen in the image?|tennis leg
+synpic51490|what is most alarming about this ct scan?|foregut cyst
+synpic35880|what is abnormal in the mri?|juvenile pilocytic astrocytoma
+synpic34552|what abnormality is seen in the image?|arteriovenous malformation (avm)
+synpic52166|what is the primary abnormality in this image?|musculoskeletal differential diagnosis
+synpic21188|what is abnormal in the x-ray?|jefferson fracture c1
+synpic57585|what abnormality is seen in the image?|opll - ossification of the posterior longitudinal ligament
+synpic40947|what is the primary abnormality in this image?|cns prenchymal metastasis
+synpic29098|what is the primary abnormality in this image?|infiltrating ductal carcinoma
+synpic44506|what is abnormal in the mri?|dandy-walker malformation
+synpic52364|what is abnormal in the ct scan?|cerebral aneurysm
+synpic57208|what is most alarming about this ct scan?|glioblastoma multiforme (who grade 4 astrocytoma)
+synpic57578|what is most alarming about this ct scan?|persistent trigeminal artery
+synpic58887|what abnormality is seen in the image?|bone metastasis
+synpic50565|what abnormality is seen in the image?|serous cystadenoma (macrocystic variant)
+synpic56114|what abnormality is seen in the image?|anoxic brain injury, anoxia
+synpic23560|what abnormality is seen in the image?|small bowel obstruction secondary to adhesions
+synpic34008|what is most alarming about this ct scan?|pulmonary thromboembolism
+synpic16083|what is the primary abnormality in this image?|cardiogenic pulmonary edema – chf exacerbation secondary to new onset atrial fibrillation
+synpic52004|what is the primary abnormality in this image?|congenital hypoplasia of the internal carotid artery
+synpic15401|what abnormality is seen in the image?|right aortic arch with aberrant left subclavian artery
+synpic57801|what is the primary abnormality in this image?|osteoma skull
+synpic25267|what is abnormal in the gastrointestinal image?|plyoric stenosis
+synpic34632|what abnormality is seen in the image?|cervical nerve root avulsion
+synpic45021|what abnormality is seen in the image?|carotid dissection
+synpic50410|what is the primary abnormality in this image?|brain, cerebral abscess
+synpic47178|what is abnormal in the x-ray?|chondroblastoma
+synpic40398|what is the primary abnormality in this image?|posterior reversible encephalopathy syndrome (pres)
+synpic18681|what abnormality is seen in the image?|pituitary macroadenoma
+synpic38551|what abnormality is seen in the image?|neurocytoma, central neurocytoma
+synpic36540|what abnormality is seen in the image?|hypothalamic hamartoma
+synpic17203|what is abnormal in the ct scan?|hepatic hemangioma
+synpic57633|what is most alarming about this mri?|schwannoma
+synpic56511|what abnormality is seen in the image?|craniopharyngioma
+synpic29500|what is most alarming about this x-ray?|achalasia
+synpic48897|what is abnormal in the mri?|epidermoid cyst
+synpic45196|what abnormality is seen in the image?|ossified posterior longitudinal ligament (opll)
+synpic45828|what is abnormal in the mri?|marked hydrocephalus due to aqueductal stenosis
+synpic60458|what is abnormal in the x-ray?|discoid meniscus
+synpic43524|what is most alarming about this mri?|choroid plexus neoplasm, papilloma, carcinoma
+synpic59568|what is abnormal in the mri?|multiple sclerosis
+synpic48459|what is most alarming about this mri?|spine,  tethered  cord

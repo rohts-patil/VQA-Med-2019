@@ -39,8 +39,8 @@ def run():
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
     print("using ", device)
 
-    train_path = r"train/QAPairsByCategory"
-    valid_path = r"val/QAPairsByCategory"
+    train_path = r"../data/train/QAPairsByCategory"
+    valid_path = r"../data/valid/QAPairsByCategory"
 
     df_train = get_text_data_train(train_path)
     df_valid = get_text_data_valid(valid_path)

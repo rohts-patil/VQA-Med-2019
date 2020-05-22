@@ -1,0 +1,500 @@
+synpic54733|what imaging modality was used to take this image?|ct with iv contrast
+synpic25647|what kind of scan is this?|xr - plain film
+synpic35681|was the mri taken with contrast?|no
+synpic39641|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic35693|is this a noncontrast mri?|yes
+synpic17419|was iv contrast given to the patient?|yes
+synpic32909|what type of contrast did this patient have?|iv
+synpic48040|was the ct scan taken with contrast?|no
+synpic48351|what was this image taken with?|xr - plain film
+synpic49503|was the ct scan taken with contrast?|no
+synpic18176|what imaging modality was used to take this image?|ct with iv contrast
+synpic36498|what type of imaging modality is shown?|xr - plain film
+synpic26850|is this a ct scan?|no
+synpic19508|is this a contrast or noncontrast ct?|contrast
+synpic23496|what imaging modality was used to take this image?|mr - t1w - noncontrast
+synpic25435|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic38894|is this a noncontrast ct?|no
+synpic25620|what is the modality?|xr - plain film
+synpic25634|what imaging method was used?|xr - plain film
+synpic36490|what type of imaging is this?|xr - plain film
+synpic40658|is this a t2 weighted image?|no
+synpic27614|what kind of image is this?|xr - plain film
+synpic26245|is this a ct scan?|no
+synpic25628|what imaging method was used?|xr - plain film
+synpic34446|is this a ct scan?|no
+synpic28899|what kind of scan is this?|xr - plain film
+synpic28331|what type of imaging does this represent?|us - ultrasound
+synpic55791|what imaging modality was used to take this image?|mr - t2 weighted
+synpic32867|was the ct scan taken with contrast?|no
+synpic21201|what was this image taken with?|xr - plain film
+synpic20686|what kind of image is this?|mammograph
+synpic17412|is this a noncontrast ct?|no
+synpic53907|is this a contrast or noncontrast ct?|noncontrast
+synpic24024|in what modality is this image taken?|us - ultrasound
+synpic59540|what type of imaging modality is shown?|mr - adc map (app diff coeff)
+synpic19169|is this image modality t1, t2, or flair?|t2
+synpic52424|was the ct scan taken with contrast?|no
+synpic52430|is this image modality t1, t2, or flair?|t2
+synpic51878|what type of imaging modality is shown?|mr - other pulse seq.
+synpic25109|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic21186|what kind of image is this?|xr - plain film
+synpic52140|is this a contrast or noncontrast ct?|contrast
+synpic32893|what type of imaging modality is shown?|xr - plain film
+synpic25451|with what modality is this image taken?|xr - plain film
+synpic18101|what imaging modality was used to take this image?|xr - plain film
+synpic18115|what is the mr weighting in this image?|t2
+synpic17583|what kind of scan is this?|xr - plain film
+synpic100295|what type of image modality is this?|us - ultrasound
+synpic46243|was the mri taken with contrast?|yes
+synpic38951|what imaging modality is used?|xr - plain film
+synpic60290|is this a ct scan?|yes
+synpic17970|what type of image modality is seen?|xr - plain film
+synpic17780|how was the image taken?|be - barium enema
+synpic28216|what imaging method was used?|ugi - upper gi
+synpic31753|is this a noncontrast ct?|no
+synpic16475|what imaging modality was used to take this image?|ct with iv contrast
+synpic38575|is this a t1 weighted, t2 weighted, or flair image?|t1
+synpic41707|was the mri taken with contrast?|yes
+synpic26950|what imaging modality is seen here?|bas - barium swallow
+synpic18921|what type of image modality is seen?|us - ultrasound
+synpic29054|what imaging modality was used to take this image?|xr - plain film
+synpic56870|is this a ct scan?|no
+synpic21385|what imaging modality was used to take this image?|mr - other pulse seq.
+synpic57577|how was this image taken?|an - angiogram
+synpic40779|was the ct scan taken with contrast?|yes
+synpic49985|is this a ct scan?|yes
+synpic50556|is this a ct scan?|yes
+synpic57239|what imaging modality was used to take this image?|mr - flair
+synpic54730|what imaging modality was used to take this image?|ct with iv contrast
+synpic52631|what imaging modality was used to take this image?|mr - t2 weighted
+synpic28837|is this a contrast or noncontrast ct?|noncontrast
+synpic39709|was the mri taken with contrast?|yes
+synpic61204|what imaging modality is seen here?|xr - plain film
+synpic27523|what type of imaging modality is shown?|ct w/contrast (iv)
+synpic61238|is this a ct scan?|yes
+synpic58532|what imaging modality was used to take this image?|mr - t1w w/gadolinium
+synpic45577|is this an mri image?|no
+synpic39696|what is the mr weighting in this image?|t1
+synpic23157|what imaging modality was used to take this image?|mr t2* gradient,gre,mpgr,swan,swi
+synpic23631|is this a contrast or noncontrast ct?|noncontrast
+synpic27319|how was this image taken?|xr - plain film
+synpic51072|what imaging modality was used to take this image?|mr - t1w - noncontrast
+synpic53659|is this an mri image?|yes
+synpic58095|is this an mri image?|no
+synpic60250|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic40194|is this a contrast or noncontrast ct?|noncontrast
+synpic29645|what imaging modality was used to take this image?|mr - t2 weighted
+synpic31036|was gi contrast given to the patient?|no
+synpic33806|what imaging modality was used to take this image?|mr - t2 weighted
+synpic27873|with what modality is this image taken?|mammograph
+synpic38953|how was this image taken?|xr - plain film
+synpic49172|what imaging modality is used to acquire this picture?|mr - pdw proton density
+synpic59407|is this a t1 weighted image?|no
+synpic43477|what type of imaging does this represent?|xr - plain film
+synpic53314|is this an mri image?|yes
+synpic46876|how is the image taken?|xr - plain film
+synpic28188|what type of imaging modality is seen in this image?|xr - plain film
+synpic47573|was the mri taken with contrast?|no
+synpic30260|what type of imaging is this?|an - angiogram
+synpic45827|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic27046|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic20729|is this a contrast or noncontrast ct?|noncontrast
+synpic30248|is this a noncontrast ct?|no
+synpic53738|is this image modality t1, t2, or flair?|t2
+synpic17620|was gi contrast given to the patient?|no
+synpic47017|is this a t2 weighted image?|no
+synpic41314|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic55403|is this a contrast or noncontrast ct?|noncontrast
+synpic27730|with what modality is this image taken?|us - ultrasound
+synpic58682|what imaging modality was used to take this image?|mr - t1w w/gadolinium
+synpic50023|what type of imaging does this represent?|xr - plain film
+synpic57758|is this an mri image?|yes
+synpic19225|how was the image taken?|mr - flair
+synpic16880|what type of image modality is seen?|xr - plain film
+synpic48730|is this an mri image?|no
+synpic21786|was the ct scan taken with contrast?|no
+synpic25090|was the ct scan taken with contrast?|yes
+synpic58912|is this a ct scan?|no
+synpic35240|what imaging modality was used to take this image?|mr - t2 weighted
+synpic33143|what was this image taken with?|mr - pdw proton density
+synpic28204|what imaging modality was used to take this image?|ct with gi and iv contrast
+synpic26201|what was this image taken with?|xr - plain film
+synpic41271|what kind of scan is this?|xr - plain film
+synpic8182|what is the modality?|be - barium enema
+synpic57188|was the mri taken with contrast?|yes
+synpic43843|what type of imaging modality is used to acquire the image?|an - angiogram
+synpic36210|was gi contrast given to the patient?|no
+synpic58495|is this a t2 weighted image?|no
+synpic40231|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic40782|what imaging modality was used to take this image?|ct noncontrast
+synpic53098|is this a ct scan?|no
+synpic31184|was gi contrast given to the patient?|no
+synpic56123|what imaging method was used?|xr - plain film
+synpic59548|is this a ct scan?|yes
+synpic21418|is this a contrast or noncontrast ct?|contrast
+synpic17814|is this a noncontrast ct?|no
+synpic22893|is this a contrast or noncontrast ct?|contrast
+synpic33236|what type of image modality is this?|an - angiogram
+synpic59945|what type of image modality is this?|cta - ct angiography
+synpic27492|what is the mr weighting in this image?|t2
+synpic45565|was the ct scan taken with contrast?|no
+synpic16883|is this a t1 weighted image?|no
+synpic43699|is this a noncontrast mri?|yes
+synpic23151|what imaging modality was used to take this image?|xr - plain film
+synpic21020|is this a noncontrast ct?|yes
+synpic52596|what imaging modality is used?|xr - plain film
+synpic56901|is this a ct scan?|no
+synpic38404|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic40597|was the ct scan taken with contrast?|yes
+synpic26612|what type of imaging was used?|an - angiogram
+synpic100332|what type of image modality is this?|xr - plain film
+synpic26809|was the ct scan taken with contrast?|no
+synpic59005|how was the image taken?|mr - flair
+synpic43576|what modality is used to take this image?|xr - plain film
+synpic33913|is this image modality t1, t2, or flair?|t2
+synpic23255|is this a contrast or noncontrast ct?|noncontrast
+synpic21442|is this a ct scan?|yes
+synpic38885|was gi contrast given to the patient?|no
+synpic17866|what type of imaging modality is shown?|ct w/contrast (iv)
+synpic24512|is 	this a t1 weighted image?|yes
+synpic24506|is 	this a t1 weighted image?|yes
+synpic39557|what type of imaging modality is used to acquire the image?|xr - plain film
+synpic33293|what is the modality of this image?|ugi - upper gi
+synpic13143|is this a t2 weighted image?|no
+synpic17319|what imaging modality was used to take this image?|ct noncontrast
+synpic33481|what imaging modality was used to take this image?|xr - plain film
+synpic24857|is this an mri image?|no
+synpic37195|is this a noncontrast ct?|no
+synpic48796|is this an mri image?|no
+synpic47664|what imaging modality was used to take this image?|mr - t1w w/gd (fat suppressed)
+synpic56027|is this a noncontrast ct?|yes
+synpic42084|is this a contrast or noncontrast mri?|noncontrast
+synpic37433|is this a t1 weighted image?|no
+synpic34853|which image modality is this?|mr - flair
+synpic32749|is this a ct scan?|yes
+synpic60966|what type of imaging modality is seen in this image?|xr - plain film
+synpic25382|what is the modality?|pet-ct fusion
+synpic39967|is this a t2 weighted image?|no
+synpic27768|how is the image taken?|an - angiogram
+synpic30200|what modality is shown?|xr - plain film
+synpic31678|is this an mri image?|no
+synpic53994|is this a contrast or noncontrast ct?|noncontrast
+synpic49072|what imaging modality was used to take this image?|mr - t1w - noncontrast
+synpic19651|was the mri taken with contrast?|no
+synpic53980|is this a t1 weighted, t2 weighted, or flair image?|flair
+synpic33084|what type of imaging modality is shown?|ct - gi & iv contrast
+synpic56608|what imaging modality was used to take this image?|ct noncontrast
+synpic48422|what is the mr weighting in this image?|t1
+synpic46419|is this a ct scan?|no
+synpic17124|what type of imaging modality is shown?|xr - plain film
+synpic47049|what imaging modality was used to take this image?|ct with iv contrast
+synpic40915|is this a noncontrast mri?|no
+synpic51818|is this a noncontrast ct?|yes
+synpic32401|what type of imaging modality is shown?|xr - plain film
+synpic34070|what type of imaging modality is shown?|ct - gi & iv contrast
+synpic55854|what imaging modality is used?|mra - mr angiography/venography
+synpic29237|what modality was used to take this image?|xr - plain film
+synpic39193|was the mri taken with contrast?|no
+synpic33455|what type of imaging modality is shown?|us - ultrasound
+synpic41564|is this a noncontrast mri?|yes
+synpic54169|is this a noncontrast mri?|yes
+synpic57312|was the ct scan taken with contrast?|no
+synpic54627|what imaging modality was used to take this image?|mr - t2 weighted
+synpic58790|what imaging modality was used to take this image?|ct noncontrast
+synpic58974|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic35568|is this a noncontrast ct?|yes
+synpic53835|what is the modality of this image?|mr - other pulse seq.
+synpic47855|was the mri taken with contrast?|no
+synpic58008|what imaging modality was used to take this image?|ct noncontrast
+synpic15120|is this a t1 weighted image?|no
+synpic33695|how was this image taken?|xr - plain film
+synpic100545|what type of imaging modality is shown?|xr - plain film
+synpic58544|what imaging modality was used to take this image?|mr - flair
+synpic32825|what is the modality?|xr - plain film
+synpic41613|is this an mri image?|no
+synpic39569|what type of imaging is this?|xr - plain film
+synpic24538|what type of imaging was used?|xr - plain film
+synpic17121|what type of imaging modality is seen in this image?|xr - plain film
+synpic34061|how was this image taken?|us - ultrasound
+synpic36110|with what modality is this image taken?|xr - plain film
+synpic56814|what is the modality?|mr - pdw proton density
+synpic43955|is this a t1 weighted image?|no
+synpic54434|is this a t1 weighted image?|no
+synpic24879|what type of contrast did this patient have?|gi and iv
+synpic39828|what imaging modality was used to take this image?|mr - t1w w/gadolinium
+synpic48021|what imaging modality was used to take this image?|mr - t1w w/gadolinium
+synpic49129|what type of contrast did this patient have?|iv
+synpic58742|is this a contrast or noncontrast ct?|noncontrast
+synpic15871|was gi contrast given to the patient?|no
+synpic58965|is this a ct scan?|no
+synpic39357|what modality is shown?|xr - plain film
+synpic60223|is this image modality t1, t2, or flair?|t2
+synpic34841|is this a ct scan?|no
+synpic21041|what type of contrast did this patient have?|iv
+synpic55071|is this a contrast or noncontrast mri?|contrast
+synpic41825|is this a t1 weighted, t2 weighted, or flair image?|t1
+synpic55850|was the mri taken with contrast?|no
+synpic34276|is this a t1 weighted image?|no
+synpic25384|is this image modality t1, t2, or flair?|t2
+synpic43767|what type of imaging modality is shown?|ct w/contrast (iv)
+synpic23252|what imaging modality is used?|us - ultrasound
+synpic53789|is this a noncontrast mri?|no
+synpic52468|is this a noncontrast mri?|no
+synpic42135|is this a ct scan?|yes
+synpic58184|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic48397|is this a t1 weighted, t2 weighted, or flair image?|t1
+synpic45466|what type of imaging is this?|mr - stir
+synpic46966|what modality is used to take this image?|xr - plain film
+synpic39618|what type of imaging was used?|xr - plain film
+synpic18359|is this a t1 weighted image?|no
+synpic56036|is this a t2 weighted image?|no
+synpic49116|is this a t1 weighted, t2 weighted, or flair image?|t1
+synpic53199|is this a ct scan?|yes
+synpic38739|how was the image taken?|us - ultrasound
+synpic17902|what is the mr weighting in this image?|t2
+synpic22952|is this a noncontrast ct?|no
+synpic16361|is this a t2 weighted image?|no
+synpic19052|what imaging modality was used to take this image?|ct noncontrast
+synpic27433|what type of imaging was used?|us - ultrasound
+synpic54393|is this image modality t1, t2, or flair?|t2
+synpic42268|is this a noncontrast ct?|no
+synpic17527|what modality is shown?|xr - plain film
+synpic43604|what is the modality?|us - ultrasound
+synpic50917|is this image modality t1, t2, or flair?|t2
+synpic39751|with what modality is this image taken?|xr - plain film
+synpic21687|what is the modality?|xr - plain film
+synpic35180|was gi contrast given to the patient?|no
+synpic18012|is this image modality t1, t2, or flair?|flair
+synpic16765|what kind of image is this?|xr - plain film
+synpic19640|what modality is used to take this image?|xr - plain film
+synpic54017|is this a noncontrast mri?|no
+synpic33926|is this a ct scan?|yes
+synpic59241|is this a t2 weighted image?|no
+synpic44990|is this a t1 weighted image?|no
+synpic28094|what type of imaging modality is shown?|xr - plain film
+synpic35947|what imaging modality was used to take this image?|mr - t2 weighted
+synpic41793|is this image modality t1, t2, or flair?|t2
+synpic43423|is this a t2 weighted image?|no
+synpic16378|is this a noncontrast ct?|no
+synpic33107|is this an mri image?|yes
+synpic47877|is this a contrast or noncontrast mri?|contrast
+synpic22547|is this a ct scan?|yes
+synpic33489|is this a noncontrast ct?|no
+synpic20393|how was this image taken?|xr - plain film
+synpic50674|what is the mr weighting in this image?|t2
+synpic46002|is this a ct scan?|yes
+synpic41751|with what modality is this image taken?|an - angiogram
+synpic21890|what imaging modality was used?|mr - other pulse seq.
+synpic9384|what imaging modality is used to acquire this picture?|xr - plain film
+synpic31315|what imaging method was used?|mammograph
+synpic38331|what imaging modality is seen here?|xr - plain film
+synpic25374|what imaging modality was used?|us - ultrasound
+synpic54214|is this an mri image?|no
+synpic56615|what modality was used to take this image?|cta - ct angiography
+synpic37599|what imaging modality was used to take this image?|mr - t1w w/gadolinium
+synpic55308|was gi contrast given to the patient?|no
+synpic45133|is this a ct scan?|yes
+synpic54994|is this an mri image?|no
+synpic41341|is this a noncontrast ct?|yes
+synpic54766|what imaging modality was used to take this image?|mr - t1w w/gd (fat suppressed)
+synpic22196|is this a noncontrast ct?|yes
+synpic29772|how was this image taken?|xr - plain film
+synpic18008|what imaging modality is used?|xr - plain film
+synpic30800|what type of image modality is seen?|mra - mr angiography/venography
+synpic41960|what type of imaging modality is seen in this image?|ugi - upper gi
+synpic28295|is this a contrast or noncontrast ct?|noncontrast
+synpic24487|which image modality is this?|an - angiogram
+synpic20187|in what modality is this image taken?|an - angiogram
+synpic26246|is this a ct scan?|no
+synpic16352|was gi contrast given to the patient?|no
+synpic59337|what type of contrast did this patient have?|iv
+synpic48212|how was the image taken?|xr - plain film
+synpic57871|how was the image taken?|an - angiogram
+synpic34454|what kind of image is this?|bas - barium swallow
+synpic17299|what kind of image is this?|an - angiogram
+synpic28733|was the ct scan taken with contrast?|yes
+synpic55727|is 	this a t1 weighted image?|yes
+synpic45246|what imaging modality was used to take this image?|ct noncontrast
+synpic57642|is this an mri image?|no
+synpic60171|was the ct scan taken with contrast?|no
+synpic29565|what kind of scan is this?|xr - plain film
+synpic19303|what type of imaging does this represent?|mammograph
+synpic51353|what is the mr weighting in this image?|t1
+synpic26332|was iv contrast given to the patient?|yes
+synpic53785|what is the mr weighting in this image?|t2
+synpic53024|is this a contrast or noncontrast ct?|noncontrast
+synpic45861|was gi contrast given to the patient?|no
+synpic31104|was the ct scan taken with contrast?|no
+synpic49242|is this a t2 weighted image?|no
+synpic41636|was the ct scan taken with contrast?|no
+synpic58401|what type of imaging modality is seen in this image?|an - angiogram
+synpic51357|is this image modality t1, t2, or flair?|flair
+synpic44955|is this an mri image?|yes
+synpic23070|was the ct scan taken with contrast?|yes
+synpic47469|what imaging modality was used to take this image?|ct with iv contrast
+synpic19529|was the ct scan taken with contrast?|yes
+synpic46993|is this a ct scan?|no
+synpic28051|is this a noncontrast ct?|yes
+synpic58993|is this a t1 weighted image?|no
+synpic43431|what is the modality?|xr - plain film
+synpic20814|what is the modality?|mammograph
+synpic46549|how is the image taken?|be - barium enema
+synpic54830|is this an mri image?|no
+synpic40845|is this a contrast or noncontrast mri?|contrast
+synpic35203|what imaging modality was used to take this image?|mr - t1w - noncontrast
+synpic58951|what imaging modality is seen here?|an - angiogram
+synpic51752|what was this image taken with?|us - ultrasound
+synpic19716|what is the mr weighting in this image?|t1
+synpic56001|what imaging modality is used?|an - angiogram
+synpic55508|is this an mri image?|no
+synpic32746|what imaging modality was used to take this image?|xr - plain film
+synpic52918|is this a t2 weighted image?|no
+synpic21672|what is the modality?|us - ultrasound
+synpic51395|is this a contrast or noncontrast mri?|noncontrast
+synpic27571|is this a ct scan?|yes
+synpic50921|is this a t1 weighted, t2 weighted, or flair image?|t1
+synpic53596|what type of image modality is seen?|mr - other pulse seq.
+synpic32632|in what modality is this image taken?|xr - plain film
+synpic59939|is this a ct scan?|no
+synpic22390|is this an mri image?|no
+synpic28454|is this a noncontrast ct?|no
+synpic40703|is this a t1 weighted, t2 weighted, or flair image?|t1
+synpic38876|is this a t1 weighted image?|no
+synpic15700|what type of image modality is seen?|mra - mr angiography/venography
+synpic21328|is this a t2 weighted image?|no
+synpic44995|which image modality is this?|mr - flair
+synpic48836|what type of imaging does this represent?|us - ultrasound
+synpic26651|which image modality is this?|xr - plain film
+synpic57862|what is the modality?|cta - ct angiography
+synpic43817|is this a t1 weighted image?|no
+synpic24495|how was this image taken?|xr - plain film
+synpic22755|was the ct scan taken with contrast?|no
+synpic34123|is this a contrast or noncontrast ct?|contrast
+synpic22741|what imaging modality was used to take this image?|mr - t1w - noncontrast
+synpic33102|what kind of image is this?|xr - plain film
+synpic47683|is this a contrast or noncontrast ct?|contrast
+synpic19933|was the ct scan taken with contrast?|yes
+synpic53152|is this a t2 weighted image?|no
+synpic40660|is this image modality t1, t2, or flair?|t2
+synpic31933|is this a ct scan?|yes
+synpic24899|what type of imaging does this represent?|xr - plain film
+synpic55682|was the ct scan taken with contrast?|no
+synpic53581|which image modality is this?|xr - plain film
+synpic11771|is this an mri image?|no
+synpic31884|what type of imaging modality is shown?|ct - gi & iv contrast
+synpic17664|what modality is used to take this image?|xr - plain film
+synpic36696|was iv contrast given to the patient?|yes
+synpic53727|is this a noncontrast ct?|no
+synpic42170|what type of imaging was used?|xr - plain film
+synpic34794|is this image modality t1, t2, or flair?|flair
+synpic49970|is this a contrast or noncontrast ct?|contrast
+synpic47975|what modality was used to take this image?|be - barium enema
+synpic40559|is this image modality t1, t2, or flair?|t2
+synpic57757|is this a noncontrast mri?|no
+synpic21602|what imaging modality is seen here?|xr - plain film
+synpic47342|what imaging modality was used to take this image?|mr - flair
+synpic16119|is this a t2 weighted image?|no
+synpic48065|how was the image taken?|mr - flair
+synpic51285|is this a contrast or noncontrast mri?|contrast
+synpic36236|what is the modality?|xr - plain film
+synpic28587|what type of imaging modality is shown?|us - ultrasound
+synpic50366|is this a contrast or noncontrast mri?|noncontrast
+synpic28544|what type of imaging is this?|ugi - upper gi
+synpic37470|what modality was used to take this image?|an - angiogram
+synpic38742|is this a noncontrast ct?|no
+synpic42788|is this a contrast or noncontrast mri?|contrast
+synpic43455|what type of imaging does this represent?|xr - plain film
+synpic55545|how was the image taken?|mr - flair
+synpic38795|what imaging modality was used to take this image?|mr - t2 weighted
+synpic60065|is this an mri image?|yes
+synpic18848|with what modality is this image taken?|bas - barium swallow
+synpic49352|what type of imaging modality is shown?|ct w/contrast (iv)
+synpic23766|is this an mri image?|yes
+synpic50039|is this image modality t1, t2, or flair?|t2
+synpic40000|is this a contrast or noncontrast mri?|contrast
+synpic54713|what type of image modality is this?|us - ultrasound
+synpic45150|is 	this a t1 weighted image?|yes
+synpic47023|is this a t1 weighted, t2 weighted, or flair image?|t1
+synpic53042|is this a t2 weighted image?|no
+synpic47751|what type of imaging is this?|mra - mr angiography/venography
+synpic57218|what type of imaging does this represent?|mr - other pulse seq.
+synpic30532|how is the image taken?|xr - plain film
+synpic22136|in what modality is this image taken?|mammograph
+synpic24235|in what modality is this image taken?|us - ultrasound
+synpic48112|what imaging modality was used to take this image?|mr - t2 weighted
+synpic14645|is this a contrast or noncontrast mri?|noncontrast
+synpic58329|what imaging modality is seen here?|mra - mr angiography/venography
+synpic50775|is this an mri image?|yes
+synpic18902|with what modality is this image taken?|xr - plain film
+synpic35648|what kind of scan is this?|an - angiogram
+synpic26620|what kind of image is this?|an - angiogram
+synpic48066|is this a t1 weighted, t2 weighted, or flair image?|t1
+synpic39853|was iv contrast given to the patient?|yes
+synpic27338|is this a noncontrast mri?|yes
+synpic37881|is this a t1 weighted, t2 weighted, or flair image?|t1
+synpic33629|is this a t1 weighted, t2 weighted, or flair image?|flair
+synpic53877|is this a t1 weighted image?|no
+synpic39463|is this an mri image?|yes
+synpic43481|what type of imaging modality is used to acquire the image?|us - ultrasound
+synpic32126|what type of imaging modality is shown?|ct w/contrast (iv)
+synpic44926|what imaging modality was used to take this image?|mr - t2 weighted
+synpic58300|what is the mr weighting in this image?|t2
+synpic25880|what type of image modality is seen?|bas - barium swallow
+synpic16292|what is the mr weighting in this image?|t1
+synpic51136|was gi contrast given to the patient?|no
+synpic49209|what kind of scan is this?|xr - plain film
+synpic55813|how was the image taken?|mr - flair
+synpic46847|was the mri taken with contrast?|yes
+synpic45382|is this a t1 weighted image?|no
+synpic55026|is this a t1 weighted image?|no
+synpic21980|what modality is used to take this image?|xr - plain film
+synpic48249|what imaging modality was used to take this image?|mr - t1w w/gadolinium
+synpic54648|how was the image taken?|an - angiogram
+synpic16484|what was this image taken with?|mammograph
+synpic43447|what type of contrast did this patient have?|gi and iv
+synpic54675|what imaging modality was used to take this image?|mr - t1w w/gadolinium
+synpic29463|is this an mri image?|yes
+synpic47351|is this a contrast or noncontrast ct?|contrast
+synpic17228|is this a t2 weighted image?|no
+synpic51490|was iv contrast given to the patient?|yes
+synpic35880|is this a noncontrast mri?|yes
+synpic34552|is this an mri image?|yes
+synpic52166|is this a ct scan?|yes
+synpic21188|what modality was used to take this image?|xr - plain film
+synpic57585|how is the image taken?|xr - plain film
+synpic40947|what is the mr weighting in this image?|t1
+synpic29098|what type of image modality is seen?|mammograph
+synpic44506|is this a t2 weighted image?|no
+synpic52364|is this a contrast or noncontrast ct?|contrast
+synpic57208|was the ct scan taken with contrast?|no
+synpic57578|with what modality is this image taken?|cta - ct angiography
+synpic58887|what imaging modality was used to take this image?|ct with iv contrast
+synpic50565|was gi contrast given to the patient?|no
+synpic56114|which image modality is this?|mr - flair
+synpic23560|is this a ct scan?|yes
+synpic34008|was gi contrast given to the patient?|no
+synpic16083|is this a contrast or noncontrast ct?|noncontrast
+synpic52004|what type of imaging modality is seen in this image?|us - ultrasound
+synpic15401|which image modality is this?|xr - plain film
+synpic57801|what imaging modality was used to take this image?|ct noncontrast
+synpic25267|what was this image taken with?|ugi - upper gi
+synpic34632|what imaging modality was used to take this image?|ct noncontrast
+synpic45021|what type of imaging modality is used to acquire the image?|cta - ct angiography
+synpic50410|what is the mr weighting in this image?|t1
+synpic47178|what is the modality of this image?|xr - plain film
+synpic40398|is this a t1 weighted, t2 weighted, or flair image?|t2
+synpic18681|is this a noncontrast mri?|yes
+synpic38551|was the ct scan taken with contrast?|no
+synpic36540|is this a t2 weighted image?|no
+synpic17203|what type of imaging modality is shown?|ct w/contrast (iv)
+synpic57633|is this a t2 weighted image?|no
+synpic56511|is this a t1 weighted, t2 weighted, or flair image?|t1
+synpic29500|what modality was used to take this image?|xr - plain film
+synpic48897|is this image modality t1, t2, or flair?|t2
+synpic45196|is this an mri image?|yes
+synpic45828|is this a noncontrast mri?|yes
+synpic60458|what type of imaging is this?|xr - plain film
+synpic43524|is 	this a t1 weighted image?|yes
+synpic59568|is this a t1 weighted, t2 weighted, or flair image?|flair
+synpic48459|is this a contrast or noncontrast mri?|contrast

@@ -19,7 +19,7 @@ def get_text_data_train(path):
         )
         df_temp["label"] = df_temp.apply(
             lambda x: label_dict.get(
-                (filename.split("/")[-1].replace("_train.txt", ""))
+                (filename.split("\\")[-1].replace("_train.txt", ""))
             ),
             axis=1,
         )
@@ -37,7 +37,7 @@ def get_text_data_valid(path):
             filename, delimiter="|", names=["id", "question", "answer"]
         )
         df_temp["label"] = df_temp.apply(
-            lambda x: label_dict.get((filename.split("/")[-1].replace("_val.txt", ""))),
+            lambda x: label_dict.get((filename.split("\\")[-1].replace("_val.txt", ""))),
             axis=1,
         )
         dfs.append(df_temp)

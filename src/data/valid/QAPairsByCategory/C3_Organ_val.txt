@@ -1,0 +1,500 @@
+synpic54733|what organ system is shown in the image?|face, sinuses, and neck
+synpic25647|what organ system is being imaged?|lung, mediastinum, pleura
+synpic35681|what part of the body is being imaged?|breast
+synpic39641|what organ system is pictured here?|musculoskeletal
+synpic35693|what is the organ principally shown in this mri?|heart and great vessels
+synpic17419|what organ systems can be evaluated with this ct scan?|gastrointestinal
+synpic32909|the ct scan shows what organ system?|gastrointestinal
+synpic48040|what organ system is primarily present in this image?|skull and contents
+synpic48351|what organ system is being imaged?|lung, mediastinum, pleura
+synpic49503|what part of the body is being imaged?|skull and contents
+synpic18176|the ct scan shows what organ system?|gastrointestinal
+synpic36498|what part of the body does this x-ray show?|lung, mediastinum, pleura
+synpic26850|what organ system is imaged?|heart and great vessels
+synpic19508|what is the organ system in this image?|genitourinary
+synpic23496|what organ system is visualized?|skull and contents
+synpic25435|which organ is captured by this mri?|skull and contents
+synpic38894|what organ system is evaluated primarily?|gastrointestinal
+synpic25620|what organ systems can be evaluated with this x-ray?|musculoskeletal
+synpic25634|the x-ray shows what organ system?|musculoskeletal
+synpic36490|what is the organ principally shown in this x-ray?|skull and contents
+synpic40658|which organ system is imaged?|skull and contents
+synpic27614|what organ system is primarily present in this image?|musculoskeletal
+synpic26245|what part of the body is being imaged here?|skull and contents
+synpic25628|what organ systems can be evaluated with this x-ray?|musculoskeletal
+synpic34446|what organ system is shown in this mri?|face, sinuses, and neck
+synpic28899|what organ is this image of?|musculoskeletal
+synpic28331|what organ system is visualized?|genitourinary
+synpic55791|what organ system is imaged?|skull and contents
+synpic32867|what organ system is shown in the image?|skull and contents
+synpic21201|which organ system is shown in the x-ray?|musculoskeletal
+synpic20686|what organ is this image of?|breast
+synpic17412|what part of the body is being imaged?|gastrointestinal
+synpic53907|what organ system is displayed in this ct scan?|face, sinuses, and neck
+synpic24024|what organ system is displayed in this ultrasound?|genitourinary
+synpic59540|what part of the body is being imaged?|skull and contents
+synpic19169|what organ is this image of?|musculoskeletal
+synpic52424|what is one organ system seen in this image?|spine and contents
+synpic52430|what is the organ principally shown in this mri?|musculoskeletal
+synpic51878|what organ is this mri showing?|gastrointestinal
+synpic25109|what organ is this image of?|skull and contents
+synpic21186|what part of the body is being imaged here?|musculoskeletal
+synpic52140|what part of the body is being imaged here?|face, sinuses, and neck
+synpic32893|what part of the body is being imaged?|gastrointestinal
+synpic25451|what organ system is evaluated primarily?|lung, mediastinum, pleura
+synpic18101|the x-ray shows what organ system?|spine and contents
+synpic18115|what organ system is pictured here?|musculoskeletal
+synpic17583|what organ system is visualized?|musculoskeletal
+synpic100295|what is one organ system seen in this image?|genitourinary
+synpic46243|what organ system is shown in this mri?|spine and contents
+synpic38951|what organ system is visualized?|musculoskeletal
+synpic60290|the ct scan shows what organ system?|genitourinary
+synpic17970|what organ system is shown in the image?|musculoskeletal
+synpic17780|what part of the body does this gastrointestinal image show?|gastrointestinal
+synpic28216|what is the organ principally shown in this gastrointestinal image?|gastrointestinal
+synpic31753|what organ is this ct scan showing?|vascular and lymphatic
+synpic16475|what organ system is pictured here?|gastrointestinal
+synpic38575|what organ system is displayed in this mri?|skull and contents
+synpic41707|what organ system is primarily present in this image?|spine and contents
+synpic26950|what organ system is shown in the image?|gastrointestinal
+synpic18921|what organ system is primarily present in this image?|genitourinary
+synpic29054|what organ is this x-ray showing?|musculoskeletal
+synpic56870|what is one organ system seen in this image?|spine and contents
+synpic21385|the mri shows what organ system?|skull and contents
+synpic57577|what organ system is imaged?|skull and contents
+synpic40779|what organ system is visualized?|gastrointestinal
+synpic49985|what organ system is shown in the image?|spine and contents
+synpic50556|what organ system is visualized?|skull and contents
+synpic57239|which organ system is shown in the mri?|skull and contents
+synpic54730|what organ system is being imaged?|gastrointestinal
+synpic52631|which organ system is shown in the mri?|skull and contents
+synpic28837|which organ system is imaged?|skull and contents
+synpic39709|what organ system is evaluated primarily?|skull and contents
+synpic61204|what part of the body is being imaged here?|musculoskeletal
+synpic27523|what organ is this ct scan showing?|lung, mediastinum, pleura
+synpic61238|what organ system is evaluated primarily?|skull and contents
+synpic58532|what is the organ principally shown in this mri?|skull and contents
+synpic45577|what part of the body is being imaged here?|skull and contents
+synpic39696|what is the organ system in this image?|skull and contents
+synpic23157|what organ system is primarily present in this image?|skull and contents
+synpic23631|what organ system is visualized?|skull and contents
+synpic27319|which organ is captured by this x-ray?|musculoskeletal
+synpic51072|which organ system is imaged?|skull and contents
+synpic53659|what organ system is pictured here?|lung, mediastinum, pleura
+synpic58095|what organ is this ct scan showing?|gastrointestinal
+synpic60250|what organ is this image of?|skull and contents
+synpic40194|what part of the body does this ct scan show?|musculoskeletal
+synpic29645|what organ system is primarily present in this image?|musculoskeletal
+synpic31036|what organ system is primarily present in this image?|lung, mediastinum, pleura
+synpic33806|what part of the body is being imaged here?|skull and contents
+synpic27873|what organ is this image showing?|breast
+synpic38953|what is the organ principally shown in this x-ray?|musculoskeletal
+synpic49172|what organ system is primarily present in this image?|musculoskeletal
+synpic59407|what is one organ system seen in this image?|face, sinuses, and neck
+synpic43477|what organ system is imaged?|musculoskeletal
+synpic53314|what is the organ system in this image?|skull and contents
+synpic46876|what part of the body does this x-ray show?|lung, mediastinum, pleura
+synpic28188|what organ system is visualized?|musculoskeletal
+synpic47573|what organ is this image of?|skull and contents
+synpic30260|what organ system is being imaged?|vascular and lymphatic
+synpic45827|which organ system is imaged?|skull and contents
+synpic27046|what organ system is visualized?|musculoskeletal
+synpic20729|the ct scan shows what organ system?|spine and contents
+synpic30248|which organ system is shown in the ct scan?|heart and great vessels
+synpic53738|what organ system is shown in the image?|spine and contents
+synpic17620|what organ is this ct scan showing?|gastrointestinal
+synpic47017|what organ system is displayed in this mri?|skull and contents
+synpic41314|what organ system is shown in the image?|skull and contents
+synpic55403|what is the organ principally shown in this ct scan?|skull and contents
+synpic27730|what part of the body is being imaged?|gastrointestinal
+synpic58682|which organ system is imaged?|spine and contents
+synpic50023|what organ system is imaged?|lung, mediastinum, pleura
+synpic57758|the mri shows what organ system?|skull and contents
+synpic19225|what organ systems can be evaluated with this mri?|skull and contents
+synpic16880|which organ system is imaged?|musculoskeletal
+synpic48730|what organ system is imaged?|genitourinary
+synpic21786|what organ system is evaluated primarily?|face, sinuses, and neck
+synpic25090|which organ system is shown in the ct scan?|gastrointestinal
+synpic58912|what organ systems can be evaluated with this mri?|skull and contents
+synpic35240|what organ is this image of?|skull and contents
+synpic33143|which organ system is shown in the mri?|musculoskeletal
+synpic28204|what organ system is shown in the image?|gastrointestinal
+synpic26201|what is the organ principally shown in this x-ray?|skull and contents
+synpic41271|which organ is captured by this x-ray?|musculoskeletal
+synpic8182|what is the organ system in this image?|gastrointestinal
+synpic57188|what organ system is displayed in this mri?|skull and contents
+synpic43843|what organ system is visualized?|skull and contents
+synpic36210|what organ system is pictured here?|face, sinuses, and neck
+synpic58495|what organ system is pictured here?|skull and contents
+synpic40231|what part of the body does this mri show?|skull and contents
+synpic40782|what organ systems can be evaluated with this ct scan?|spine and contents
+synpic53098|what is the organ principally shown in this mri?|skull and contents
+synpic31184|the ct scan shows what organ system?|genitourinary
+synpic56123|what organ system is primarily present in this image?|musculoskeletal
+synpic59548|the ct scan shows what organ system?|skull and contents
+synpic21418|what organ system is shown in the image?|lung, mediastinum, pleura
+synpic17814|what part of the body is being imaged?|gastrointestinal
+synpic22893|which organ system is imaged?|face, sinuses, and neck
+synpic33236|what organ system is shown in this angiogram?|vascular and lymphatic
+synpic59945|which organ is captured by this ct scan?|skull and contents
+synpic27492|what organ system is shown in the image?|skull and contents
+synpic45565|what organ is this ct scan showing?|lung, mediastinum, pleura
+synpic16883|what part of the body does this mri show?|musculoskeletal
+synpic43699|what organ is this mri showing?|skull and contents
+synpic23151|what organ system is shown in the image?|lung, mediastinum, pleura
+synpic21020|what organ system is pictured here?|skull and contents
+synpic52596|what organ system is pictured here?|spine and contents
+synpic56901|what organ system is displayed in this mri?|spine and contents
+synpic38404|what organ system is shown in the image?|spine and contents
+synpic40597|which organ is captured by this ct scan?|genitourinary
+synpic26612|what organ system is being imaged?|skull and contents
+synpic100332|what part of the body is being imaged?|spine and contents
+synpic26809|what organ is this ct scan showing?|genitourinary
+synpic59005|what organ system is shown in the image?|skull and contents
+synpic43576|which organ system is shown in the x-ray?|musculoskeletal
+synpic33913|what is one organ system seen in this image?|genitourinary
+synpic23255|what organ systems can be evaluated with this ct scan?|skull and contents
+synpic21442|what organ system is shown in the image?|genitourinary
+synpic38885|which organ system is shown in the ct scan?|gastrointestinal
+synpic17866|which organ is captured by this ct scan?|genitourinary
+synpic24512|what organ system is primarily present in this image?|skull and contents
+synpic24506|what organ system is displayed in this mri?|skull and contents
+synpic39557|what part of the body does this x-ray show?|lung, mediastinum, pleura
+synpic33293|what part of the body is being imaged here?|gastrointestinal
+synpic13143|which organ is captured by this mri?|face, sinuses, and neck
+synpic17319|what is one organ system seen in this image?|gastrointestinal
+synpic33481|what organ is this image of?|lung, mediastinum, pleura
+synpic24857|what organ system is shown in this ct scan?|skull and contents
+synpic37195|what is the organ principally shown in this ct scan?|genitourinary
+synpic48796|what organ system is primarily present in this image?|lung, mediastinum, pleura
+synpic47664|what organ system is evaluated primarily?|skull and contents
+synpic56027|what organ system is evaluated primarily?|skull and contents
+synpic42084|what organ is this image of?|skull and contents
+synpic37433|what organ system is imaged?|face, sinuses, and neck
+synpic34853|which organ system is imaged?|skull and contents
+synpic32749|what organ system is visualized?|spine and contents
+synpic60966|what organ system is evaluated primarily?|lung, mediastinum, pleura
+synpic25382|what organ system is shown in the image?|vascular and lymphatic
+synpic39967|what organ system is pictured here?|skull and contents
+synpic27768|what organ system is shown in this angiogram?|vascular and lymphatic
+synpic30200|what organ system is visualized?|face, sinuses, and neck
+synpic31678|what organ system is pictured here?|musculoskeletal
+synpic53994|what organ system is being imaged?|skull and contents
+synpic49072|what is the organ principally shown in this mri?|skull and contents
+synpic19651|what organ system is being imaged?|spine and contents
+synpic53980|what organ systems can be evaluated with this mri?|skull and contents
+synpic33084|what is the organ system in this image?|genitourinary
+synpic56608|what organ systems can be evaluated with this ct scan?|spine and contents
+synpic48422|what is the organ principally shown in this mri?|skull and contents
+synpic46419|what organ system is imaged?|skull and contents
+synpic17124|which organ is captured by this x-ray?|musculoskeletal
+synpic47049|which organ is captured by this ct scan?|gastrointestinal
+synpic40915|what organ is this image of?|skull and contents
+synpic51818|what organ is this image of?|skull and contents
+synpic32401|the x-ray shows what organ system?|face, sinuses, and neck
+synpic34070|what organ system is evaluated primarily?|gastrointestinal
+synpic55854|what organ system is visualized?|skull and contents
+synpic29237|what organ system is displayed in this x-ray?|musculoskeletal
+synpic39193|what organ system is visualized?|musculoskeletal
+synpic33455|what organ system is imaged?|genitourinary
+synpic41564|what is one organ system seen in this image?|skull and contents
+synpic54169|what organ system is evaluated primarily?|skull and contents
+synpic57312|what organ system is shown in this ct scan?|spine and contents
+synpic54627|what organ systems can be evaluated with this mri?|skull and contents
+synpic58790|what is the organ principally shown in this ct scan?|skull and contents
+synpic58974|what organ system is shown in the image?|skull and contents
+synpic35568|what organ is this ct scan showing?|skull and contents
+synpic53835|what organ system is being imaged?|heart and great vessels
+synpic47855|the mri shows what organ system?|spine and contents
+synpic58008|what part of the body does this ct scan show?|spine and contents
+synpic15120|what organ system is imaged?|spine and contents
+synpic33695|which organ system is imaged?|musculoskeletal
+synpic100545|what organ system is being imaged?|spine and contents
+synpic58544|what organ system is primarily present in this image?|skull and contents
+synpic32825|what part of the body is being imaged?|gastrointestinal
+synpic41613|what organ system is shown in the image?|gastrointestinal
+synpic39569|what organ is this x-ray showing?|musculoskeletal
+synpic24538|what part of the body is being imaged?|heart and great vessels
+synpic17121|what organ systems can be evaluated with this x-ray?|breast
+synpic34061|what organ is this image of?|gastrointestinal
+synpic36110|what organ system is pictured here?|musculoskeletal
+synpic56814|what organ is this image of?|musculoskeletal
+synpic43955|which organ system is imaged?|musculoskeletal
+synpic54434|what organ system is evaluated primarily?|skull and contents
+synpic24879|what organ system is being imaged?|gastrointestinal
+synpic39828|what organ systems can be evaluated with this mri?|skull and contents
+synpic48021|what organ system is imaged?|skull and contents
+synpic49129|what organ is this ct scan showing?|genitourinary
+synpic58742|what is one organ system seen in this image?|skull and contents
+synpic15871|which organ is captured by this ct scan?|musculoskeletal
+synpic58965|what organ systems can be evaluated with this mri?|skull and contents
+synpic39357|what organ system is visualized?|heart and great vessels
+synpic60223|what organ system is being imaged?|skull and contents
+synpic34841|what is the organ principally shown in this mri?|musculoskeletal
+synpic21041|what organ system is displayed in this ct scan?|heart and great vessels
+synpic55071|what is one organ system seen in this image?|skull and contents
+synpic41825|which organ is captured by this mri?|musculoskeletal
+synpic55850|what part of the body is being imaged here?|skull and contents
+synpic34276|which organ system is shown in the mri?|spine and contents
+synpic25384|what organ system is shown in this mri?|skull and contents
+synpic43767|what organ system is imaged?|skull and contents
+synpic23252|which organ is captured by this ultrasound?|genitourinary
+synpic53789|what is one organ system seen in this image?|skull and contents
+synpic52468|the mri shows what organ system?|skull and contents
+synpic42135|what organ system is visualized?|musculoskeletal
+synpic58184|what part of the body does this mri show?|skull and contents
+synpic48397|what organ system is primarily present in this image?|skull and contents
+synpic45466|what part of the body is being imaged here?|face, sinuses, and neck
+synpic46966|what is the organ system in this image?|musculoskeletal
+synpic39618|which organ system is shown in the x-ray?|musculoskeletal
+synpic18359|what organ system is shown in the image?|musculoskeletal
+synpic56036|what organ system is shown in the image?|skull and contents
+synpic49116|what organ system is evaluated primarily?|spine and contents
+synpic53199|the ct scan shows what organ system?|skull and contents
+synpic38739|what organ system is imaged?|genitourinary
+synpic17902|what organ system is visualized?|skull and contents
+synpic22952|what organ system is shown in the image?|genitourinary
+synpic16361|what is the organ principally shown in this mri?|musculoskeletal
+synpic19052|what organ system is primarily present in this image?|gastrointestinal
+synpic27433|what organ system is shown in this ultrasound?|genitourinary
+synpic54393|what part of the body does this mri show?|skull and contents
+synpic42268|which organ system is imaged?|musculoskeletal
+synpic17527|what part of the body is being imaged?|lung, mediastinum, pleura
+synpic43604|what is the organ principally shown in this ultrasound?|genitourinary
+synpic50917|what organ is this image of?|skull and contents
+synpic39751|what organ system is shown in the image?|musculoskeletal
+synpic21687|what organ system is shown in the image?|vascular and lymphatic
+synpic35180|what organ system is primarily present in this image?|genitourinary
+synpic18012|what part of the body is being imaged here?|skull and contents
+synpic16765|what organ system is pictured here?|musculoskeletal
+synpic19640|what part of the body is being imaged?|vascular and lymphatic
+synpic54017|what organ is this image of?|face, sinuses, and neck
+synpic33926|what organ systems can be evaluated with this ct scan?|genitourinary
+synpic59241|what part of the body does this mri show?|skull and contents
+synpic44990|what is the organ system in this image?|spine and contents
+synpic28094|what organ systems can be evaluated with this x-ray?|musculoskeletal
+synpic35947|what organ system is imaged?|spine and contents
+synpic41793|what organ is this mri showing?|spine and contents
+synpic43423|what is one organ system seen in this image?|musculoskeletal
+synpic16378|what organ system is shown in the image?|musculoskeletal
+synpic33107|what is the organ principally shown in this mri?|skull and contents
+synpic47877|what organ system is primarily present in this image?|skull and contents
+synpic22547|what part of the body does this ct scan show?|genitourinary
+synpic33489|what part of the body is being imaged here?|gastrointestinal
+synpic20393|which organ is captured by this x-ray?|musculoskeletal
+synpic50674|what is the organ principally shown in this mri?|spine and contents
+synpic46002|what organ system is shown in this ct scan?|heart and great vessels
+synpic41751|what is the organ system in this image?|spine and contents
+synpic21890|what part of the body does this mri show?|gastrointestinal
+synpic9384|what organ system is shown in this x-ray?|vascular and lymphatic
+synpic31315|what organ system is imaged?|breast
+synpic38331|what organ system is imaged?|musculoskeletal
+synpic25374|what is the organ principally shown in this ultrasound?|vascular and lymphatic
+synpic54214|what organ system is displayed in this ct scan?|spine and contents
+synpic56615|which organ is captured by this ct scan?|spine and contents
+synpic37599|which organ is captured by this mri?|vascular and lymphatic
+synpic55308|what part of the body is being imaged?|gastrointestinal
+synpic45133|the ct scan shows what organ system?|gastrointestinal
+synpic54994|what is the organ principally shown in this ct scan?|skull and contents
+synpic41341|what organ is this image of?|face, sinuses, and neck
+synpic54766|what is the organ principally shown in this mri?|face, sinuses, and neck
+synpic22196|what is the organ system in this image?|genitourinary
+synpic29772|what part of the body is being imaged here?|musculoskeletal
+synpic18008|what organ system is shown in the image?|musculoskeletal
+synpic30800|what organ system is imaged?|heart and great vessels
+synpic41960|what is the organ principally shown in this gastrointestinal image?|gastrointestinal
+synpic28295|what organ system is shown in the image?|face, sinuses, and neck
+synpic24487|what organ system is displayed in this angiogram?|skull and contents
+synpic20187|what organ system is pictured here?|vascular and lymphatic
+synpic26246|the mri shows what organ system?|skull and contents
+synpic16352|what part of the body does this ct scan show?|vascular and lymphatic
+synpic59337|what part of the body is being imaged here?|lung, mediastinum, pleura
+synpic48212|what organ system is shown in this x-ray?|lung, mediastinum, pleura
+synpic57871|what part of the body does this angiogram show?|skull and contents
+synpic34454|what organ system is shown in the image?|gastrointestinal
+synpic17299|what part of the body does this angiogram show?|vascular and lymphatic
+synpic28733|what organ system is being imaged?|lung, mediastinum, pleura
+synpic55727|the mri shows what organ system?|breast
+synpic45246|what part of the body is being imaged here?|lung, mediastinum, pleura
+synpic57642|what organ system is visualized?|skull and contents
+synpic60171|what is the organ system in this image?|face, sinuses, and neck
+synpic29565|what part of the body does this x-ray show?|lung, mediastinum, pleura
+synpic19303|what organ systems can be evaluated with this image?|breast
+synpic51353|which organ is captured by this mri?|skull and contents
+synpic26332|what is the organ principally shown in this ct scan?|lung, mediastinum, pleura
+synpic53785|what part of the body is being imaged?|skull and contents
+synpic53024|what organ system is displayed in this ct scan?|skull and contents
+synpic45861|what organ system is shown in the image?|gastrointestinal
+synpic31104|what is one organ system seen in this image?|lung, mediastinum, pleura
+synpic49242|what organ system is pictured here?|spine and contents
+synpic41636|what organ is this ct scan showing?|face, sinuses, and neck
+synpic58401|what part of the body is being imaged?|heart and great vessels
+synpic51357|what organ system is displayed in this mri?|face, sinuses, and neck
+synpic44955|what organ is this image of?|face, sinuses, and neck
+synpic23070|what organ system is pictured here?|gastrointestinal
+synpic47469|what organ system is visualized?|skull and contents
+synpic19529|what organ system is pictured here?|lung, mediastinum, pleura
+synpic46993|which organ system is shown in the mri?|spine and contents
+synpic28051|the ct scan shows what organ system?|skull and contents
+synpic58993|what organ system is pictured here?|skull and contents
+synpic43431|what part of the body is being imaged here?|gastrointestinal
+synpic20814|what organ system is visualized?|breast
+synpic46549|what organ systems can be evaluated with this gastrointestinal image?|gastrointestinal
+synpic54830|what organ system is evaluated primarily?|musculoskeletal
+synpic40845|what organ system is displayed in this mri?|skull and contents
+synpic35203|what organ systems can be evaluated with this mri?|skull and contents
+synpic58951|which organ system is imaged?|face, sinuses, and neck
+synpic51752|what organ is this ultrasound showing?|skull and contents
+synpic19716|what organ system is shown in the image?|skull and contents
+synpic56001|the angiogram shows what organ system?|skull and contents
+synpic55508|what organ system is primarily present in this image?|face, sinuses, and neck
+synpic32746|what organ system is shown in the image?|musculoskeletal
+synpic52918|what organ is this image of?|skull and contents
+synpic21672|what is one organ system seen in this image?|gastrointestinal
+synpic51395|what organ systems can be evaluated with this mri?|skull and contents
+synpic27571|what organ system is visualized?|musculoskeletal
+synpic50921|which organ system is imaged?|skull and contents
+synpic53596|what organ system is shown in this mri?|heart and great vessels
+synpic32632|what is the organ principally shown in this x-ray?|musculoskeletal
+synpic59939|what is the organ principally shown in this mri?|skull and contents
+synpic22390|what organ is this ct scan showing?|musculoskeletal
+synpic28454|what organ system is evaluated primarily?|gastrointestinal
+synpic40703|what part of the body is being imaged?|skull and contents
+synpic38876|which organ system is imaged?|skull and contents
+synpic15700|what is the organ principally shown in this mri?|vascular and lymphatic
+synpic21328|what organ system is pictured here?|spine and contents
+synpic44995|what organ system is primarily present in this image?|skull and contents
+synpic48836|the ultrasound shows what organ system?|heart and great vessels
+synpic26651|what organ system is pictured here?|heart and great vessels
+synpic57862|what is one organ system seen in this image?|skull and contents
+synpic43817|what part of the body is being imaged here?|musculoskeletal
+synpic24495|what organ system is shown in this x-ray?|vascular and lymphatic
+synpic22755|what organ system is pictured here?|skull and contents
+synpic34123|what organ system is displayed in this ct scan?|genitourinary
+synpic22741|what organ is this mri showing?|spine and contents
+synpic33102|what organ systems can be evaluated with this x-ray?|lung, mediastinum, pleura
+synpic47683|what organ system is shown in the image?|face, sinuses, and neck
+synpic19933|what is one organ system seen in this image?|lung, mediastinum, pleura
+synpic53152|what is the organ principally shown in this mri?|skull and contents
+synpic40660|what organ system is shown in the image?|skull and contents
+synpic31933|what part of the body is being imaged here?|skull and contents
+synpic24899|what part of the body is being imaged here?|musculoskeletal
+synpic55682|what organ is this image of?|skull and contents
+synpic53581|which organ system is shown in the x-ray?|skull and contents
+synpic11771|what organ system is primarily present in this image?|skull and contents
+synpic31884|what is the organ system in this image?|gastrointestinal
+synpic17664|what organ system is visualized?|heart and great vessels
+synpic36696|what part of the body does this ct scan show?|genitourinary
+synpic53727|what part of the body is being imaged?|heart and great vessels
+synpic42170|what organ system is pictured here?|lung, mediastinum, pleura
+synpic34794|what is the organ principally shown in this mri?|skull and contents
+synpic49970|what organ system is shown in the image?|gastrointestinal
+synpic47975|what is the organ principally shown in this gastrointestinal image?|gastrointestinal
+synpic40559|what organ system is imaged?|spine and contents
+synpic57757|what organ system is imaged?|skull and contents
+synpic21602|which organ system is shown in the x-ray?|musculoskeletal
+synpic47342|what organ system is shown in the image?|skull and contents
+synpic16119|what organ system is displayed in this mri?|face, sinuses, and neck
+synpic48065|what organ system is being imaged?|skull and contents
+synpic51285|what organ system is evaluated primarily?|skull and contents
+synpic36236|what part of the body is being imaged?|lung, mediastinum, pleura
+synpic28587|what organ system is pictured here?|face, sinuses, and neck
+synpic50366|what is one organ system seen in this image?|skull and contents
+synpic28544|what part of the body does this gastrointestinal image show?|gastrointestinal
+synpic37470|what part of the body is being imaged here?|vascular and lymphatic
+synpic38742|what part of the body is being imaged?|gastrointestinal
+synpic42788|the mri shows what organ system?|skull and contents
+synpic43455|what organ system is evaluated primarily?|lung, mediastinum, pleura
+synpic55545|which organ system is imaged?|skull and contents
+synpic38795|what organ system is being imaged?|skull and contents
+synpic60065|which organ is captured by this mri?|musculoskeletal
+synpic18848|which organ system is imaged?|gastrointestinal
+synpic49352|what organ system is primarily present in this image?|gastrointestinal
+synpic23766|what part of the body does this mri show?|skull and contents
+synpic50039|what organ system is primarily present in this image?|spine and contents
+synpic40000|what organ system is being imaged?|skull and contents
+synpic54713|which organ is captured by this ultrasound?|face, sinuses, and neck
+synpic45150|what part of the body does this mri show?|skull and contents
+synpic47023|what organ system is shown in this mri?|skull and contents
+synpic53042|the mri shows what organ system?|skull and contents
+synpic47751|what part of the body is being imaged here?|skull and contents
+synpic57218|what part of the body is being imaged?|musculoskeletal
+synpic30532|which organ system is imaged?|spine and contents
+synpic22136|what organ system is being imaged?|breast
+synpic24235|which organ system is imaged?|genitourinary
+synpic48112|what organ system is primarily present in this image?|genitourinary
+synpic14645|what is one organ system seen in this image?|musculoskeletal
+synpic58329|the mri shows what organ system?|skull and contents
+synpic50775|what organ system is evaluated primarily?|spine and contents
+synpic18902|what is one organ system seen in this image?|musculoskeletal
+synpic35648|what organ system is primarily present in this image?|vascular and lymphatic
+synpic26620|what is the organ system in this image?|gastrointestinal
+synpic48066|what organ system is pictured here?|skull and contents
+synpic39853|what part of the body is being imaged here?|gastrointestinal
+synpic27338|what organ system is imaged?|musculoskeletal
+synpic37881|what part of the body does this mri show?|spine and contents
+synpic33629|which organ is captured by this mri?|skull and contents
+synpic53877|which organ is captured by this mri?|skull and contents
+synpic39463|what organ system is visualized?|skull and contents
+synpic43481|what organ system is primarily present in this image?|face, sinuses, and neck
+synpic32126|what organ system is being imaged?|vascular and lymphatic
+synpic44926|what organ is this mri showing?|musculoskeletal
+synpic58300|what organ system is shown in this mri?|spine and contents
+synpic25880|what organ system is pictured here?|gastrointestinal
+synpic16292|what organ system is shown in the image?|skull and contents
+synpic51136|what organ system is pictured here?|lung, mediastinum, pleura
+synpic49209|what organ system is pictured here?|musculoskeletal
+synpic55813|what organ system is shown in the image?|skull and contents
+synpic46847|what organ system is shown in the image?|skull and contents
+synpic45382|what organ system is being imaged?|spine and contents
+synpic55026|which organ is captured by this mri?|skull and contents
+synpic21980|what is one organ system seen in this image?|lung, mediastinum, pleura
+synpic48249|the mri shows what organ system?|skull and contents
+synpic54648|what organ system is evaluated primarily?|vascular and lymphatic
+synpic16484|what organ is this image of?|breast
+synpic43447|what organ system is evaluated primarily?|gastrointestinal
+synpic54675|which organ system is shown in the mri?|skull and contents
+synpic29463|what organ system is imaged?|vascular and lymphatic
+synpic47351|what organ system is evaluated primarily?|skull and contents
+synpic17228|what part of the body is being imaged here?|musculoskeletal
+synpic51490|what organ system is visualized?|gastrointestinal
+synpic35880|what organ system is primarily present in this image?|skull and contents
+synpic34552|which organ is captured by this mri?|skull and contents
+synpic52166|which organ is captured by this ct scan?|musculoskeletal
+synpic21188|what organ system is being imaged?|spine and contents
+synpic57585|what part of the body does this x-ray show?|spine and contents
+synpic40947|what is the organ system in this image?|skull and contents
+synpic29098|what part of the body is being imaged?|breast
+synpic44506|which organ system is shown in the mri?|skull and contents
+synpic52364|what organ system is shown in the image?|skull and contents
+synpic57208|which organ system is shown in the ct scan?|skull and contents
+synpic57578|what part of the body is being imaged?|skull and contents
+synpic58887|what part of the body is being imaged?|skull and contents
+synpic50565|what part of the body is being imaged?|gastrointestinal
+synpic56114|the mri shows what organ system?|skull and contents
+synpic23560|what organ system is shown in the image?|gastrointestinal
+synpic34008|what organ system is evaluated primarily?|lung, mediastinum, pleura
+synpic16083|what part of the body is being imaged here?|heart and great vessels
+synpic52004|what organ system is visualized?|skull and contents
+synpic15401|what organ is this image of?|heart and great vessels
+synpic57801|which organ system is imaged?|skull and contents
+synpic25267|what organ system is pictured here?|gastrointestinal
+synpic34632|what organ system is shown in this ct scan?|spine and contents
+synpic45021|what part of the body does this ct scan show?|vascular and lymphatic
+synpic50410|what organ system is being imaged?|skull and contents
+synpic47178|what organ system is visualized?|musculoskeletal
+synpic40398|what organ system is imaged?|skull and contents
+synpic18681|what organ systems can be evaluated with this mri?|skull and contents
+synpic38551|what is the organ system in this image?|skull and contents
+synpic36540|what is one organ system seen in this image?|skull and contents
+synpic17203|what part of the body is being imaged?|gastrointestinal
+synpic57633|what organ system is imaged?|spine and contents
+synpic56511|what organ system is shown in this mri?|skull and contents
+synpic29500|the x-ray shows what organ system?|gastrointestinal
+synpic48897|what organ system is evaluated primarily?|skull and contents
+synpic45196|what organ system is shown in this mri?|face, sinuses, and neck
+synpic45828|what organ system is pictured here?|skull and contents
+synpic60458|what part of the body is being imaged here?|musculoskeletal
+synpic43524|what organ system is being imaged?|skull and contents
+synpic59568|what organ system is shown in the image?|skull and contents
+synpic48459|which organ system is shown in the mri?|spine and contents

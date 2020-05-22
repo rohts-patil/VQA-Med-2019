@@ -1,0 +1,3200 @@
+synpic41148|which plane is this image taken?|axial
+synpic43984|which plane is this image taken?|axial
+synpic38930|what plane is this ultrasound in?|longitudinal
+synpic52143|which plane is the image shown in?|coronal
+synpic20934|in what plane is this x-ray?|lateral
+synpic19141|what is the plane of the image?|ap
+synpic25502|what plane is this x-ray in?|lateral
+synpic38317|in what plane was this image taken?|coronal
+synpic22829|what is the plane?|axial
+synpic39477|what plane is this film|axial
+synpic54866|what plane was used?|axial
+synpic60053|what plane is the image acquired in?|ap
+synpic28004|in what plane is this ct scan captured?|axial
+synpic51949|what is the plane of the image?|axial
+synpic45041|in what plane is this ct scan?|axial
+synpic13026|what plane is this?|axial
+synpic52613|which plane is this image taken?|ap
+synpic21981|what plane is the image acquired in?|sagittal
+synpic53380|in what plane is this mri taken?|axial
+synpic21144|in what plane is this mammograph?|mammo - mlo
+synpic20556|which plane is the image taken?|axial
+synpic39156|which plane is this mri taken in?|sagittal
+synpic41586|in what plane is this ct scan captured?|axial
+synpic36892|in what plane is this ct scan captured?|axial
+synpic20868|what image plane is this?|axial
+synpic27646|what plane is the image acquired in?|pa
+synpic21181|what image plane is this?|mammo - cc
+synpic19981|in what plane is this ct scan?|axial
+synpic54237|what plane was used?|axial
+synpic33704|what plane is demonstrated?|transverse
+synpic43008|what image plane is this?|axial
+synpic23493|what plane is demonstrated?|axial
+synpic33886|what plane is this ct scan in?|axial
+synpic26174|in what plane is this ct scan?|axial
+synpic27913|in what plane is this image taken?|sagittal
+synpic55224|which plane is this image in?|axial
+synpic58999|which plane is the image shown in?|axial
+synpic47538|which plane is this image taken?|axial
+synpic45740|in what plane is this ct scan captured?|axial
+synpic21427|which plane is this image in?|mammo - mag cc
+synpic22081|which plane is this image in?|frontal
+synpic58842|which plane is the image taken?|axial
+synpic38409|what imaging plane is depicted here?|axial
+synpic36205|what imaging plane is depicted here?|coronal
+synpic24510|what plane is this x-ray in?|lateral
+synpic46206|in what plane is this image taken?|axial
+synpic26884|which plane is this image in?|axial
+synpic59324|what image plane is this?|ap
+synpic57262|in which plane is the ct scan displayed?|axial
+synpic28983|what plane is this ct scan in?|axial
+synpic24141|in what plane is this image taken?|ap
+synpic48293|what plane is seen?|axial
+synpic41684|what plane is this?|axial
+synpic36984|what plane is seen?|coronal
+synpic16795|in what plane is this nuclear medicine image taken?|frontal
+synpic48977|what image plane is this?|coronal
+synpic60337|what plane is this film|axial
+synpic58921|which plane is this image in?|axial
+synpic60196|what plane is demonstrated?|coronal
+synpic51217|which plane is this image in?|axial
+synpic30823|which plane is the image shown in?|axial
+synpic49520|what plane is seen?|axial
+synpic45585|what plane was used?|coronal
+synpic45427|in what plane was this image taken?|axial
+synpic43558|in what plane is this ct scan?|axial
+synpic56917|what plane was used?|ap
+synpic19078|in which plane is the mri displayed?|sagittal
+synpic43538|in what plane is this ct scan?|axial
+synpic30698|which plane is this image taken?|transverse
+synpic18156|in what plane is this mri taken?|axial
+synpic59842|in what plane is this ct scan captured?|transverse
+synpic36953|in what plane is this mri?|axial
+synpic55500|which plane is this image in?|coronal
+synpic52980|what plane is this film|ap
+synpic49060|what plane was used in this mri?|sagittal
+synpic51873|what is the plane of the image?|lateral
+synpic27214|what plane was used?|axial
+synpic48148|what plane is demonstrated?|axial
+synpic41269|what is the plane of the mri?|sagittal
+synpic31686|what image plane is this?|axial
+synpic33358|in what plane is this ct scan?|axial
+synpic27731|what plane is the image acquired in?|transverse
+synpic30202|what plane is demonstrated?|axial
+synpic22257|in what plane is this image taken?|axial
+synpic54969|in what plane is this image oriented?|axial
+synpic27999|which plane is this image taken?|axial
+synpic3098|in what plane is this image taken?|pa
+synpic43931|what is the plane of this x-ray?|pa
+synpic45335|what plane is demonstrated?|sagittal
+synpic42174|what is the plane?|ap
+synpic53115|in what plane is this ct scan?|axial
+synpic37644|in what plane is this mri?|coronal
+synpic25493|which plane is the image taken?|axial
+synpic42206|what is the plane of this x-ray?|lateral
+synpic30701|what plane is this?|coronal
+synpic34141|which plane is the image taken?|pa
+synpic52252|what plane is demonstrated?|axial
+synpic27629|in what plane is this mri taken?|axial
+synpic53328|what plane is seen?|sagittal
+synpic31721|which plane is this image taken?|axial
+synpic59388|what plane is this?|axial
+synpic23816|what is the plane of the ct scan?|axial
+synpic40525|in what plane is this ultrasound taken?|longitudinal
+synpic56483|what plane is this?|lateral
+synpic53425|what plane is demonstrated?|sagittal
+synpic20385|what is the plane of this ct scan?|axial
+synpic25253|what is the plane?|coronal
+synpic56581|in what plane is this ct scan?|axial
+synpic54829|in what plane is this image taken?|coronal
+synpic55507|what is the plane of the image?|coronal
+synpic40520|what plane was used?|pa
+synpic48531|what plane was used in this mri?|axial
+synpic59332|what plane is this ct scan in?|axial
+synpic42195|in what plane is this mri?|axial
+synpic56012|what plane is the image acquired in?|axial
+synpic54815|in what plane is this mri taken?|axial
+synpic50047|in what plane is this mri?|axial
+synpic17147|what plane is this ct scan in?|axial
+synpic38560|what is the plane of this mri?|axial
+synpic40860|what plane is this film|axial
+synpic33981|what is the plane of the image?|ap
+synpic34863|what is the plane of the mri?|axial
+synpic19176|which plane is this image taken?|sagittal
+synpic49440|what is the plane?|sagittal
+synpic26751|in what plane is this mri?|axial
+synpic53801|which plane is this image in?|oblique
+synpic46205|in what plane is this image taken?|axial
+synpic59158|what imaging plane is depicted here?|axial
+synpic17734|what image plane is this?|axial
+synpic21681|what image plane is this?|coronal
+synpic24684|which plane is the image taken?|longitudinal
+synpic28603|what plane is demonstrated?|pa
+synpic18635|in which plane is the ct scan displayed?|axial
+synpic27944|what is the plane?|oblique
+synpic57969|which plane is the image taken?|sagittal
+synpic47786|which plane is this ct scan taken in?|coronal
+synpic52603|what plane is seen?|ap
+synpic34133|what plane is this mri in?|transverse
+synpic27086|what is the plane of the image?|axial
+synpic39478|what image plane is this?|axial
+synpic38596|in what plane was this image taken?|axial
+synpic32301|what plane is demonstrated?|axial
+synpic15995|what is the plane?|axial
+synpic33956|which plane is the image taken?|axial
+synpic23085|what image plane is this?|frontal
+synpic54419|in what plane is this angiogram?|ap
+synpic27128|what plane is this film|axial
+synpic19554|what plane is this film|axial
+synpic35818|what is the plane of the image?|axial
+synpic56034|what plane is this mri in?|axial
+synpic33120|in what plane was this image taken?|coronal
+synpic50792|what plane is seen?|axial
+synpic57298|what image plane is this?|axial
+synpic47030|in what plane is this mri captured?|coronal
+synpic55619|which plane is the image taken?|axial
+synpic40008|which plane is this image in?|axial
+synpic17654|in what plane is this x-ray captured?|lateral
+synpic56844|what is the plane?|axial
+synpic43708|in what plane is this image taken?|coronal
+synpic35615|in what plane is this image oriented?|sagittal
+synpic43651|which plane is the image shown in?|ap
+synpic33179|in what plane is this ct scan captured?|axial
+synpic31741|in what plane is this image taken?|ap
+synpic25275|which plane is this image taken?|sagittal
+synpic18627|which plane is this image in?|coronal
+synpic45446|in what plane is this image taken?|sagittal
+synpic44470|in what plane is this image oriented?|axial
+synpic35745|in what plane is this mri?|coronal
+synpic51075|in what plane is this ct scan?|axial
+synpic40723|in what plane is this image oriented?|axial
+synpic50024|what plane is seen?|axial
+synpic41562|what plane was used?|coronal
+synpic59563|in what plane is this mri?|axial
+synpic51954|what is the plane of this mri?|sagittal
+synpic23032|what is the plane of the mri?|axial
+synpic52370|what plane was used in this mri?|axial
+synpic48181|which plane is this image in?|lateral
+synpic53966|in what plane is this image oriented?|axial
+synpic61222|what plane was used?|axial
+synpic16937|in what plane is this ct scan taken?|axial
+synpic20416|which plane is the image shown in?|axial
+synpic28745|what plane is the image acquired in?|axial
+synpic36987|which plane is this image in?|axial
+synpic37401|in what plane was this image taken?|frontal
+synpic29624|in what plane was this image taken?|coronal
+synpic30372|which plane is this image taken?|oblique
+synpic19769|which plane is this mri taken in?|axial
+synpic55583|what plane is demonstrated?|axial
+synpic45870|which plane is the image shown in?|axial
+synpic31260|in what plane was this image taken?|lateral
+synpic10588|in what plane is this image taken?|axial
+synpic55928|what plane is this ct scan in?|axial
+synpic33574|what plane is demonstrated?|axial
+synpic19753|which plane is this image in?|sagittal
+synpic37692|what plane is the image acquired in?|axial
+synpic34500|what plane is demonstrated?|axial
+synpic58652|what plane is this mri in?|axial
+synpic40568|which plane is the image taken?|sagittal
+synpic13036|which plane is this ct scan taken in?|axial
+synpic18810|in what plane is this image taken?|axial
+synpic47344|in what plane is this image oriented?|coronal
+synpic51700|in what plane is this image oriented?|axial
+synpic58469|what image plane is this?|axial
+synpic47722|in what plane was this image taken?|coronal
+synpic51715|which plane is this image in?|axial
+synpic600|what plane is seen?|axial
+synpic39220|what is the plane?|frontal
+synpic59403|in what plane was this image taken?|axial
+synpic29038|what is the plane of this mri?|sagittal
+synpic8622|in what plane is this image oriented?|axial
+synpic29835|which plane is this ct scan taken in?|axial
+synpic28664|in what plane was this image taken?|axial
+synpic43453|in what plane was this image taken?|lateral
+synpic16805|in what plane is this ct scan?|axial
+synpic42789|what plane is demonstrated?|coronal
+synpic43617|which plane is the image taken?|axial
+synpic57273|in what plane is this mri?|axial
+synpic43471|in what plane is this image taken?|lateral
+synpic29733|what plane is demonstrated?|sagittal
+synpic26978|what plane is this mammograph in?|mammo - mag cc
+synpic50065|in what plane is this x-ray captured?|ap
+synpic46599|in what plane was this image taken?|pa
+synpic19978|what plane is this film|axial
+synpic30387|what plane was used?|axial
+synpic50837|what imaging plane is depicted here?|sagittal
+synpic16091|which plane is this image taken?|sagittal
+synpic29456|which plane is the image shown in?|axial
+synpic33843|what plane is the image acquired in?|axial
+synpic34059|in what plane is this image oriented?|sagittal
+synpic38319|which plane is the image shown in?|coronal
+synpic27745|what plane is this?|transverse
+synpic37466|what plane is seen?|coronal
+synpic20753|in which plane is the angiogram displayed?|lateral
+synpic25386|what plane is seen?|axial
+synpic25380|what plane is this?|sagittal
+synpic37868|which plane is the image taken?|axial
+synpic32612|in what plane is this ct scan?|axial
+synpic42986|which plane is the image shown in?|longitudinal
+synpic22575|what plane is demonstrated?|lateral
+synpic36927|what plane was used in this mri?|axial
+synpic10769|what is the plane of the image?|axial
+synpic34972|in what plane is this mri captured?|axial
+synpic19528|what plane is this film|axial
+synpic29691|what imaging plane is depicted here?|axial
+synpic58492|in what plane is this mri?|axial
+synpic58841|in what plane was this image taken?|axial
+synpic40816|what plane was used?|axial
+synpic56011|what is the plane of this mri?|axial
+synpic50546|what is the plane of this mri?|axial
+synpic43797|what is the plane of the image?|axial
+synpic36191|what image plane is this?|coronal
+synpic40281|which plane is the image taken?|axial
+synpic57639|what is the plane of the mri?|axial
+synpic53973|what is the plane of this mri?|axial
+synpic23091|in what plane is this mri?|coronal
+synpic22647|in what plane is this image taken?|frontal
+synpic19826|what is the plane of this ct scan?|axial
+synpic36774|in what plane is this mri?|axial
+synpic15171|in what plane is this image taken?|lateral
+synpic30700|what plane is this?|transverse
+synpic37748|what plane is seen?|coronal
+synpic25424|which plane is the image shown in?|axial
+synpic31745|what plane was used in this ct scan?|axial
+synpic41916|in what plane is this mri taken?|sagittal
+synpic38717|which plane is this mri taken in?|axial
+synpic45921|which plane is the image shown in?|sagittal
+synpic25331|what image plane is this?|axial
+synpic30992|what is the plane of this x-ray?|lateral
+synpic15795|which plane is the image shown in?|axial
+synpic19600|what plane is this film|axial
+synpic33504|in what plane is this image oriented?|axial
+synpic49033|which plane is this image in?|frontal
+synpic55723|what is the plane of this mri?|axial
+synpic50742|what plane is the image acquired in?|axial
+synpic31251|which plane is this image in?|axial
+synpic37394|which plane is this ultrasound taken in?|sagittal
+synpic28305|what is the plane of this ct scan?|axial
+synpic57196|what plane is seen?|axial
+synpic52990|in which plane is the ct scan displayed?|axial
+synpic34859|which plane is this image taken?|axial
+synpic9634|in what plane is this gastrointestinal image captured?|frontal
+synpic38753|what is the plane of the ultrasound?|transverse
+synpic39552|what plane is this film|axial
+synpic28967|in what plane is this ct scan captured?|axial
+synpic23691|what plane is the image acquired in?|axial
+synpic27259|what plane is this?|coronal
+synpic47203|in what plane is this image taken?|sagittal
+synpic20793|what is the plane?|coronal
+synpic28718|what plane was used in this ct scan?|axial
+synpic17361|what plane is this film|frontal
+synpic42284|in what plane is this mri?|axial
+synpic55469|in what plane was this image taken?|coronal
+synpic14610|what plane is this ct scan in?|axial
+synpic48406|what plane was used in this mri?|sagittal
+synpic51867|which plane is this image taken?|axial
+synpic31737|what plane was used in this ct scan?|coronal
+synpic49809|what is the plane of the image?|coronal
+synpic47620|what plane is seen?|axial
+synpic34806|in what plane was this image taken?|sagittal
+synpic35603|in what plane is this mri?|sagittal
+synpic22237|which plane is this ct scan taken in?|coronal
+synpic56281|what is the plane of this x-ray?|pa
+synpic55594|which plane is this image in?|oblique
+synpic51335|in what plane was this image taken?|axial
+synpic45158|which plane is this mri taken in?|axial
+synpic27139|in which plane is the x-ray displayed?|lateral
+synpic33910|what plane is demonstrated?|axial
+synpic33342|what imaging plane is depicted here?|coronal
+synpic55480|which plane is this image in?|coronal
+synpic59865|in what plane is this image taken?|axial
+synpic52445|what is the plane of this mri?|coronal
+synpic29008|in what plane is this mri?|frontal
+synpic22225|what plane is demonstrated?|ap
+synpic27630|which plane is the image taken?|axial
+synpic53585|in what plane is this image oriented?|sagittal
+synpic27286|in what plane is this x-ray taken?|ap
+synpic52849|which plane is this mri taken in?|sagittal
+synpic49395|in what plane is this image taken?|3d reconstruction
+synpic60523|what plane is the image acquired in?|coronal
+synpic47774|in what plane is this ultrasound?|transverse
+synpic29238|what plane is seen?|frontal
+synpic41236|what plane is this?|axial
+synpic32624|what plane was used?|ap
+synpic11818|which plane is this image taken?|axial
+synpic20071|what plane is demonstrated?|axial
+synpic26737|what image plane is this?|axial
+synpic18406|in what plane is this image taken?|axial
+synpic36677|what plane is this film|sagittal
+synpic58906|what is the plane of the mri?|sagittal
+synpic36381|in what plane is this mri taken?|axial
+synpic47672|in what plane is this ct scan?|axial
+synpic27724|what plane was used?|sagittal
+synpic43435|what is the plane of the ct scan?|axial
+synpic59012|in what plane is this mri?|axial
+synpic59942|which plane is the image shown in?|axial
+synpic26372|what plane was used?|axial
+synpic25219|which plane is the image shown in?|sagittal
+synpic55809|what plane is this film|axial
+synpic60676|which plane is this image in?|axial
+synpic28056|what imaging plane is depicted here?|axial
+synpic26244|what plane is the image acquired in?|coronal
+synpic32753|which plane is the image shown in?|sagittal
+synpic46448|what is the plane of the image?|axial
+synpic48487|what is the plane of this ultrasound?|sagittal
+synpic29541|what plane is demonstrated?|frontal
+synpic16165|what is the plane?|coronal
+synpic53569|in which plane is the ct scan displayed?|axial
+synpic16192|what is the plane?|lateral
+synpic33126|in what plane is this ultrasound?|axial
+synpic33273|what plane is this film|axial
+synpic28624|what plane was used in this ct scan?|axial
+synpic59546|what imaging plane is depicted here?|sagittal
+synpic44141|in what plane is this image oriented?|frontal
+synpic48668|what is the plane of the mri?|axial
+synpic31780|which plane is the image shown in?|ap
+synpic57072|what is the plane of this mri?|coronal
+synpic34587|in what plane was this image taken?|sagittal
+synpic59198|what plane is the image acquired in?|axial
+synpic23975|what plane was used?|oblique
+synpic20959|what plane was used in this mammograph?|mammo - cc
+synpic29553|in what plane is this ct scan?|coronal
+synpic28793|what is the plane of the image?|axial
+synpic27287|what plane was used?|axial
+synpic17854|what is the plane of this ultrasound?|transverse
+synpic27268|which plane is this image taken?|pa
+synpic27360|in what plane was this image taken?|axial
+synpic40108|in which plane is the mri displayed?|coronal
+synpic51636|what imaging plane is depicted here?|axial
+synpic52600|which plane is the image taken?|ap
+synpic51392|what plane was used in this mri?|axial
+synpic32364|in what plane is this ct scan captured?|axial
+synpic46232|which plane is the image taken?|sagittal
+synpic55310|in what plane is this image oriented?|ap
+synpic57879|what is the plane of the image?|axial
+synpic30967|what is the plane?|axial
+synpic19015|what plane is demonstrated?|lateral
+synpic40279|in what plane was this image taken?|axial
+synpic37447|what image plane is this?|axial
+synpic50612|in what plane is this ultrasound captured?|longitudinal
+synpic40937|which plane is the image taken?|sagittal
+synpic37099|what is the plane?|frontal
+synpic37969|which plane is this image in?|sagittal
+synpic57004|in what plane is this mri?|axial
+synpic34593|in what plane is this mri captured?|3d reconstruction
+synpic53526|what plane is this film|axial
+synpic42153|what plane is demonstrated?|longitudinal
+synpic43498|in what plane is this image oriented?|sagittal
+synpic15884|what plane is this film|pa
+synpic55701|in what plane was this image taken?|sagittal
+synpic57293|in which plane is the mri displayed?|coronal
+synpic11415|what is the plane of this mri?|axial
+synpic38902|in what plane is this mri?|coronal
+synpic25392|what plane is seen?|axial
+synpic47630|what is the plane of this mri?|sagittal
+synpic57200|what image plane is this?|axial
+synpic51600|in what plane is this mri?|coronal
+synpic16904|what is the plane of this ct scan?|axial
+synpic27971|what plane is this?|sagittal
+synpic56387|what is the plane of this mri?|axial
+synpic28377|in what plane is this ct scan?|axial
+synpic40434|which plane is this image taken?|ap
+synpic38757|what plane is this?|axial
+synpic40722|what is the plane of the mri?|axial
+synpic46524|what plane is the image acquired in?|coronal
+synpic51612|in what plane is this ct scan taken?|axial
+synpic48159|in what plane is this x-ray captured?|lateral
+synpic21523|which plane is this image taken?|oblique
+synpic46480|what plane is demonstrated?|axial
+synpic40781|which plane is this ct scan taken in?|axial
+synpic51203|in what plane is this ct scan?|sagittal
+synpic53447|what is the plane of the image?|sagittal
+synpic38248|in what plane is this image taken?|axial
+synpic21483|which plane is this image taken?|sagittal
+synpic16506|which plane is the image shown in?|coronal
+synpic21407|what is the plane of the image?|axial
+synpic27649|which plane is this image in?|axial
+synpic54982|in what plane is this image taken?|axial
+synpic28473|what is the plane of the image?|axial
+synpic36392|what imaging plane is depicted here?|coronal
+synpic42172|what imaging plane is depicted here?|axial
+synpic45741|what is the plane of this angiogram?|pa
+synpic32079|which plane is this image in?|coronal
+synpic57404|in what plane is this image oriented?|coronal
+synpic51322|in what plane was this image taken?|axial
+synpic42061|in what plane is this image taken?|axial
+synpic57204|what imaging plane is depicted here?|axial
+synpic45586|which plane is the image shown in?|axial
+synpic47404|what is the plane of the image?|axial
+synpic41195|in what plane is this mri?|sagittal
+synpic33429|in what plane is this x-ray?|pa
+synpic17382|what is the plane of the ultrasound?|longitudinal
+synpic17799|which plane is the image shown in?|pa
+synpic45606|what is the plane?|axial
+synpic22402|what plane is this?|ap
+synpic51016|in what plane was this image taken?|axial
+synpic53404|what plane was used in this mri?|axial
+synpic46649|what plane is seen?|axial
+synpic57419|in what plane is this image oriented?|sagittal
+synpic26537|what plane is demonstrated?|axial
+synpic28939|in what plane is this image taken?|ap
+synpic32874|in what plane is this ct scan?|axial
+synpic22775|what is the plane of the ct scan?|axial
+synpic23599|in what plane is this image oriented?|sagittal
+synpic55092|what is the plane of the ct scan?|coronal
+synpic43704|which plane is this mri taken in?|axial
+synpic48095|which plane is this mri taken in?|axial
+synpic46858|in what plane is this mri?|axial
+synpic32240|what plane is the image acquired in?|lateral
+synpic20605|in what plane is this image oriented?|sagittal
+synpic36776|in what plane is this mri captured?|coronal
+synpic60726|what plane was used in this mri?|axial
+synpic58394|which plane is this angiogram taken in?|ap
+synpic39045|in which plane is the angiogram displayed?|coronal
+synpic41844|what plane is demonstrated?|axial
+synpic37107|what image plane is this?|axial
+synpic30922|what is the plane of this mri?|transverse
+synpic58203|in what plane is this mri taken?|axial
+synpic24083|which plane is this image taken?|axial
+synpic49252|in what plane is this image oriented?|axial
+synpic32265|which plane is the image shown in?|axial
+synpic19683|in what plane is this x-ray?|lateral
+synpic56691|what is the plane?|sagittal
+synpic27224|what image plane is this?|axial
+synpic54339|what is the plane of the mri?|axial
+synpic46832|in which plane is the ct scan displayed?|axial
+synpic32179|which plane is this image in?|sagittal
+synpic31503|what plane was used?|axial
+synpic56587|in what plane is this ct scan captured?|axial
+synpic27880|in what plane is this image oriented?|transverse
+synpic45956|in what plane was this image taken?|coronal
+synpic24249|what plane is this film|sagittal
+synpic59550|what is the plane?|axial
+synpic15723|what is the plane of the image?|axial
+synpic40479|which plane is the image taken?|sagittal
+synpic42332|what plane is this?|ap
+synpic50629|what is the plane of the ct scan?|sagittal
+synpic48215|what plane is this?|frontal
+synpic53045|what plane is this?|coronal
+synpic61244|in what plane is this mri?|axial
+synpic56157|which plane is the image taken?|axial
+synpic51641|which plane is the image shown in?|coronal
+synpic57383|what plane is this film|coronal
+synpic58867|in what plane is this image taken?|axial
+synpic13277|what plane is this mri in?|axial
+synpic21686|what is the plane of this x-ray?|frontal
+synpic17986|what is the plane of this ct scan?|axial
+synpic19307|which plane is this image in?|coronal
+synpic22726|what image plane is this?|sagittal
+synpic21180|in which plane is the mammograph displayed?|mammo - cc
+synpic16032|which plane is the image taken?|sagittal
+synpic40244|what plane is this x-ray in?|ap
+synpic31628|in what plane is this image taken?|longitudinal
+synpic43442|which plane is the image taken?|axial
+synpic17061|in what plane is this mri captured?|axial
+synpic60622|what image plane is this?|axial
+synpic53333|what is the plane of the mri?|sagittal
+synpic47172|what imaging plane is depicted here?|sagittal
+synpic46851|what is the plane of this mri?|axial
+synpic22244|what plane is this x-ray in?|pa
+synpic42307|in which plane is the mri displayed?|axial
+synpic31303|in what plane is this angiogram?|frontal
+synpic34145|in what plane is this ct scan taken?|axial
+synpic20062|in what plane was this image taken?|axial
+synpic44436|what plane was used in this ct scan?|axial
+synpic45991|what is the plane of this ct scan?|coronal
+synpic28620|in what plane is this ct scan captured?|axial
+synpic51913|what plane is demonstrated?|sagittal
+synpic41794|in what plane is this image oriented?|sagittal
+synpic20810|in what plane is this x-ray?|ap
+synpic20422|in what plane is this image taken?|pa
+synpic34405|what plane was used in this mri?|sagittal
+synpic20803|in what plane is this ct scan?|axial
+synpic18556|what plane is seen?|sagittal
+synpic27151|which plane is the image shown in?|axial
+synpic51059|which plane is the image shown in?|coronal
+synpic42107|in which plane is the mri displayed?|sagittal
+synpic24643|what plane is this x-ray in?|frontal
+synpic16486|what plane is this?|ap
+synpic57885|which plane is this image in?|axial
+synpic25504|what plane was used?|frontal
+synpic51923|which plane is the image taken?|coronal
+synpic40087|in what plane is this mri?|coronal
+synpic15437|in what plane is this ct scan?|axial
+synpic34408|what plane was used?|axial
+synpic37271|what plane was used in this ultrasound?|sagittal
+synpic35181|what plane is the image acquired in?|coronal
+synpic19790|in what plane is this mri taken?|coronal
+synpic41654|in what plane is this mri captured?|axial
+synpic23222|in what plane is this image taken?|axial
+synpic51842|in what plane is this image taken?|coronal
+synpic46211|which plane is the image taken?|sagittal
+synpic51468|which plane is this mri taken in?|axial
+synpic26940|in which plane is the mammograph displayed?|mammo - mlo
+synpic51344|in what plane was this image taken?|axial
+synpic27262|what plane is seen?|ap
+synpic22793|in what plane is this image oriented?|axial
+synpic20989|which plane is this mri taken in?|coronal
+synpic22153|in what plane was this image taken?|pa
+synpic58377|in what plane was this image taken?|pa
+synpic28104|in what plane is this image taken?|axial
+synpic19524|what plane is seen?|sagittal
+synpic28210|what plane is this film|axial
+synpic51493|in which plane is the gastrointestinal image displayed?|lateral
+synpic45573|what image plane is this?|coronal
+synpic58719|what plane was used?|axial
+synpic18218|in what plane is this mri captured?|axial
+synpic53959|which plane is the image taken?|axial
+synpic31235|what plane is the image acquired in?|axial
+synpic36658|which plane is the image shown in?|axial
+synpic46544|in what plane is this ultrasound?|sagittal
+synpic19219|in what plane is this image taken?|lateral
+synpic35913|what image plane is this?|axial
+synpic53529|in what plane is this image taken?|coronal
+synpic36689|what is the plane of the image?|axial
+synpic51420|what imaging plane is depicted here?|axial
+synpic56911|in what plane is this mri captured?|coronal
+synpic14408|what is the plane of the image?|axial
+synpic31874|in what plane is this gastrointestinal image?|lateral
+synpic48337|in what plane is this image oriented?|sagittal
+synpic12734|what is the plane of the mri?|sagittal
+synpic44105|in what plane is this ct scan captured?|axial
+synpic17460|what plane is the image acquired in?|pa
+synpic45463|what plane was used in this x-ray?|frontal
+synpic39820|in what plane is this image taken?|sagittal
+synpic42981|what imaging plane is depicted here?|pa
+synpic53549|in what plane was this image taken?|axial
+synpic38482|which plane is the image taken?|ap
+synpic34810|what plane is demonstrated?|axial
+synpic59696|what plane is this?|sagittal
+synpic28645|in what plane is this image taken?|axial
+synpic28710|what plane is demonstrated?|frontal
+synpic47206|which plane is the image taken?|axial
+synpic31917|what is the plane of the ct scan?|axial
+synpic22214|what plane is this?|axial
+synpic53742|what imaging plane is depicted here?|sagittal
+synpic25572|in what plane is this image taken?|axial
+synpic58537|in what plane is this image taken?|axial
+synpic18041|in what plane is this image taken?|axial
+synpic52482|which plane is this image taken?|ap
+synpic50580|what plane is the image acquired in?|axial
+synpic54372|what plane was used?|axial
+synpic56359|what image plane is this?|axial
+synpic38928|in which plane is the ultrasound displayed?|longitudinal
+synpic36113|what is the plane of the mri?|coronal
+synpic17917|in what plane is this x-ray?|pa
+synpic60193|what plane is this mri in?|axial
+synpic47805|in what plane is this image taken?|axial
+synpic41789|what plane is demonstrated?|axial
+synpic45166|in what plane is this image taken?|axial
+synpic40096|in what plane is this image taken?|axial
+synpic26131|what plane is this ultrasound in?|sagittal
+synpic57589|what image plane is this?|sagittal
+synpic31646|what plane is demonstrated?|coronal
+synpic22648|what is the plane of the image?|axial
+synpic13313|in which plane is the ct scan displayed?|axial
+synpic19829|which plane is this mri taken in?|axial
+synpic33213|what plane is the image acquired in?|sagittal
+synpic22316|what is the plane of this ultrasound?|transverse
+synpic49404|what plane is this mri in?|3d reconstruction
+synpic44432|what image plane is this?|axial
+synpic35606|in what plane is this mri?|axial
+synpic38224|what is the plane of the mri?|axial
+synpic31645|which plane is the image taken?|coronal
+synpic57517|in what plane is this image taken?|lateral
+synpic54246|in what plane is this image oriented?|coronal
+synpic28814|what plane was used?|axial
+synpic20131|in what plane is this gastrointestinal image captured?|ap
+synpic23120|which plane is this image taken?|coronal
+synpic33781|in which plane is the mri displayed?|sagittal
+synpic24176|what plane is seen?|transverse
+synpic40285|what plane is this mri in?|ap
+synpic27371|in what plane is this image taken?|axial
+synpic61127|in what plane is this mri?|axial
+synpic54779|which plane is this mri taken in?|axial
+synpic43496|what plane is this?|lateral
+synpic33715|what plane is this film|axial
+synpic49435|which plane is this mri taken in?|coronal
+synpic49961|in what plane was this image taken?|sagittal
+synpic31556|which plane is this image in?|frontal
+synpic54698|in what plane was this image taken?|sagittal
+synpic20554|what is the plane of the ct scan?|axial
+synpic51567|what imaging plane is depicted here?|sagittal
+synpic50648|what image plane is this?|axial
+synpic46970|which plane is this image in?|lateral
+synpic21862|what plane is seen?|pa
+synpic46605|what imaging plane is depicted here?|mammo - mlo
+synpic21598|which plane is the image taken?|axial
+synpic43058|which plane is the image taken?|coronal
+synpic40922|in what plane is this mri?|axial
+synpic37392|which plane is the image shown in?|transverse
+synpic56776|what plane is this?|axial
+synpic17817|in which plane is the ct scan displayed?|axial
+synpic41476|in what plane is this ct scan captured?|axial
+synpic28668|in what plane is this x-ray?|lateral
+synpic43520|in what plane is this image taken?|axial
+synpic27331|what plane was used?|axial
+synpic56989|what imaging plane is depicted here?|coronal
+synpic55023|what plane was used in this mri?|axial
+synpic35805|what is the plane of the mri?|axial
+synpic45987|in what plane was this image taken?|axial
+synpic16080|in what plane is this ct scan captured?|axial
+synpic34027|what is the plane of this x-ray?|lateral
+synpic50055|what imaging plane is depicted here?|axial
+synpic44983|what is the plane of the ct scan?|axial
+synpic52890|in what plane is this mri captured?|axial
+synpic50836|what imaging plane is depicted here?|sagittal
+synpic100133|what is the plane?|lateral
+synpic26675|in which plane is the x-ray displayed?|pa
+synpic22406|in what plane is this ultrasound?|longitudinal
+synpic47956|what is the plane of the x-ray?|ap
+synpic26478|in what plane is this ct scan captured?|axial
+synpic4182|what plane is the image acquired in?|axial
+synpic50730|which plane is the image shown in?|axial
+synpic59043|in what plane is this image oriented?|sagittal
+synpic49078|what image plane is this?|coronal
+synpic24002|what plane is this?|oblique
+synpic31222|which plane is the image taken?|transverse
+synpic40057|what imaging plane is depicted here?|axial
+synpic47726|what plane is this ct scan in?|axial
+synpic27893|what plane is seen?|ap
+synpic52491|what is the plane of the image?|ap
+synpic19574|what image plane is this?|coronal
+synpic29780|in what plane is this image taken?|frontal
+synpic54597|what is the plane of the ct scan?|axial
+synpic31059|in what plane is this x-ray captured?|oblique
+synpic55377|what plane is demonstrated?|coronal
+synpic40517|what is the plane?|longitudinal
+synpic50562|what plane is the image acquired in?|sagittal
+synpic36206|what is the plane?|coronal
+synpic13140|which plane is this image taken?|axial
+synpic39974|what plane was used?|axial
+synpic55795|what is the plane of the image?|axial
+synpic22566|what plane is this?|transverse
+synpic52805|what plane was used?|sagittal
+synpic25388|in which plane is the ct scan displayed?|axial
+synpic33221|what is the plane of this ct scan?|axial
+synpic20214|what plane was used in this x-ray?|frontal
+synpic22672|which plane is this ct scan taken in?|axial
+synpic25217|what is the plane of this ct scan?|axial
+synpic56627|which plane is this image in?|sagittal
+synpic52564|in what plane is this image taken?|axial
+synpic44096|which plane is this mri taken in?|axial
+synpic45809|what is the plane of the mri?|sagittal
+synpic35309|in which plane is the ct scan displayed?|axial
+synpic56910|in what plane is this mri?|axial
+synpic2363|what plane is this mri in?|axial
+synpic53626|what plane is seen?|axial
+synpic47304|in what plane is this ct scan taken?|sagittal
+synpic37679|which plane is the image taken?|axial
+synpic26555|which plane is the image taken?|axial
+synpic54034|what is the plane of this mri?|sagittal
+synpic44103|what plane was used?|axial
+synpic24132|which plane is the image taken?|sagittal
+synpic20298|which plane is this ultrasound taken in?|transverse
+synpic33132|which plane is this mri taken in?|sagittal
+synpic25988|what is the plane of the ct scan?|axial
+synpic25564|in what plane is this mri?|axial
+synpic41177|which plane is the image shown in?|axial
+synpic48966|what is the plane of the image?|sagittal
+synpic22783|which plane is the image shown in?|axial
+synpic29768|what is the plane of the image?|oblique
+synpic26622|what plane is this film|frontal
+synpic51472|in what plane was this image taken?|axial
+synpic42962|which plane is the image taken?|coronal
+synpic48096|which plane is the image taken?|coronal
+synpic21098|in what plane is this mri taken?|sagittal
+synpic34103|which plane is this image in?|axial
+synpic20730|what plane is demonstrated?|axial
+synpic60374|in what plane is this ct scan?|axial
+synpic35143|in what plane is this image taken?|ap
+synpic60181|what plane is seen?|axial
+synpic49094|what image plane is this?|coronal
+synpic53032|what is the plane of the mri?|axial
+synpic32200|what plane was used?|coronal
+synpic46735|in what plane is this image taken?|axial
+synpic39026|what is the plane of this mri?|axial
+synpic52991|in what plane is this ct scan taken?|axial
+synpic18355|which plane is this image in?|frontal
+synpic58315|which plane is this mri taken in?|coronal
+synpic49274|what plane was used?|sagittal
+synpic57972|what imaging plane is depicted here?|axial
+synpic41258|what plane is this?|lateral
+synpic31588|in what plane is this x-ray?|lateral
+synpic20471|in which plane is the mri displayed?|coronal
+synpic56642|what plane is this film|axial
+synpic16524|what plane is demonstrated?|axial
+synpic39419|in what plane is this image oriented?|axial
+synpic23352|which plane is this mri taken in?|axial
+synpic19835|what plane is demonstrated?|axial
+synpic58212|what plane is seen?|axial
+synpic53745|in what plane was this image taken?|sagittal
+synpic56112|in what plane is this mri captured?|axial
+synpic37683|what plane is the image acquired in?|axial
+synpic32777|in what plane is this image taken?|coronal
+synpic33724|in what plane is this image oriented?|axial
+synpic31577|in what plane is this ct scan?|axial
+synpic23612|what plane is seen?|lateral
+synpic50802|what plane is demonstrated?|axial
+synpic19434|what plane was used in this ct scan?|axial
+synpic49261|what plane is this?|coronal
+synpic41096|in what plane is this image taken?|axial
+synpic45998|what plane is this ct scan in?|sagittal
+synpic33915|which plane is this mri taken in?|sagittal
+synpic36934|in what plane is this mri captured?|sagittal
+synpic15237|in what plane is this image taken?|axial
+synpic30979|in what plane is this image taken?|axial
+synpic28456|what is the plane?|longitudinal
+synpic48444|in what plane is this mri?|axial
+synpic26907|what plane is seen?|coronal
+synpic40884|what plane is this?|coronal
+synpic42988|which plane is the image taken?|transverse
+synpic37023|what imaging plane is depicted here?|axial
+synpic19129|what is the plane of the x-ray?|lateral
+synpic17775|what plane is this?|ap
+synpic27765|what is the plane of the angiogram?|longitudinal
+synpic25317|what is the plane of the image?|axial
+synpic18865|in which plane is the ct scan displayed?|axial
+synpic54149|which plane is this image in?|axial
+synpic54256|what plane is seen?|coronal
+synpic42584|what plane was used?|ap
+synpic54134|what plane is this mri in?|axial
+synpic33472|in what plane is this ultrasound?|transverse
+synpic33891|what plane was used in this ct scan?|axial
+synpic41104|what is the plane?|sagittal
+synpic32604|what imaging plane is depicted here?|axial
+synpic32633|in what plane is this image taken?|axial
+synpic43010|what plane is this ct scan in?|axial
+synpic57734|what plane is this mri in?|sagittal
+synpic21345|which plane is this image in?|longitudinal
+synpic17918|what plane is the image acquired in?|lateral
+synpic37754|what plane is seen?|coronal
+synpic32270|in what plane is this ct scan captured?|coronal
+synpic21870|what is the plane of the image?|coronal
+synpic45537|which plane is this image taken?|coronal
+synpic47686|what plane is this?|axial
+synpic41926|in what plane is this image taken?|axial
+synpic52640|which plane is this image in?|lateral
+synpic59883|in what plane is this ct scan?|sagittal
+synpic27982|what image plane is this?|axial
+synpic46868|which plane is this image taken?|axial
+synpic29776|what is the plane of the mri?|sagittal
+synpic53986|which plane is this image in?|axial
+synpic36924|what is the plane of this mri?|coronal
+synpic51755|what is the plane?|sagittal
+synpic16563|in what plane is this image taken?|sagittal
+synpic57460|in what plane is this ct scan taken?|axial
+synpic49495|what imaging plane is depicted here?|sagittal
+synpic48426|what plane is the image acquired in?|axial
+synpic57468|what is the plane of this ct scan?|sagittal
+synpic55722|what is the plane of this mri?|sagittal
+synpic34849|what is the plane of the image?|axial
+synpic35353|in what plane is this image oriented?|frontal
+synpic17574|what image plane is this?|axial
+synpic25865|what is the plane?|axial
+synpic17961|in which plane is the x-ray displayed?|frontal
+synpic27402|in what plane was this image taken?|pa
+synpic57242|in what plane was this image taken?|sagittal
+synpic39845|which plane is this mri taken in?|axial
+synpic32053|what plane was used in this angiogram?|ap
+synpic32875|in what plane is this ct scan?|axial
+synpic45717|what plane is this film|axial
+synpic52925|what is the plane of the image?|sagittal
+synpic41377|which plane is this image taken?|axial
+synpic10103|what plane is this?|lateral
+synpic46303|what plane is the image acquired in?|frontal
+synpic58797|what plane is this?|sagittal
+synpic35854|what plane was used?|coronal
+synpic31890|what is the plane of the image?|axial
+synpic18995|which plane is the image shown in?|coronal
+synpic59210|what plane is this mri in?|sagittal
+synpic43964|in what plane is this x-ray?|lateral
+synpic47225|in what plane is this ct scan?|axial
+synpic41970|which plane is the image taken?|axial
+synpic34878|what imaging plane is depicted here?|axial
+synpic57958|which plane is this image in?|lateral
+synpic33978|what plane is this ct scan in?|axial
+synpic39757|what imaging plane is depicted here?|axial
+synpic54809|which plane is the image taken?|coronal
+synpic56405|which plane is the image taken?|axial
+synpic37100|what plane was used?|axial
+synpic16189|in what plane is this image oriented?|sagittal
+synpic16731|what is the plane of the image?|axial
+synpic52569|in what plane is this mri captured?|axial
+synpic24341|which plane is this ct scan taken in?|axial
+synpic57867|in what plane is this angiogram taken?|lateral
+synpic45783|what plane is demonstrated?|oblique
+synpic29110|what plane was used in this ct scan?|axial
+synpic24431|in what plane is this mri captured?|sagittal
+synpic48903|what imaging plane is depicted here?|coronal
+synpic45245|what is the plane of the ct scan?|axial
+synpic26696|what plane was used in this ct scan?|axial
+synpic9327|which plane is this ct scan taken in?|axial
+synpic60260|what plane is seen?|sagittal
+synpic49090|what is the plane of this ct scan?|coronal
+synpic57724|which plane is the image shown in?|sagittal
+synpic25060|what plane is the image acquired in?|sagittal
+synpic30325|which plane is this image in?|axial
+synpic17623|in what plane is this ct scan taken?|axial
+synpic15878|in what plane is this mri?|axial
+synpic37106|what image plane is this?|axial
+synpic23607|which plane is the image taken?|axial
+synpic24647|in what plane was this image taken?|longitudinal
+synpic59405|what plane is the image acquired in?|coronal
+synpic53378|in what plane was this image taken?|axial
+synpic49054|in what plane is this image taken?|sagittal
+synpic32705|in what plane is this x-ray taken?|lateral
+synpic57280|what plane is this mri in?|axial
+synpic16425|which plane is this image taken?|axial
+synpic57859|what plane is this?|axial
+synpic27260|in what plane is this image taken?|axial
+synpic60491|in what plane is this x-ray?|ap
+synpic56893|which plane is the image taken?|axial
+synpic34979|what plane is this mri in?|coronal
+synpic53207|which plane is this image in?|axial
+synpic47704|which plane is this ct scan taken in?|axial
+synpic36050|in what plane is this image oriented?|coronal
+synpic40133|what image plane is this?|sagittal
+synpic54255|what plane was used in this mri?|coronal
+synpic32754|in what plane is this ct scan captured?|ap
+synpic41885|what plane is demonstrated?|sagittal
+synpic17118|in which plane is the x-ray displayed?|pa
+synpic28832|which plane is this image in?|frontal
+synpic22037|in what plane is this image taken?|ap
+synpic50586|which plane is this image in?|sagittal
+synpic16234|in what plane is this ct scan taken?|axial
+synpic55059|what plane is this film|oblique
+synpic55522|which plane is the image taken?|axial
+synpic27267|in what plane is this x-ray taken?|ap
+synpic36162|what is the plane of the image?|axial
+synpic59061|in what plane is this ct scan?|axial
+synpic41067|in what plane is this ct scan taken?|axial
+synpic33284|what plane was used in this ct scan?|axial
+synpic35740|what plane was used in this mri?|axial
+synpic56734|in what plane is this ct scan taken?|coronal
+synpic21695|in what plane is this image taken?|lateral
+synpic36249|what is the plane of this x-ray?|frontal
+synpic52296|what plane is this?|sagittal
+synpic61237|in what plane is this ct scan captured?|axial
+synpic34900|in which plane is the ct scan displayed?|axial
+synpic34330|which plane is this mri taken in?|axial
+synpic27293|what plane is this film|sagittal
+synpic21355|in what plane is this mri?|sagittal
+synpic57401|what plane is demonstrated?|axial
+synpic25538|in which plane is the ct scan displayed?|axial
+synpic59086|in what plane is this mri captured?|axial
+synpic29256|in what plane is this ct scan taken?|3d reconstruction
+synpic45662|what plane is demonstrated?|axial
+synpic55239|in what plane is this mri?|coronal
+synpic45661|in what plane is this image taken?|axial
+synpic33655|in what plane is this mri taken?|axial
+synpic51038|which plane is this image in?|axial
+synpic54707|which plane is this mri taken in?|coronal
+synpic38434|in what plane is this ct scan?|axial
+synpic28910|what is the plane of the image?|frontal
+synpic55437|what is the plane of this x-ray?|ap
+synpic45932|in what plane is this angiogram?|pa
+synpic23026|what plane is this x-ray in?|ap
+synpic47465|which plane is this image in?|transverse
+synpic32655|what plane is seen?|sagittal
+synpic20157|in what plane is this ct scan?|axial
+synpic57089|what is the plane of the x-ray?|ap
+synpic56852|in what plane was this image taken?|axial
+synpic31115|what plane was used?|axial
+synpic58659|what plane is this film|sagittal
+synpic23286|what plane is this film|axial
+synpic45544|which plane is the image shown in?|axial
+synpic43568|which plane is the image taken?|ap
+synpic31445|in what plane is this ct scan captured?|axial
+synpic45316|what is the plane?|axial
+synpic54586|in what plane is this mri taken?|coronal
+synpic27967|which plane is this ct scan taken in?|sagittal
+synpic16607|what plane is the image acquired in?|axial
+synpic55069|what is the plane of the image?|coronal
+synpic50626|what plane is this film|axial
+synpic32354|in what plane is this image taken?|axial
+synpic27473|what plane is this?|sagittal
+synpic26197|what imaging plane is depicted here?|axial
+synpic57767|in what plane is this mri captured?|sagittal
+synpic34759|what plane is demonstrated?|ap
+synpic45730|which plane is this ct scan taken in?|coronal
+synpic46364|in what plane is this ct scan captured?|axial
+synpic55962|what is the plane of the image?|axial
+synpic39565|what image plane is this?|pa
+synpic35882|what plane is demonstrated?|axial
+synpic46591|what is the plane of the image?|ap
+synpic60847|in what plane is this mri?|coronal
+synpic38144|in what plane is this ct scan captured?|axial
+synpic24599|which plane is the image shown in?|axial
+synpic43807|in what plane is this ct scan taken?|axial
+synpic12075|in what plane is this ct scan captured?|axial
+synpic51621|what plane is seen?|sagittal
+synpic55149|which plane is this image in?|axial
+synpic59868|in what plane is this image taken?|coronal
+synpic42803|what plane was used in this mri?|axial
+synpic43823|in what plane is this image taken?|frontal
+synpic35702|what plane is this?|ap
+synpic100403|in what plane is this image taken?|frontal
+synpic16081|what is the plane of the ct scan?|axial
+synpic45111|what plane is this?|axial
+synpic28965|what plane is this ct scan in?|axial
+synpic48361|in what plane was this image taken?|axial
+synpic46263|in what plane is this image taken?|coronal
+synpic41753|in what plane was this image taken?|oblique
+synpic52280|what plane is the image acquired in?|axial
+synpic24936|in what plane is this ct scan?|coronal
+synpic53528|in what plane was this image taken?|axial
+synpic58781|in what plane was this image taken?|axial
+synpic54624|in what plane is this image taken?|axial
+synpic26352|what is the plane of this mri?|sagittal
+synpic46222|what plane is this ct scan in?|axial
+synpic25458|what plane is demonstrated?|axial
+synpic40991|in what plane is this ct scan taken?|axial
+synpic41670|what imaging plane is depicted here?|axial
+synpic21937|in what plane is this x-ray?|lateral
+synpic25031|what image plane is this?|axial
+synpic43808|what is the plane of this ct scan?|axial
+synpic27049|in what plane is this mri?|axial
+synpic21114|what plane is this film|transverse
+synpic53870|what plane is demonstrated?|sagittal
+synpic52528|which plane is the image shown in?|axial
+synpic56673|what is the plane of the image?|coronal
+synpic51674|which plane is this image taken?|axial
+synpic58737|what is the plane of the mri?|sagittal
+synpic16907|what plane is this?|axial
+synpic40986|in what plane is this image oriented?|axial
+synpic21169|which plane is the image taken?|frontal
+synpic31286|what is the plane of this x-ray?|ap
+synpic50427|in what plane is this mri?|sagittal
+synpic38072|what plane is seen?|axial
+synpic54466|what plane is demonstrated?|axial
+synpic53953|what plane is this?|axial
+synpic52525|what plane is the image acquired in?|axial
+synpic52688|what is the plane of this mri?|coronal
+synpic56851|in what plane is this mri?|axial
+synpic27593|in what plane is this image oriented?|lateral
+synpic27729|which plane is the image taken?|sagittal
+synpic29836|which plane is this image taken?|coronal
+synpic40877|in what plane is this image taken?|axial
+synpic40318|what plane is this film|axial
+synpic22891|what plane is this film|axial
+synpic37434|which plane is the image taken?|axial
+synpic47995|in what plane is this image taken?|frontal
+synpic47167|which plane is this image taken?|axial
+synpic20631|what plane is seen?|axial
+synpic57402|which plane is this image in?|axial
+synpic34768|which plane is this mri taken in?|axial
+synpic53956|which plane is the image shown in?|sagittal
+synpic41182|what is the plane of this mri?|coronal
+synpic22950|in what plane was this image taken?|axial
+synpic25683|what plane was used?|ap
+synpic44726|in what plane was this image taken?|sagittal
+synpic20335|which plane is the image taken?|axial
+synpic26732|which plane is this image in?|oblique
+synpic21948|what is the plane of this ct scan?|axial
+synpic36124|what plane is the image acquired in?|axial
+synpic54172|what plane is seen?|coronal
+synpic26942|in what plane was this image taken?|transverse
+synpic60238|what plane is seen?|coronal
+synpic16224|what plane is the image acquired in?|pa
+synpic60824|which plane is this ct scan taken in?|axial
+synpic55688|what plane is this?|axial
+synpic45152|what is the plane of the mri?|coronal
+synpic100514|what plane is demonstrated?|coronal
+synpic54155|in what plane is this angiogram captured?|ap
+synpic46519|in which plane is the mri displayed?|axial
+synpic21325|in which plane is the ct scan displayed?|axial
+synpic56552|in what plane is this mri captured?|sagittal
+synpic50936|what is the plane?|axial
+synpic50800|in what plane is this image taken?|axial
+synpic18066|in what plane is this image taken?|axial
+synpic57971|which plane is the image taken?|axial
+synpic50808|in what plane is this image oriented?|axial
+synpic51380|in what plane was this image taken?|axial
+synpic35232|what plane is demonstrated?|ap
+synpic49486|what image plane is this?|ap
+synpic19599|which plane is this image taken?|axial
+synpic47969|what is the plane of the ct scan?|axial
+synpic45970|in what plane is this image taken?|axial
+synpic13033|what plane was used in this ct scan?|axial
+synpic39165|in what plane is this image oriented?|coronal
+synpic46969|in what plane is this ct scan captured?|axial
+synpic58527|what plane was used in this mri?|axial
+synpic40301|in what plane is this image taken?|axial
+synpic33462|what plane was used?|frontal
+synpic46655|in what plane is this image taken?|axial
+synpic46543|what is the plane of this ultrasound?|sagittal
+synpic52803|in what plane is this image taken?|sagittal
+synpic49853|what plane is the image acquired in?|axial
+synpic43775|what plane was used in this ct scan?|axial
+synpic19204|which plane is the image shown in?|axial
+synpic25834|what plane is the image acquired in?|axial
+synpic52331|what plane is this film|lateral
+synpic21559|what is the plane of the image?|sagittal
+synpic21416|what plane was used in this ct scan?|axial
+synpic25177|what image plane is this?|axial
+synpic24180|in what plane is this mammograph taken?|mammo - mlo
+synpic48418|in what plane is this mri?|sagittal
+synpic60186|in what plane is this image taken?|axial
+synpic58643|in what plane is this image taken?|axial
+synpic45303|which plane is the image taken?|coronal
+synpic19770|what image plane is this?|axial
+synpic40721|which plane is this image taken?|axial
+synpic57683|which plane is this image in?|axial
+synpic45528|what plane is this?|lateral
+synpic33826|what image plane is this?|axial
+synpic44127|in what plane is this x-ray captured?|lateral
+synpic38915|which plane is the image shown in?|ap
+synpic34038|which plane is this image in?|axial
+synpic21776|what plane is this film|pa
+synpic21193|in what plane is this x-ray taken?|pa
+synpic34021|which plane is this image taken?|oblique
+synpic61155|in what plane was this image taken?|ap
+synpic37652|what plane is this mri in?|axial
+synpic24935|which plane is the image shown in?|coronal
+synpic42335|what plane is the image acquired in?|ap
+synpic26463|what plane is demonstrated?|axial
+synpic26641|in what plane is this image taken?|axial
+synpic60520|what plane is seen?|coronal
+synpic36254|what plane was used?|axial
+synpic12943|what plane is this mri in?|axial
+synpic28521|in what plane is this ct scan?|3d reconstruction
+synpic40489|in what plane was this image taken?|coronal
+synpic34124|in what plane is this image oriented?|axial
+synpic23511|which plane is the image taken?|ap
+synpic41661|in which plane is the mri displayed?|coronal
+synpic56649|in what plane is this image taken?|axial
+synpic56340|which plane is the image taken?|axial
+synpic27623|what imaging plane is depicted here?|pa
+synpic45955|in what plane was this image taken?|sagittal
+synpic55287|in which plane is the mri displayed?|axial
+synpic23191|in what plane is this x-ray taken?|ap
+synpic25415|what is the plane?|lateral
+synpic55118|what imaging plane is depicted here?|sagittal
+synpic28053|what is the plane of the image?|axial
+synpic37027|what imaging plane is depicted here?|axial
+synpic41703|what imaging plane is depicted here?|sagittal
+synpic44101|what plane was used in this ct scan?|axial
+synpic36106|in what plane is this mri?|axial
+synpic24745|in what plane was this image taken?|axial
+synpic26734|what imaging plane is depicted here?|oblique
+synpic58331|in what plane is this mri?|frontal
+synpic21884|what is the plane?|coronal
+synpic45532|which plane is this ct scan taken in?|coronal
+synpic48074|what plane is this film|axial
+synpic37607|which plane is the image shown in?|axial
+synpic50620|what plane is the image acquired in?|sagittal
+synpic50783|in what plane was this image taken?|axial
+synpic24194|what is the plane?|frontal
+synpic29199|what plane is this ct scan in?|axial
+synpic17223|which plane is this image taken?|mammo - cc
+synpic33652|which plane is the image taken?|sagittal
+synpic18837|which plane is this image taken?|mammo - cc
+synpic46067|what plane is the image acquired in?|coronal
+synpic39705|which plane is this image taken?|axial
+synpic27539|which plane is this image in?|coronal
+synpic28744|what plane is this film|axial
+synpic47593|what plane is demonstrated?|coronal
+synpic23644|what is the plane?|sagittal
+synpic33426|in which plane is the x-ray displayed?|lateral
+synpic46314|what plane is seen?|coronal
+synpic31938|what plane was used in this ct scan?|axial
+synpic59723|what plane is the image acquired in?|transverse
+synpic43521|in what plane is this mri captured?|axial
+synpic9043|in what plane was this image taken?|ap
+synpic39571|what plane is the image acquired in?|pa
+synpic30978|in what plane is this image taken?|sagittal
+synpic27148|what plane is this film|sagittal
+synpic21473|what plane is this ct scan in?|axial
+synpic50101|which plane is this ct scan taken in?|axial
+synpic45772|in what plane is this ct scan taken?|axial
+synpic20867|what plane is this?|ap
+synpic59526|in what plane is this mri?|axial
+synpic57749|which plane is this image taken?|lateral
+synpic36375|what is the plane?|axial
+synpic55773|what is the plane?|coronal
+synpic27141|what is the plane of this x-ray?|ap
+synpic55483|what is the plane of the image?|sagittal
+synpic59257|what plane is this mri in?|sagittal
+synpic17781|what plane is the image acquired in?|frontal
+synpic46594|in which plane is the ct scan displayed?|axial
+synpic37898|which plane is the image shown in?|axial
+synpic41339|what plane is demonstrated?|sagittal
+synpic49150|which plane is this x-ray taken in?|frontal
+synpic30747|which plane is this image in?|frontal
+synpic24567|in what plane is this image taken?|axial
+synpic43896|in what plane is this ultrasound captured?|sagittal
+synpic40555|what plane is seen?|axial
+synpic51094|what plane was used?|coronal
+synpic50360|what image plane is this?|axial
+synpic17392|what is the plane of this ct scan?|axial
+synpic31845|what plane is this?|frontal
+synpic39634|what is the plane of the mri?|sagittal
+synpic51017|in what plane is this ct scan captured?|axial
+synpic56316|what is the plane of the image?|axial
+synpic24308|what plane is this?|axial
+synpic44128|what plane is demonstrated?|axial
+synpic48363|what plane is seen?|axial
+synpic53519|which plane is the image taken?|sagittal
+synpic45989|in what plane is this image taken?|axial
+synpic20391|what plane is this film|axial
+synpic49265|what imaging plane is depicted here?|coronal
+synpic41048|which plane is the image taken?|sagittal
+synpic49950|in what plane is this mri?|axial
+synpic10260|what is the plane of the image?|ap
+synpic48578|what plane is this?|axial
+synpic25527|what is the plane?|axial
+synpic22608|in what plane is this image oriented?|frontal
+synpic32854|in what plane is this x-ray captured?|oblique
+synpic56419|what is the plane?|axial
+synpic52325|what image plane is this?|oblique
+synpic20138|what plane is demonstrated?|frontal
+synpic22388|in what plane is this x-ray?|pa
+synpic18727|in which plane is the ct scan displayed?|axial
+synpic35372|what is the plane of the mri?|coronal
+synpic24059|in what plane is this image taken?|3d reconstruction
+synpic57263|what is the plane of the image?|axial
+synpic31688|which plane is this image taken?|axial
+synpic20181|in what plane is this mri captured?|coronal
+synpic41068|what plane is the image acquired in?|axial
+synpic18049|what is the plane of the ct scan?|axial
+synpic26536|what plane is this ct scan in?|axial
+synpic60232|in what plane is this image taken?|axial
+synpic28219|what is the plane of this ultrasound?|sagittal
+synpic48046|which plane is the image shown in?|sagittal
+synpic44092|in what plane is this image taken?|coronal
+synpic22548|what imaging plane is depicted here?|axial
+synpic16567|what plane is this?|axial
+synpic58299|what plane is this?|axial
+synpic38583|what plane is this mri in?|axial
+synpic27327|what plane is seen?|frontal
+synpic45064|what is the plane of the mri?|coronal
+synpic100303|which plane is the image taken?|transverse
+synpic59107|what is the plane of this angiogram?|ap
+synpic50880|which plane is this image taken?|coronal
+synpic26196|in what plane is this image taken?|axial
+synpic48912|which plane is this image taken?|axial
+synpic18362|what plane is demonstrated?|axial
+synpic47035|in what plane is this ct scan taken?|axial
+synpic10258|what image plane is this?|ap
+synpic16874|which plane is this ct scan taken in?|axial
+synpic56865|in which plane is the mri displayed?|sagittal
+synpic41906|in which plane is the ct scan displayed?|axial
+synpic30706|what is the plane?|oblique
+synpic61227|in what plane is this image taken?|axial
+synpic46415|what imaging plane is depicted here?|sagittal
+synpic25454|what plane is this ct scan in?|axial
+synpic18437|what image plane is this?|axial
+synpic47149|what plane is this film|ap
+synpic19679|in what plane is this x-ray?|lateral
+synpic36419|what plane was used in this ct scan?|axial
+synpic52671|what is the plane?|coronal
+synpic52458|what plane is the image acquired in?|coronal
+synpic23359|which plane is this image taken?|axial
+synpic40671|in what plane was this image taken?|axial
+synpic45714|in what plane is this mri?|axial
+synpic55233|what is the plane of the image?|axial
+synpic21438|what is the plane of this ct scan?|axial
+synpic41588|what is the plane of the ct scan?|3d reconstruction
+synpic36431|which plane is the image taken?|axial
+synpic51787|in what plane is this image taken?|axial
+synpic33371|what is the plane?|axial
+synpic39302|which plane is this image in?|axial
+synpic24772|in what plane is this image taken?|axial
+synpic53814|which plane is this image in?|axial
+synpic56385|what imaging plane is depicted here?|axial
+synpic49773|which plane is the image shown in?|sagittal
+synpic20347|in what plane is this ct scan?|axial
+synpic58924|in what plane is this mri?|axial
+synpic55255|in what plane is this image oriented?|axial
+synpic49910|what plane is this film|sagittal
+synpic52357|in what plane was this image taken?|sagittal
+synpic33150|what plane is seen?|axial
+synpic48976|what image plane is this?|axial
+synpic40855|which plane is the image shown in?|axial
+synpic46502|what plane is seen?|axial
+synpic594|what plane is the image acquired in?|coronal
+synpic46042|what plane is this mri in?|coronal
+synpic23985|what plane is this film|ap
+synpic38875|which plane is this mri taken in?|axial
+synpic22194|which plane is the image shown in?|pa
+synpic35712|in what plane is this mri taken?|axial
+synpic57302|what plane is the image acquired in?|axial
+synpic27246|what plane was used in this ct scan?|axial
+synpic30981|what plane is demonstrated?|axial
+synpic49995|which plane is this image in?|axial
+synpic27823|in what plane is this x-ray taken?|lateral
+synpic49546|what plane is this film|axial
+synpic24125|in what plane is this image oriented?|axial
+synpic44972|what is the plane of the image?|axial
+synpic59589|which plane is this mri taken in?|axial
+synpic38405|what plane is seen?|axial
+synpic31140|in what plane is this image taken?|sagittal
+synpic32156|what image plane is this?|axial
+synpic31974|in what plane is this mri?|sagittal
+synpic19294|what plane is this x-ray in?|ap
+synpic22190|what plane is this?|coronal
+synpic57356|what is the plane?|sagittal
+synpic23672|what image plane is this?|sagittal
+synpic45189|which plane is the image shown in?|sagittal
+synpic33237|what plane is this?|ap
+synpic35664|what plane is the image acquired in?|coronal
+synpic49451|in what plane is this ct scan?|axial
+synpic47626|what is the plane of the image?|axial
+synpic40952|in what plane is this ct scan?|axial
+synpic15733|what plane is this film|axial
+synpic26996|in what plane is this mri captured?|coronal
+synpic23776|what plane is the image acquired in?|axial
+synpic45988|which plane is the image taken?|axial
+synpic31929|which plane is this image taken?|axial
+synpic58540|which plane is this image in?|axial
+synpic34858|which plane is this mri taken in?|sagittal
+synpic49990|what plane is the image acquired in?|sagittal
+synpic41415|in what plane is this image oriented?|sagittal
+synpic21014|what plane is this film|transverse
+synpic36869|what imaging plane is depicted here?|axial
+synpic54777|what plane is this film|coronal
+synpic34953|what plane is seen?|sagittal
+synpic47700|what plane is this ct scan in?|axial
+synpic56128|what plane is the image acquired in?|sagittal
+synpic48365|which plane is the image taken?|sagittal
+synpic43492|what imaging plane is depicted here?|oblique
+synpic27817|which plane is the image shown in?|transverse
+synpic49965|which plane is this image taken?|axial
+synpic1098|what plane was used?|axial
+synpic53740|in what plane was this image taken?|sagittal
+synpic53416|in what plane is this image taken?|axial
+synpic27231|in what plane is this image taken?|axial
+synpic39885|in what plane is this ct scan?|axial
+synpic41698|what plane is this mri in?|coronal
+synpic56487|what plane is this ct scan in?|3d reconstruction
+synpic60108|what plane is this?|coronal
+synpic20333|what plane is the image acquired in?|axial
+synpic31166|what is the plane?|axial
+synpic32189|in what plane is this image taken?|pa
+synpic28847|in what plane is this image taken?|axial
+synpic34504|in what plane is this mri taken?|sagittal
+synpic37732|which plane is this image taken?|axial
+synpic29672|what plane is the image acquired in?|longitudinal
+synpic100294|which plane is the image shown in?|transverse
+synpic19763|in which plane is the ct scan displayed?|axial
+synpic16618|what is the plane of the image?|pa
+synpic60278|what plane is this mri in?|axial
+synpic32856|what plane is demonstrated?|lateral
+synpic59956|in what plane is this image taken?|decubitus
+synpic20551|what plane was used?|axial
+synpic30762|in what plane is this ultrasound captured?|sagittal
+synpic56905|in what plane is this mri?|axial
+synpic100108|what plane is demonstrated?|lateral
+synpic55637|in what plane is this image taken?|axial
+synpic22827|what image plane is this?|axial
+synpic30965|what plane was used?|frontal
+synpic45431|in which plane is the mri displayed?|axial
+synpic54978|in what plane is this mri taken?|axial
+synpic22720|what image plane is this?|pa
+synpic1339|what plane is seen?|axial
+synpic17397|what plane is this?|axial
+synpic24742|what plane was used in this x-ray?|lateral
+synpic39942|in which plane is the mri displayed?|sagittal
+synpic42132|what is the plane of the image?|ap
+synpic58204|which plane is this image taken?|axial
+synpic52438|what is the plane of the mri?|sagittal
+synpic48712|what plane was used in this x-ray?|oblique
+synpic39523|what is the plane?|axial
+synpic39299|what is the plane?|axial
+synpic49854|what plane is seen?|coronal
+synpic48575|which plane is the image shown in?|axial
+synpic42062|what plane is this?|axial
+synpic18255|what plane was used in this mri?|axial
+synpic60656|what plane was used?|sagittal
+synpic46307|which plane is this mri taken in?|sagittal
+synpic34812|in what plane is this image taken?|axial
+synpic48060|in what plane is this mri taken?|axial
+synpic18547|what is the plane of this nuclear medicine image?|lateral
+synpic46865|what image plane is this?|axial
+synpic38315|which plane is the image shown in?|ap
+synpic41697|what is the plane of the mri?|sagittal
+synpic19025|what image plane is this?|axial
+synpic44473|which plane is this image taken?|axial
+synpic25168|which plane is this image taken?|sagittal
+synpic25104|what image plane is this?|axial
+synpic49402|in which plane is the mri displayed?|3d reconstruction
+synpic13034|what plane is this?|axial
+synpic60659|in what plane is this ct scan captured?|axial
+synpic45069|what is the plane of the ct scan?|sagittal
+synpic25166|what plane is this?|axial
+synpic47787|which plane is this image taken?|axial
+synpic40530|which plane is this ultrasound taken in?|sagittal
+synpic55643|what is the plane of the image?|coronal
+synpic60970|which plane is this image taken?|lateral
+synpic47171|what is the plane of the image?|axial
+synpic25183|which plane is the image shown in?|axial
+synpic46177|which plane is this ct scan taken in?|axial
+synpic43656|what plane is this angiogram in?|ap
+synpic11815|what plane is seen?|axial
+synpic39417|what plane is this?|sagittal
+synpic42041|which plane is this image in?|axial
+synpic54956|what plane is seen?|axial
+synpic36070|what imaging plane is depicted here?|axial
+synpic29762|what is the plane of this ct scan?|axial
+synpic25438|what plane is the image acquired in?|coronal
+synpic15124|what is the plane of this mri?|sagittal
+synpic31204|which plane is this image in?|transverse
+synpic41639|what plane was used?|axial
+synpic42267|what is the plane of the x-ray?|lateral
+synpic27746|what plane is this ct scan in?|axial
+synpic45871|what plane is the image acquired in?|sagittal
+synpic33454|what is the plane?|frontal
+synpic58470|in which plane is the mri displayed?|axial
+synpic13653|in what plane is this ct scan taken?|axial
+synpic19885|what plane is this nuclear medicine image in?|frontal
+synpic55323|what imaging plane is depicted here?|coronal
+synpic27039|in what plane is this x-ray?|pa
+synpic51299|in what plane is this image oriented?|axial
+synpic53961|which plane is the image taken?|axial
+synpic31090|what is the plane of the image?|sagittal
+synpic58046|what plane is this angiogram in?|ap
+synpic40375|in what plane is this image taken?|axial
+synpic18158|in what plane is this ct scan?|axial
+synpic40752|in what plane is this x-ray?|ap
+synpic60224|what is the plane of this mri?|coronal
+synpic34221|what plane is this x-ray in?|frontal
+synpic60839|what is the plane of the mri?|sagittal
+synpic40793|which plane is this image in?|axial
+synpic28119|which plane is the image taken?|coronal
+synpic7475|which plane is the image taken?|axial
+synpic32183|what plane is seen?|axial
+synpic53167|which plane is this image taken?|axial
+synpic51450|what plane is this film|axial
+synpic29116|what is the plane of the mammograph?|lateral
+synpic59889|what is the plane?|axial
+synpic33650|which plane is this ct scan taken in?|axial
+synpic49913|what is the plane of the image?|axial
+synpic36187|what plane is this ct scan in?|axial
+synpic60476|in what plane is this image oriented?|axial
+synpic21388|which plane is this image in?|coronal
+synpic16428|in what plane is this image taken?|axial
+synpic23528|which plane is the image taken?|longitudinal
+synpic21048|what plane is demonstrated?|axial
+synpic50963|in which plane is the mri displayed?|axial
+synpic16800|what image plane is this?|axial
+synpic16066|which plane is this image in?|lateral
+synpic56599|which plane is this image taken?|axial
+synpic18934|which plane is this mri taken in?|axial
+synpic34134|in what plane was this image taken?|coronal
+synpic19261|in what plane was this image taken?|axial
+synpic23927|what plane was used?|axial
+synpic55840|what plane is seen?|coronal
+synpic51458|what plane is this ct scan in?|coronal
+synpic52664|which plane is this image taken?|ap
+synpic55844|what is the plane of the mri?|sagittal
+synpic41290|in what plane is this mri captured?|sagittal
+synpic28034|which plane is this mri taken in?|axial
+synpic29781|what plane is the image acquired in?|oblique
+synpic33770|in what plane is this ct scan captured?|coronal
+synpic32288|which plane is the image shown in?|coronal
+synpic23218|what plane is the image acquired in?|axial
+synpic51887|which plane is this image taken?|axial
+synpic53878|in which plane is the ct scan displayed?|coronal
+synpic29226|what is the plane of this mri?|coronal
+synpic56554|what is the plane?|sagittal
+synpic28477|in which plane is the ct scan displayed?|axial
+synpic27499|what plane was used?|coronal
+synpic28611|what is the plane of the ct scan?|coronal
+synpic58055|which plane is the image shown in?|ap
+synpic50385|what is the plane of the ct scan?|coronal
+synpic33385|in what plane is this mri?|axial
+synpic34193|in what plane is this ultrasound?|transverse
+synpic22897|in what plane is this x-ray?|pa
+synpic19669|in what plane is this image oriented?|ap
+synpic50593|in what plane is this x-ray?|frontal
+synpic33211|what plane is the image acquired in?|axial
+synpic45060|in what plane is this mri?|axial
+synpic44929|in what plane is this image oriented?|axial
+synpic58568|in what plane is this image taken?|coronal
+synpic52379|in what plane is this image taken?|frontal
+synpic57799|what plane is this?|axial
+synpic43908|in what plane was this image taken?|sagittal
+synpic39708|in what plane is this image taken?|coronal
+synpic38595|which plane is this image taken?|axial
+synpic23200|what plane is demonstrated?|axial
+synpic24597|in what plane is this x-ray captured?|ap
+synpic16232|which plane is this image taken?|lateral
+synpic16167|in what plane is this mri taken?|sagittal
+synpic52452|in what plane was this image taken?|transverse
+synpic20710|what plane is this?|sagittal
+synpic37624|in what plane is this mri?|sagittal
+synpic14404|what plane is this film|pa
+synpic48567|what is the plane?|axial
+synpic18728|what plane was used in this mri?|axial
+synpic36467|which plane is this mri taken in?|axial
+synpic22651|which plane is the image taken?|sagittal
+synpic19908|what plane was used?|pa
+synpic59686|which plane is the image taken?|coronal
+synpic42046|in which plane is the mri displayed?|axial
+synpic40351|in what plane is this image taken?|transverse
+synpic30898|which plane is this ultrasound taken in?|longitudinal
+synpic58647|in what plane is this ct scan?|coronal
+synpic56713|in what plane is this mri taken?|axial
+synpic41469|in what plane is this mri?|axial
+synpic53419|what plane is this mri in?|axial
+synpic58556|in what plane was this image taken?|sagittal
+synpic49375|what plane is this ct scan in?|axial
+synpic30275|in what plane is this image taken?|sagittal
+synpic33476|in which plane is the gastrointestinal image displayed?|frontal
+synpic34163|what imaging plane is depicted here?|coronal
+synpic39956|what image plane is this?|lateral
+synpic27980|in what plane is this image taken?|pa
+synpic60487|what plane is this mri in?|coronal
+synpic41978|in what plane is this image taken?|frontal
+synpic54654|in what plane was this image taken?|axial
+synpic41223|what plane is this mri in?|sagittal
+synpic53160|which plane is the image taken?|axial
+synpic22246|what plane is seen?|axial
+synpic59343|what plane was used?|axial
+synpic49371|what plane is this x-ray in?|ap
+synpic18912|which plane is this mri taken in?|sagittal
+synpic40382|in what plane is this image taken?|axial
+synpic48741|what plane is this mri in?|sagittal
+synpic16430|which plane is the image shown in?|axial
+synpic27196|what plane was used?|longitudinal
+synpic57588|what is the plane?|sagittal
+synpic41133|which plane is this image in?|axial
+synpic44925|what image plane is this?|sagittal
+synpic24029|in what plane is this ultrasound taken?|coronal
+synpic24491|what image plane is this?|lateral
+synpic48857|in what plane is this image taken?|axial
+synpic23562|in what plane is this gastrointestinal image captured?|ap
+synpic53645|what plane is seen?|oblique
+synpic24374|in which plane is the ct scan displayed?|sagittal
+synpic53664|what plane is this film|axial
+synpic55391|what plane is seen?|axial
+synpic59574|which plane is the image taken?|sagittal
+synpic14702|in what plane is this ct scan taken?|axial
+synpic55102|what imaging plane is depicted here?|coronal
+synpic55276|what is the plane of the mri?|axial
+synpic60668|which plane is the image shown in?|sagittal
+synpic39788|in what plane is this nuclear medicine image captured?|ap
+synpic55450|in what plane is this image taken?|coronal
+synpic33734|in which plane is the ultrasound displayed?|transverse
+synpic43239|what plane is this film|coronal
+synpic59120|which plane is this image taken?|lateral
+synpic51082|what plane is this film|axial
+synpic13027|which plane is this image taken?|axial
+synpic53811|what plane is the image acquired in?|axial
+synpic39870|what is the plane of the image?|axial
+synpic28813|what is the plane?|axial
+synpic39745|what is the plane of the mri?|axial
+synpic30277|what image plane is this?|pa
+synpic24633|what is the plane of the image?|axial
+synpic49388|which plane is this mri taken in?|axial
+synpic58849|in what plane is this image taken?|axial
+synpic54127|what plane is demonstrated?|coronal
+synpic51194|what image plane is this?|sagittal
+synpic48284|what plane was used in this ct scan?|axial
+synpic34653|what is the plane of the mri?|sagittal
+synpic52635|what plane was used in this mri?|axial
+synpic60794|what plane is this mri in?|coronal
+synpic57080|which plane is this image in?|coronal
+synpic19980|what plane is seen?|axial
+synpic20431|what is the plane of the mri?|axial
+synpic24944|what image plane is this?|axial
+synpic36445|in what plane is this mri captured?|axial
+synpic42219|in what plane is this mri captured?|axial
+synpic56144|what is the plane of the image?|axial
+synpic53486|in what plane is this image taken?|coronal
+synpic21578|which plane is this image in?|lateral
+synpic48704|in what plane is this image taken?|coronal
+synpic53102|in what plane is this mri?|axial
+synpic35910|what is the plane?|ap
+synpic41005|in what plane is this image taken?|axial
+synpic45147|what plane is seen?|axial
+synpic56397|which plane is this mri taken in?|axial
+synpic60855|what plane was used?|axial
+synpic23102|what plane is demonstrated?|axial
+synpic26483|which plane is this ct scan taken in?|axial
+synpic33563|which plane is this nuclear medicine image taken in?|frontal
+synpic16097|what plane is seen?|lateral
+synpic16199|in what plane is this ct scan taken?|axial
+synpic31411|which plane is the image shown in?|axial
+synpic27986|in which plane is the ct scan displayed?|axial
+synpic55000|what is the plane of this mri?|axial
+synpic35607|what plane is this mri in?|axial
+synpic47659|in what plane is this ct scan?|axial
+synpic21845|what plane is this mri in?|coronal
+synpic21376|in what plane is this image taken?|axial
+synpic34910|what imaging plane is depicted here?|coronal
+synpic58789|in what plane is this image oriented?|axial
+synpic59259|which plane is the image shown in?|sagittal
+synpic45807|in which plane is the mri displayed?|axial
+synpic31209|which plane is this image taken?|sagittal
+synpic50707|in what plane was this image taken?|lateral
+synpic56492|in which plane is the ct scan displayed?|axial
+synpic57601|what imaging plane is depicted here?|axial
+synpic29001|what plane was used in this ultrasound?|longitudinal
+synpic18993|in what plane was this image taken?|coronal
+synpic49469|what plane was used?|axial
+synpic41616|what plane is this?|axial
+synpic27037|what is the plane of the image?|axial
+synpic17905|in what plane is this ct scan?|axial
+synpic57246|what is the plane?|axial
+synpic53971|in what plane is this image taken?|axial
+synpic51968|in what plane is this image taken?|axial
+synpic51475|what is the plane of this ct scan?|coronal
+synpic58306|what plane was used in this mri?|axial
+synpic46065|in what plane is this mri captured?|coronal
+synpic28146|in what plane is this ct scan?|axial
+synpic29260|in what plane is this x-ray captured?|ap
+synpic59103|which plane is the image taken?|coronal
+synpic41041|in which plane is the mri displayed?|axial
+synpic59602|what plane was used in this mri?|sagittal
+synpic51115|in what plane was this image taken?|frontal
+synpic35109|in what plane is this mri captured?|axial
+synpic17508|which plane is the image taken?|axial
+synpic58975|which plane is this image taken?|axial
+synpic37858|what is the plane?|sagittal
+synpic36938|in what plane is this mri taken?|axial
+synpic46836|what is the plane of the image?|sagittal
+synpic27945|what imaging plane is depicted here?|axial
+synpic15614|what plane was used?|axial
+synpic33725|what plane is seen?|axial
+synpic46899|which plane is this image taken?|sagittal
+synpic41124|in which plane is the mri displayed?|axial
+synpic16193|which plane is the image taken?|axial
+synpic30748|what plane was used?|frontal
+synpic28086|in what plane is this image oriented?|axial
+synpic53151|what is the plane?|frontal
+synpic56958|in what plane is this image taken?|coronal
+synpic59430|which plane is this image in?|axial
+synpic28208|what imaging plane is depicted here?|axial
+synpic33140|what plane is the image acquired in?|ap
+synpic34544|what is the plane?|coronal
+synpic51997|what is the plane of the ultrasound?|longitudinal
+synpic25128|which plane is the image taken?|sagittal
+synpic56796|what plane is this film|axial
+synpic23125|what plane is the image acquired in?|axial
+synpic57440|what plane is this mri in?|axial
+synpic55114|what plane is this?|axial
+synpic51882|what plane is seen?|sagittal
+synpic55555|what plane is demonstrated?|axial
+synpic37093|what is the plane of the image?|axial
+synpic61066|what is the plane of the mri?|sagittal
+synpic18546|what plane is this?|axial
+synpic51099|what plane was used in this ct scan?|coronal
+synpic59348|what plane is this ct scan in?|axial
+synpic45193|what image plane is this?|axial
+synpic26296|what plane is this x-ray in?|pa
+synpic59765|in what plane is this image taken?|ap
+synpic46366|what is the plane?|axial
+synpic43533|which plane is the image shown in?|axial
+synpic55155|what is the plane of this mri?|coronal
+synpic16290|what plane is this film|axial
+synpic48345|in what plane is this mri taken?|coronal
+synpic59654|in what plane is this image taken?|axial
+synpic28995|what plane is the image acquired in?|axial
+synpic23479|what image plane is this?|axial
+synpic47260|which plane is the image shown in?|coronal
+synpic28435|what is the plane of the image?|axial
+synpic27235|in what plane is this ultrasound?|transverse
+synpic26225|in what plane is this image oriented?|axial
+synpic24344|which plane is the image taken?|sagittal
+synpic36234|what plane is seen?|frontal
+synpic51769|what plane is seen?|axial
+synpic21902|what imaging plane is depicted here?|axial
+synpic54401|what plane is seen?|sagittal
+synpic33494|what plane is this?|frontal
+synpic26176|which plane is the image shown in?|axial
+synpic48521|what plane was used in this mri?|sagittal
+synpic50985|which plane is the image shown in?|ap
+synpic49491|which plane is this image in?|axial
+synpic24033|in what plane is this image oriented?|axial
+synpic100469|which plane is this image taken?|axial
+synpic20215|what is the plane of the image?|frontal
+synpic25837|which plane is this image taken?|pa
+synpic39775|what plane was used?|lateral
+synpic35654|in what plane is this image taken?|axial
+synpic27265|in what plane was this image taken?|oblique
+synpic51570|in what plane is this mri captured?|axial
+synpic37689|in what plane is this image oriented?|axial
+synpic30858|what plane is demonstrated?|lateral
+synpic13314|in what plane is this image taken?|axial
+synpic46316|in what plane is this image taken?|sagittal
+synpic16027|which plane is the image taken?|sagittal
+synpic53911|which plane is this mri taken in?|sagittal
+synpic39607|in what plane is this mri taken?|axial
+synpic35814|what is the plane of the image?|axial
+synpic38259|what plane is this?|lateral
+synpic55315|what image plane is this?|sagittal
+synpic17481|in what plane is this image taken?|axial
+synpic50333|what imaging plane is depicted here?|axial
+synpic57750|what plane is this film|sagittal
+synpic34669|which plane is this mri taken in?|sagittal
+synpic17895|what plane is the image acquired in?|axial
+synpic22844|in which plane is the x-ray displayed?|ap
+synpic23111|what plane is this ultrasound in?|transverse
+synpic23548|in what plane is this mri captured?|axial
+synpic32304|what plane was used?|oblique
+synpic59661|what image plane is this?|sagittal
+synpic44453|which plane is this image taken?|axial
+synpic53934|in what plane is this mri?|coronal
+synpic55796|what is the plane of the image?|axial
+synpic46713|in what plane is this image taken?|coronal
+synpic28457|in what plane is this image taken?|transverse
+synpic37877|in what plane was this image taken?|sagittal
+synpic42990|what plane was used in this ct scan?|coronal
+synpic21011|in what plane is this image taken?|transverse
+synpic54070|in what plane is this ct scan?|coronal
+synpic33475|which plane is this image taken?|sagittal
+synpic42965|what plane was used in this x-ray?|ap
+synpic55521|what is the plane of the image?|axial
+synpic37862|which plane is the image shown in?|frontal
+synpic17883|which plane is this image in?|axial
+synpic41745|in what plane is this mri taken?|axial
+synpic59899|which plane is the image shown in?|axial
+synpic27027|in which plane is the ct scan displayed?|axial
+synpic39365|what is the plane of this ultrasound?|sagittal
+synpic59845|which plane is the image shown in?|coronal
+synpic41680|which plane is this image taken?|sagittal
+synpic53983|which plane is the image taken?|coronal
+synpic48667|in what plane is this image taken?|sagittal
+synpic58481|what plane is seen?|axial
+synpic59350|what plane was used in this ct scan?|coronal
+synpic58571|what plane was used?|lateral
+synpic36880|what imaging plane is depicted here?|axial
+synpic26155|in what plane is this ct scan?|axial
+synpic37612|what is the plane of the image?|coronal
+synpic20374|what plane is demonstrated?|lateral
+synpic31957|which plane is this image taken?|lateral
+synpic41854|in which plane is the mri displayed?|axial
+synpic54972|which plane is this image taken?|axial
+synpic33537|what is the plane?|coronal
+synpic48141|which plane is this image taken?|coronal
+synpic59549|what plane was used in this ct scan?|axial
+synpic61171|what plane is the image acquired in?|axial
+synpic37325|what plane is the image acquired in?|axial
+synpic27085|in what plane is this ct scan?|axial
+synpic42214|in what plane is this ultrasound taken?|transverse
+synpic25103|in what plane is this mri taken?|axial
+synpic35849|what plane was used in this mri?|axial
+synpic53587|what is the plane of the mri?|axial
+synpic56139|what plane was used in this mri?|sagittal
+synpic22784|which plane is this ct scan taken in?|axial
+synpic38373|what is the plane of the image?|sagittal
+synpic55798|what image plane is this?|axial
+synpic47437|what plane was used?|axial
+synpic49029|in what plane is this image oriented?|axial
+synpic31993|what plane was used?|coronal
+synpic57366|in what plane is this image taken?|sagittal
+synpic42784|which plane is this image taken?|axial
+synpic42021|in what plane is this mri taken?|sagittal
+synpic43448|what plane is this?|oblique
+synpic57435|in what plane is this mri captured?|sagittal
+synpic55317|what is the plane of the mri?|axial
+synpic39243|in what plane is this mri captured?|axial
+synpic36220|in what plane is this x-ray taken?|frontal
+synpic24406|in what plane is this image taken?|ap
+synpic29818|what plane is seen?|axial
+synpic46541|what plane is this ultrasound in?|sagittal
+synpic40239|what plane is demonstrated?|ap
+synpic19257|what is the plane of the image?|axial
+synpic35649|what is the plane of the angiogram?|frontal
+synpic23340|what plane is the image acquired in?|oblique
+synpic57324|what plane was used in this mri?|3d reconstruction
+synpic42146|what is the plane of this x-ray?|ap
+synpic22154|in what plane is this image oriented?|pa
+synpic27107|in what plane is this x-ray?|lateral
+synpic27357|what plane is this mri in?|axial
+synpic26687|in what plane is this x-ray?|frontal
+synpic40099|in what plane is this mri taken?|axial
+synpic42149|what is the plane?|axial
+synpic42226|what plane is the image acquired in?|axial
+synpic47120|which plane is the image taken?|transverse
+synpic48257|in what plane is this mri?|sagittal
+synpic59710|what image plane is this?|coronal
+synpic19616|in what plane is this ct scan?|axial
+synpic52590|what plane is this?|axial
+synpic31490|what plane was used in this x-ray?|lateral
+synpic26268|what image plane is this?|ap
+synpic40577|in what plane is this ct scan captured?|axial
+synpic46859|what plane is demonstrated?|axial
+synpic43857|what plane is demonstrated?|sagittal
+synpic41485|in what plane was this image taken?|axial
+synpic18209|in what plane is this image oriented?|axial
+synpic22765|in what plane is this image oriented?|axial
+synpic46722|in what plane was this image taken?|axial
+synpic23460|what is the plane?|axial
+synpic21319|what image plane is this?|coronal
+synpic38730|which plane is this ct scan taken in?|axial
+synpic57586|in what plane is this image oriented?|coronal
+synpic37136|which plane is the image shown in?|axial
+synpic26835|in what plane is this x-ray captured?|frontal
+synpic43827|in what plane is this image taken?|axial
+synpic21721|what plane is this mri in?|sagittal
+synpic30977|which plane is the image shown in?|axial
+synpic20897|what image plane is this?|pa
+synpic39793|in what plane is this ct scan?|axial
+synpic28426|what plane was used in this gastrointestinal image?|lateral
+synpic45960|which plane is the image taken?|sagittal
+synpic51029|what plane was used in this mri?|axial
+synpic22681|in what plane was this image taken?|axial
+synpic36237|in what plane is this image taken?|axial
+synpic19988|what is the plane?|axial
+synpic55894|which plane is the image shown in?|sagittal
+synpic49377|what plane is the image acquired in?|axial
+synpic55040|in what plane is this mri captured?|coronal
+synpic21622|in what plane is this image taken?|axial
+synpic56651|what plane is the image acquired in?|axial
+synpic51987|what plane is this film|coronal
+synpic37275|which plane is the image shown in?|axial
+synpic51685|what plane was used?|ap
+synpic22528|in what plane is this x-ray captured?|lateral
+synpic23829|what plane is demonstrated?|coronal
+synpic28197|what imaging plane is depicted here?|axial
+synpic59356|in what plane is this image oriented?|axial
+synpic41412|what imaging plane is depicted here?|axial
+synpic18561|in what plane is this ct scan?|axial
+synpic39767|what is the plane?|coronal
+synpic55053|what plane was used?|axial
+synpic44936|which plane is this mri taken in?|axial
+synpic24218|in what plane is this image oriented?|frontal
+synpic52812|in what plane was this image taken?|axial
+synpic30359|which plane is this image taken?|frontal
+synpic42581|what is the plane of the image?|axial
+synpic45995|which plane is the image taken?|coronal
+synpic20207|what plane is this ct scan in?|axial
+synpic35230|what plane is seen?|lateral
+synpic51779|what plane is this?|lateral
+synpic36983|which plane is the image taken?|sagittal
+synpic24148|what plane is this ct scan in?|axial
+synpic56572|in what plane is this image oriented?|axial
+synpic54605|what plane is this film|axial
+synpic25203|what is the plane of the image?|axial
+synpic35217|what plane is this ultrasound in?|longitudinal
+synpic57077|what plane was used?|axial
+synpic43474|in what plane is this image taken?|ap
+synpic18155|in what plane is this mri?|sagittal
+synpic41337|what plane is this?|axial
+synpic34852|what plane is the image acquired in?|axial
+synpic31252|in what plane is this image taken?|longitudinal
+synpic26594|what plane is this?|transverse
+synpic48451|what plane was used in this angiogram?|oblique
+synpic39563|in what plane is this image taken?|pa
+synpic45735|what plane was used in this mri?|axial
+synpic55646|what plane is this film|coronal
+synpic45913|what plane is demonstrated?|axial
+synpic34261|what plane is this film|coronal
+synpic42012|what plane is demonstrated?|axial
+synpic32238|in what plane is this x-ray?|ap
+synpic40291|which plane is this ultrasound taken in?|transverse
+synpic33070|which plane is this image in?|lateral
+synpic33840|what plane is this ct scan in?|axial
+synpic42086|in what plane was this image taken?|axial
+synpic49298|what is the plane of the mri?|axial
+synpic32688|in what plane is this x-ray captured?|ap
+synpic17091|what is the plane?|axial
+synpic34157|what plane is this film|axial
+synpic46417|in what plane is this image oriented?|axial
+synpic56023|what plane is this ct scan in?|3d reconstruction
+synpic54051|what image plane is this?|coronal
+synpic45441|which plane is the image taken?|axial
+synpic21933|in what plane is this mri?|coronal
+synpic41323|what imaging plane is depicted here?|axial
+synpic19890|in what plane is this image taken?|axial
+synpic36125|what plane is the image acquired in?|axial
+synpic28559|which plane is this image in?|axial
+synpic23349|in which plane is the ct scan displayed?|axial
+synpic43846|what imaging plane is depicted here?|lateral
+synpic31072|what is the plane of the ct scan?|axial
+synpic48504|in what plane is this image oriented?|axial
+synpic38425|what is the plane of this mri?|axial
+synpic61236|in what plane was this image taken?|ap
+synpic22685|in what plane is this ct scan?|axial
+synpic30862|what is the plane of the ct scan?|axial
+synpic51496|what plane is this?|oblique
+synpic34002|in what plane is this image taken?|axial
+synpic60666|in what plane is this image taken?|coronal
+synpic34801|what plane is seen?|coronal
+synpic33929|which plane is this image in?|axial
+synpic56444|which plane is this mri taken in?|sagittal
+synpic43035|what is the plane of the mri?|sagittal
+synpic56366|in what plane is this mri taken?|ap
+synpic26007|what image plane is this?|axial
+synpic59470|what is the plane of this mri?|axial
+synpic38326|what is the plane of the image?|sagittal
+synpic38190|in what plane is this image taken?|sagittal
+synpic41421|what plane was used?|axial
+synpic57826|in what plane was this image taken?|ap
+synpic47441|what imaging plane is depicted here?|axial
+synpic15459|what plane is this x-ray in?|lateral
+synpic21333|what is the plane?|axial
+synpic36058|what is the plane?|sagittal
+synpic22021|which plane is this image in?|frontal
+synpic39735|what plane is this mri in?|axial
+synpic53578|in what plane is this image taken?|axial
+synpic48887|in what plane is this mri?|axial
+synpic49022|what plane is demonstrated?|coronal
+synpic19083|what is the plane?|axial
+synpic35803|in what plane is this image oriented?|sagittal
+synpic54156|in which plane is the angiogram displayed?|ap
+synpic21868|what is the plane?|coronal
+synpic60743|in what plane was this image taken?|coronal
+synpic39594|what plane was used in this mri?|axial
+synpic35281|which plane is this ultrasound taken in?|longitudinal
+synpic53860|which plane is the image taken?|coronal
+synpic18493|which plane is the image taken?|lateral
+synpic28392|what image plane is this?|transverse
+synpic46389|in what plane is this image oriented?|sagittal
+synpic55020|what plane is this film|coronal
+synpic39762|which plane is this ct scan taken in?|axial
+synpic45994|which plane is this image in?|coronal
+synpic22389|in what plane was this image taken?|axial
+synpic51864|in what plane was this image taken?|coronal
+synpic52040|what is the plane of the image?|axial
+synpic26859|which plane is this image in?|lateral
+synpic41141|in what plane is this nuclear medicine image captured?|frontal
+synpic28900|in which plane is the x-ray displayed?|frontal
+synpic42176|in what plane was this image taken?|longitudinal
+synpic59844|in what plane is this image taken?|coronal
+synpic55004|which plane is the image shown in?|coronal
+synpic22234|what image plane is this?|axial
+synpic55263|what image plane is this?|axial
+synpic31410|which plane is this mri taken in?|sagittal
+synpic50798|what imaging plane is depicted here?|axial
+synpic27870|what plane was used?|lateral
+synpic33747|in what plane is this image taken?|axial
+synpic15825|which plane is this ct scan taken in?|axial
+synpic36974|in what plane is this mri captured?|sagittal
+synpic39022|which plane is this mri taken in?|axial
+synpic61243|what is the plane of this mri?|sagittal
+synpic25323|in what plane is this image taken?|axial
+synpic46148|in what plane is this image taken?|coronal
+synpic26605|which plane is this image taken?|axial
+synpic43049|in what plane was this image taken?|axial
+synpic52120|what is the plane?|coronal
+synpic50659|what plane is this?|axial
+synpic57605|which plane is the image shown in?|coronal
+synpic34050|what plane is this ct scan in?|axial
+synpic17357|what plane is demonstrated?|sagittal
+synpic46554|which plane is this image taken?|sagittal
+synpic34918|what is the plane of the image?|axial
+synpic36911|what image plane is this?|axial
+synpic21760|what is the plane of the image?|lateral
+synpic40269|in what plane is this mri?|axial
+synpic46629|in what plane is this ct scan?|axial
+synpic27717|what plane was used in this mri?|axial
+synpic53179|what is the plane of the image?|axial
+synpic40756|what is the plane of the image?|axial
+synpic20518|which plane is the image shown in?|coronal
+synpic31311|in what plane is this mri captured?|sagittal
+synpic17010|what plane is this?|axial
+synpic40625|which plane is this image taken?|sagittal
+synpic56832|in what plane is this mri captured?|axial
+synpic17039|what plane is this?|axial
+synpic15254|what imaging plane is depicted here?|ap
+synpic19454|which plane is this image in?|axial
+synpic31158|in what plane is this image taken?|sagittal
+synpic27155|which plane is the image shown in?|ap
+synpic30876|what plane is this ct scan in?|axial
+synpic27047|in what plane is this image taken?|pa
+synpic51706|in what plane is this ct scan?|axial
+synpic8322|what is the plane of this ct scan?|axial
+synpic21317|in what plane is this image taken?|sagittal
+synpic52572|what is the plane of the mri?|axial
+synpic40995|what is the plane of the ct scan?|axial
+synpic18124|what plane is this mri in?|coronal
+synpic42261|what plane was used?|axial
+synpic34344|which plane is the image shown in?|transverse
+synpic38515|what plane was used in this ultrasound?|transverse
+synpic58044|in what plane is this ct scan captured?|coronal
+synpic61076|what is the plane?|axial
+synpic28303|what is the plane of the ct scan?|axial
+synpic27962|what imaging plane is depicted here?|transverse
+synpic41191|what plane was used in this mri?|sagittal
+synpic34210|in what plane is this angiogram taken?|ap
+synpic56016|in what plane is this image taken?|axial
+synpic36137|what is the plane of this ct scan?|axial
+synpic34412|what plane is the image acquired in?|axial
+synpic44943|what plane is demonstrated?|sagittal
+synpic48179|what plane is seen?|axial
+synpic53812|in what plane is this image taken?|axial
+synpic49802|in what plane is this image taken?|coronal
+synpic27533|which plane is the image shown in?|ap
+synpic27417|in what plane is this image oriented?|frontal
+synpic53788|in what plane is this mri?|coronal
+synpic24697|which plane is this image in?|axial
+synpic38896|what plane is the image acquired in?|axial
+synpic45982|in what plane is this ct scan?|axial
+synpic28740|in what plane is this mri?|axial
+synpic38698|in what plane is this image oriented?|sagittal
+synpic60410|what plane is this ct scan in?|axial
+synpic30877|in what plane is this ct scan captured?|axial
+synpic39327|in what plane is this mri taken?|axial
+synpic56675|what is the plane of this mri?|sagittal
+synpic55078|in what plane is this image oriented?|axial
+synpic55680|which plane is this image taken?|axial
+synpic28093|which plane is this image taken?|lateral
+synpic19581|what plane is this film|coronal
+synpic55362|what is the plane of the image?|axial
+synpic18628|which plane is this image taken?|axial
+synpic55906|which plane is the image taken?|axial
+synpic20532|which plane is the image taken?|axial
+synpic50429|in what plane is this image oriented?|sagittal
+synpic51871|in what plane is this ct scan taken?|coronal
+synpic46477|in which plane is the mri displayed?|sagittal
+synpic39829|which plane is the image taken?|axial
+synpic23640|what plane is the image acquired in?|axial
+synpic57611|in what plane is this image oriented?|axial
+synpic10770|what image plane is this?|axial
+synpic36004|which plane is this ct scan taken in?|axial
+synpic35909|in what plane is this image oriented?|axial
+synpic51897|what is the plane?|axial
+synpic40992|in what plane is this ct scan taken?|axial
+synpic21321|what is the plane of this mri?|axial
+synpic45362|which plane is the image shown in?|coronal
+synpic16531|in what plane is this angiogram captured?|pa
+synpic55606|in what plane is this x-ray?|lateral
+synpic14963|which plane is this image in?|coronal
+synpic46740|in what plane is this image oriented?|coronal
+synpic35222|what is the plane of the mri?|axial
+synpic39678|what plane was used in this mri?|axial
+synpic17036|in what plane is this image taken?|transverse
+synpic58167|what is the plane of the mri?|axial
+synpic56398|what imaging plane is depicted here?|axial
+synpic46659|which plane is the image shown in?|axial
+synpic40629|what plane is this?|axial
+synpic20397|what plane was used?|axial
+synpic47727|in what plane is this image taken?|axial
+synpic36253|what is the plane of this ct scan?|axial
+synpic54694|what plane was used in this ct scan?|sagittal
+synpic40873|in what plane is this image taken?|sagittal
+synpic32106|in what plane is this mri captured?|sagittal
+synpic53140|what plane is the image acquired in?|coronal
+synpic28724|what image plane is this?|axial
+synpic34823|what plane is demonstrated?|sagittal
+synpic52675|which plane is this image in?|ap
+synpic47289|which plane is this mri taken in?|sagittal
+synpic44357|in what plane is this image taken?|sagittal
+synpic46636|which plane is this ct scan taken in?|axial
+synpic48672|what is the plane of the image?|sagittal
+synpic100398|what plane is the image acquired in?|sagittal
+synpic48869|what plane is seen?|sagittal
+synpic18948|what plane is this film|coronal
+synpic10036|in which plane is the x-ray displayed?|lateral
+synpic40945|what plane is this?|sagittal
+synpic24160|in what plane is this image oriented?|transverse
+synpic18850|in what plane is this gastrointestinal image?|ap
+synpic16423|in which plane is the ct scan displayed?|axial
+synpic55322|in what plane is this image taken?|sagittal
+synpic38371|which plane is this image taken?|axial
+synpic8269|in what plane was this image taken?|ap
+synpic40393|which plane is this image taken?|coronal
+synpic31783|what plane is this film|axial
+synpic59476|what plane was used in this mri?|coronal
+synpic17204|what plane is demonstrated?|axial
+synpic33444|what plane is the image acquired in?|sagittal
+synpic53630|which plane is the image taken?|sagittal
+synpic36503|which plane is this image taken?|axial
+synpic46471|in what plane is this mri?|axial
+synpic18723|what plane is demonstrated?|axial
+synpic35769|which plane is the image taken?|ap
+synpic35162|what is the plane of this mri?|sagittal
+synpic24058|what plane was used in this ct scan?|3d reconstruction
+synpic48200|in what plane is this gastrointestinal image taken?|frontal
+synpic16206|what is the plane of the ct scan?|axial
+synpic49276|what plane is this film|axial
+synpic13035|in what plane is this ct scan captured?|axial
+synpic51063|what plane is this?|axial
+synpic34337|what imaging plane is depicted here?|axial
+synpic24744|what plane was used?|axial
+synpic47946|which plane is this image taken?|longitudinal
+synpic19163|what plane is demonstrated?|axial
+synpic25326|in what plane is this image taken?|coronal
+synpic39919|which plane is the image taken?|axial
+synpic48896|in what plane is this image taken?|axial
+synpic49386|what plane is demonstrated?|coronal
+synpic41917|which plane is this image taken?|sagittal
+synpic18877|in what plane is this ct scan captured?|axial
+synpic19080|what imaging plane is depicted here?|axial
+synpic31365|in what plane is this x-ray?|pa
+synpic9892|what imaging plane is depicted here?|axial
+synpic18821|which plane is the image shown in?|ap
+synpic40450|which plane is this image taken?|ap
+synpic39649|which plane is the image taken?|axial
+synpic52162|in what plane is this image oriented?|axial
+synpic56667|what plane is this?|axial
+synpic54048|what image plane is this?|axial
+synpic59738|which plane is the image taken?|sagittal
+synpic51793|in what plane is this image taken?|sagittal
+synpic55176|what is the plane of the ct scan?|axial
+synpic36044|what is the plane?|pa
+synpic29767|which plane is this image taken?|oblique
+synpic32249|which plane is the image shown in?|lateral
+synpic59165|in what plane is this ultrasound captured?|sagittal
+synpic34371|in what plane was this image taken?|axial
+synpic18884|what is the plane of this mri?|axial
+synpic56634|what plane is demonstrated?|axial
+synpic60067|what is the plane of the mri?|axial
+synpic25200|in what plane is this mri?|axial
+synpic28156|in what plane is this image taken?|axial
+synpic53800|which plane is the image shown in?|axial
+synpic49360|which plane is the image taken?|sagittal
+synpic19695|in what plane is this x-ray?|ap
+synpic51376|which plane is this image taken?|coronal
+synpic46834|what plane is this film|axial
+synpic51057|in what plane is this ct scan?|coronal
+synpic25822|what plane is demonstrated?|pa
+synpic58475|what plane is this film|sagittal
+synpic42257|in what plane is this x-ray captured?|frontal
+synpic54524|what image plane is this?|axial
+synpic55730|what plane was used?|sagittal
+synpic41330|what imaging plane is depicted here?|axial
+synpic44035|which plane is the image shown in?|sagittal
+synpic36073|which plane is this image in?|coronal
+synpic56520|what imaging plane is depicted here?|coronal
+synpic41686|which plane is the image shown in?|axial
+synpic27051|what plane is this mri in?|sagittal
+synpic59003|in what plane is this image taken?|axial
+synpic45536|what plane is demonstrated?|sagittal
+synpic54977|what plane is this film|axial
+synpic27206|in what plane is this ultrasound?|longitudinal
+synpic41554|in what plane is this image taken?|coronal
+synpic26575|what is the plane of the mri?|axial
+synpic45981|which plane is the image shown in?|axial
+synpic53448|what plane is seen?|axial
+synpic56573|what plane is this film|axial
+synpic50789|what is the plane of the mri?|coronal
+synpic41010|which plane is the image taken?|coronal
+synpic42106|in what plane is this mri?|sagittal
+synpic21229|what plane is the image acquired in?|axial
+synpic51255|what plane is the image acquired in?|axial
+synpic34380|in what plane is this x-ray?|frontal
+synpic29744|in what plane is this x-ray?|ap
+synpic35598|what is the plane?|frontal
+synpic49460|what plane is demonstrated?|axial
+synpic25842|in what plane is this ultrasound captured?|transverse
+synpic51071|what plane is the image acquired in?|sagittal
+synpic33714|in what plane is this image taken?|coronal
+synpic54786|in what plane is this gastrointestinal image taken?|frontal
+synpic34548|which plane is the image shown in?|axial
+synpic46264|in what plane is this ct scan?|sagittal
+synpic46182|in what plane is this ct scan taken?|axial
+synpic41287|what image plane is this?|sagittal
+synpic25209|in what plane is this image taken?|axial
+synpic20666|in what plane is this ultrasound?|transverse
+synpic52924|which plane is this ct scan taken in?|sagittal
+synpic17848|what plane is this x-ray in?|pa
+synpic20100|what is the plane?|ap
+synpic50871|in what plane was this image taken?|axial
+synpic55342|what plane is this?|coronal
+synpic43679|which plane is this image taken?|axial
+synpic15491|what is the plane of this ct scan?|axial
+synpic45484|what is the plane?|sagittal
+synpic33847|which plane is this ct scan taken in?|axial
+synpic53083|what image plane is this?|axial
+synpic32833|what is the plane of this ct scan?|axial
+synpic49988|what is the plane of the ct scan?|sagittal
+synpic26947|what imaging plane is depicted here?|axial
+synpic59468|in what plane is this mri taken?|axial
+synpic47258|what is the plane of the image?|axial
+synpic34146|what plane is this?|axial
+synpic18187|what plane is this?|lateral
+synpic28220|what is the plane of this ct scan?|axial
+synpic52243|in which plane is the ct scan displayed?|axial
+synpic23087|what is the plane?|axial
+synpic58322|which plane is the image shown in?|sagittal
+synpic21843|which plane is the image shown in?|coronal
+synpic34195|what plane is the image acquired in?|transverse
+synpic54153|what is the plane of this angiogram?|lateral
+synpic33463|what plane is this film|lateral
+synpic52576|what image plane is this?|coronal
+synpic31514|which plane is the image taken?|axial
+synpic54990|in what plane is this image taken?|axial
+synpic28031|what is the plane of the ct scan?|axial
+synpic28412|which plane is this x-ray taken in?|frontal
+synpic57173|in what plane is this image taken?|axial
+synpic48023|what is the plane of the mri?|axial
+synpic56695|in what plane is this mri?|axial
+synpic38562|what plane is this mri in?|sagittal
+synpic17869|what image plane is this?|transverse
+synpic55097|which plane is this ct scan taken in?|axial
+synpic58751|in what plane is this mri captured?|coronal
+synpic42019|what is the plane of the image?|axial
+synpic19534|which plane is this image in?|axial
+synpic57815|which plane is this image taken?|axial
+synpic51003|what plane is seen?|axial
+synpic18711|in what plane is this image taken?|lateral
+synpic39658|what is the plane of the ct scan?|axial
+synpic50736|in what plane is this image taken?|coronal
+synpic45952|which plane is this ct scan taken in?|axial
+synpic41864|what is the plane of the mri?|sagittal
+synpic51824|in what plane was this image taken?|coronal
+synpic48416|in what plane was this image taken?|axial
+synpic35242|in what plane is this image taken?|axial
+synpic32662|what plane is this?|coronal
+synpic37273|in what plane is this image taken?|sagittal
+synpic16441|in which plane is the ct scan displayed?|axial
+synpic41203|in what plane was this image taken?|sagittal
+synpic39862|in what plane is this x-ray captured?|frontal
+synpic33825|in what plane was this image taken?|axial
+synpic31926|in what plane is this image oriented?|sagittal
+synpic15808|what plane is demonstrated?|lateral
+synpic40048|what plane was used?|axial
+synpic55856|which plane is the image shown in?|axial
+synpic25532|what is the plane?|pa
+synpic37002|which plane is this image taken?|sagittal
+synpic24323|in what plane is this image taken?|transverse
+synpic32112|which plane is the image taken?|axial
+synpic26325|which plane is this image in?|axial
+synpic35168|what plane was used?|axial
+synpic54450|which plane is the image shown in?|lateral
+synpic18994|what is the plane?|coronal
+synpic54208|in which plane is the ultrasound displayed?|sagittal
+synpic19258|in what plane is this x-ray?|pa
+synpic17359|which plane is this image in?|frontal
+synpic59368|what is the plane of this ct scan?|coronal
+synpic46106|in what plane is this image taken?|sagittal
+synpic52755|what plane is the image acquired in?|frontal
+synpic34394|which plane is this image taken?|axial
+synpic16984|which plane is this image taken?|axial
+synpic36991|what plane is seen?|axial
+synpic16608|in what plane is this image taken?|axial
+synpic59806|what plane was used in this mri?|sagittal
+synpic55822|in what plane is this mri?|sagittal
+synpic41213|in what plane is this image taken?|axial
+synpic35998|in what plane is this image oriented?|axial
+synpic57190|what plane is this film|sagittal
+synpic20149|which plane is this image taken?|axial
+synpic34151|in what plane is this ct scan taken?|axial
+synpic53300|what plane was used in this x-ray?|ap
+synpic53306|in what plane is this mri taken?|axial
+synpic49804|what is the plane of the mri?|axial
+synpic45359|what plane is this?|sagittal
+synpic31525|in what plane is this x-ray?|frontal
+synpic28925|which plane is the image shown in?|ap
+synpic20886|in what plane is this ct scan?|axial
+synpic53405|in what plane was this image taken?|sagittal
+synpic41019|which plane is this mri taken in?|axial
+synpic39218|what is the plane of this gastrointestinal image?|frontal
+synpic39024|which plane is the image shown in?|axial
+synpic45471|in what plane is this image taken?|coronal
+synpic53012|what is the plane of this mri?|axial
+synpic55677|what plane is this film|axial
+synpic26009|which plane is the image taken?|ap
+synpic57362|in what plane is this image taken?|coronal
+synpic42202|in which plane is the x-ray displayed?|pa
+synpic31928|which plane is the image taken?|axial
+synpic39008|which plane is this image taken?|axial
+synpic26387|what plane is seen?|axial
+synpic42067|in what plane was this image taken?|frontal
+synpic39581|in which plane is the x-ray displayed?|lateral
+synpic2029|in what plane is this image taken?|oblique
+synpic31438|what is the plane of the image?|axial
+synpic17537|what plane is seen?|axial
+synpic56357|in what plane is this mri taken?|sagittal
+synpic59562|what plane is this?|axial
+synpic59017|what plane is demonstrated?|axial
+synpic52481|in what plane was this image taken?|oblique
+synpic21857|which plane is this image in?|axial
+synpic57480|what is the plane?|axial
+synpic25518|in what plane is this ct scan captured?|axial
+synpic20271|which plane is this image in?|axial
+synpic55077|which plane is the image taken?|axial
+synpic45488|in what plane is this mri?|sagittal
+synpic51347|what plane is the image acquired in?|axial
+synpic27238|what plane is this?|axial
+synpic30722|what plane is seen?|transverse
+synpic20741|what plane is this film|axial
+synpic27815|what plane is this film|sagittal
+synpic18141|which plane is the image taken?|axial
+synpic22245|which plane is the image shown in?|sagittal
+synpic25601|which plane is this image taken?|mammo - cc
+synpic43490|which plane is the image shown in?|ap
+synpic39703|what plane is seen?|axial
+synpic37397|what is the plane of the image?|transverse
+synpic45929|which plane is this image in?|axial
+synpic38066|in what plane is this image taken?|axial
+synpic47768|what plane is this mri in?|axial
+synpic51258|in what plane is this image taken?|axial
+synpic52275|in what plane is this mri?|axial
+synpic25301|what is the plane of this ct scan?|axial
+synpic43978|what is the plane?|transverse
+synpic29197|which plane is this image in?|axial
+synpic19165|what is the plane of the mri?|sagittal
+synpic16998|in what plane is this x-ray?|ap
+synpic55987|what plane was used?|coronal
+synpic54346|what plane is this?|frontal
+synpic19555|what is the plane of the image?|axial
+synpic21908|what plane is seen?|axial
+synpic59070|what plane was used in this ct scan?|sagittal
+synpic20572|which plane is this image taken?|axial
+synpic12255|what plane is seen?|sagittal
+synpic51790|what image plane is this?|axial
+synpic20074|in what plane is this mri captured?|coronal
+synpic31052|what is the plane of this angiogram?|ap
+synpic22268|what image plane is this?|pa
+synpic21246|what plane is the image acquired in?|axial
+synpic58314|which plane is the image taken?|coronal
+synpic45816|what is the plane?|axial
+synpic58420|what plane was used?|coronal
+synpic46957|in what plane is this ultrasound taken?|longitudinal
+synpic39873|what is the plane of the image?|axial
+synpic20049|what plane is this?|mammo - cc
+synpic26311|what plane is this?|axial
+synpic48907|what image plane is this?|sagittal
+synpic31978|which plane is the image taken?|sagittal
+synpic25061|which plane is the image taken?|sagittal
+synpic37335|what imaging plane is depicted here?|axial
+synpic14646|what imaging plane is depicted here?|axial
+synpic34688|what plane was used?|lateral
+synpic19464|which plane is this mri taken in?|coronal
+synpic54784|what plane is seen?|decubitus
+synpic22075|in what plane is this image taken?|lateral
+synpic60798|in what plane is this mri taken?|axial
+synpic36499|what is the plane?|lateral
+synpic42259|in what plane was this image taken?|axial
+synpic49363|what plane is seen?|axial
+synpic56922|what is the plane of the image?|sagittal
+synpic55306|what plane is this film|axial
+synpic53311|what plane was used in this mri?|sagittal
+synpic48920|what plane is seen?|axial
+synpic35639|which plane is the image taken?|coronal
+synpic19511|in what plane was this image taken?|transverse
+synpic40766|in which plane is the mri displayed?|axial
+synpic39162|what plane is this film|lateral
+synpic27819|what image plane is this?|sagittal
+synpic46350|which plane is the image shown in?|axial
+synpic49026|in what plane was this image taken?|axial
+synpic32370|in what plane is this image taken?|ap
+synpic25418|what is the plane of the ct scan?|3d reconstruction
+synpic50740|what plane was used?|axial
+synpic26402|what imaging plane is depicted here?|lateral
+synpic46540|which plane is this image taken?|lateral
+synpic57482|what imaging plane is depicted here?|axial
+synpic56732|what plane is this?|axial
+synpic56035|what plane is this mri in?|sagittal
+synpic58466|what image plane is this?|axial
+synpic55460|what plane is seen?|coronal
+synpic12143|in what plane was this image taken?|coronal
+synpic13488|what plane is this mri in?|sagittal
+synpic46240|in what plane is this mri?|sagittal
+synpic24444|what plane is seen?|axial
+synpic36495|in what plane was this image taken?|lateral
+synpic54783|what is the plane of the x-ray?|frontal
+synpic56885|in what plane is this mri?|sagittal
+synpic19884|what image plane is this?|frontal
+synpic15872|what plane was used?|pa
+synpic40742|what plane is this film|axial
+synpic24019|which plane is the image shown in?|sagittal
+synpic55897|what plane is demonstrated?|coronal
+synpic21330|what image plane is this?|axial
+synpic50678|in what plane is this mri?|axial
+synpic57533|in what plane is this mri?|axial
+synpic44727|in what plane was this image taken?|coronal
+synpic23302|what plane is seen?|ap
+synpic24771|what plane is this mri in?|axial
+synpic54081|what image plane is this?|axial
+synpic100312|in what plane is this x-ray?|lateral
+synpic21668|what is the plane?|axial
+synpic27650|in what plane is this image taken?|sagittal
+synpic54588|in which plane is the mri displayed?|coronal
+synpic13430|what plane was used in this ct scan?|coronal
+synpic37294|what plane was used?|sagittal
+synpic61253|in which plane is the mri displayed?|sagittal
+synpic57064|in what plane is this image taken?|sagittal
+synpic24415|which plane is this ct scan taken in?|axial
+synpic31178|which plane is the image shown in?|pa
+synpic23634|what plane is this?|axial
+synpic51056|which plane is this image taken?|axial
+synpic26930|in what plane is this image oriented?|axial
+synpic45923|what plane is the image acquired in?|sagittal
+synpic45556|what is the plane?|axial
+synpic43025|what plane was used in this mri?|oblique
+synpic39632|in what plane is this image oriented?|ap
+synpic53506|which plane is the image taken?|axial
+synpic38310|which plane is this image in?|axial
+synpic58689|what plane was used in this mri?|sagittal
+synpic29766|what is the plane?|oblique
+synpic43501|what plane is demonstrated?|pa
+synpic56201|in what plane was this image taken?|sagittal
+synpic26679|what plane was used in this ct scan?|coronal
+synpic42253|in what plane is this image oriented?|longitudinal
+synpic18414|which plane is this mri taken in?|sagittal
+synpic16873|what is the plane?|axial
+synpic48315|what plane is demonstrated?|axial
+synpic16200|what is the plane of the ct scan?|axial
+synpic59382|what is the plane of the image?|axial
+synpic24733|in what plane is this image taken?|pa
+synpic31452|which plane is this image in?|ap
+synpic25499|what imaging plane is depicted here?|axial
+synpic31714|which plane is the image shown in?|frontal
+synpic18757|what is the plane?|lateral
+synpic39654|in what plane is this ct scan?|axial
+synpic51610|what is the plane of this ct scan?|axial
+synpic49300|in what plane is this image taken?|axial
+synpic53066|in what plane is this image oriented?|sagittal
+synpic52551|in what plane is this image taken?|coronal
+synpic40454|what imaging plane is depicted here?|coronal
+synpic21935|what plane is this x-ray in?|pa
+synpic16900|what image plane is this?|axial
+synpic47594|which plane is the image taken?|axial
+synpic30684|which plane is this mri taken in?|axial
+synpic50572|what is the plane?|ap
+synpic40495|what plane is seen?|axial
+synpic38504|in what plane is this ct scan captured?|axial
+synpic40735|what plane is this film|coronal
+synpic39424|what image plane is this?|axial
+synpic31356|what plane is this?|coronal
+synpic60725|in what plane was this image taken?|axial
+synpic53520|what image plane is this?|sagittal
+synpic57000|what image plane is this?|ap
+synpic16225|in which plane is the ct scan displayed?|axial
+synpic47012|what is the plane of this mri?|sagittal
+synpic54552|in what plane is this ultrasound taken?|coronal
+synpic100252|which plane is the image shown in?|ap
+synpic10257|which plane is this image taken?|ap
+synpic42254|what plane was used in this ultrasound?|transverse
+synpic41007|in which plane is the mri displayed?|axial
+synpic32840|in what plane is this mri?|axial
+synpic28026|in what plane was this image taken?|axial
+synpic41563|in what plane is this image taken?|sagittal
+synpic18764|which plane is the image taken?|sagittal
+synpic55345|in what plane was this image taken?|sagittal
+synpic16195|what plane was used?|axial
+synpic53687|which plane is this image taken?|axial
+synpic26548|in what plane is this image taken?|frontal
+synpic40047|which plane is this mri taken in?|axial
+synpic47420|in what plane is this ct scan?|axial
+synpic47528|in what plane is this mri?|coronal
+synpic46517|in what plane was this image taken?|axial
+synpic24928|in what plane is this nuclear medicine image?|lateral
+synpic51235|what plane is seen?|coronal
+synpic59843|in what plane is this ct scan?|transverse
+synpic17812|what plane is seen?|axial
+synpic41800|what plane is demonstrated?|axial
+synpic31417|what is the plane?|axial
+synpic16420|what plane was used?|axial
+synpic46497|what plane was used in this ct scan?|axial
+synpic51518|what plane is this ct scan in?|coronal
+synpic36936|in what plane is this mri?|axial
+synpic58981|in what plane is this mri captured?|axial
+synpic16740|in what plane is this x-ray taken?|ap
+synpic48020|which plane is this image taken?|axial
+synpic49086|in what plane is this ct scan?|coronal
+synpic54559|what imaging plane is depicted here?|ap
+synpic53259|in what plane is this ct scan taken?|axial
+synpic20893|what image plane is this?|sagittal
+synpic26541|which plane is the image shown in?|axial
+synpic37078|which plane is this image in?|axial
+synpic33272|in which plane is the ct scan displayed?|axial
+synpic40005|in what plane is this ultrasound?|coronal
+synpic47810|which plane is this mri taken in?|axial
+synpic24718|in what plane is this image taken?|axial
+synpic29683|what image plane is this?|pa
+synpic37626|what is the plane of this mri?|axial
+synpic24350|what is the plane of the image?|pa
+synpic16704|what is the plane of the image?|axial
+synpic24685|what is the plane?|longitudinal
+synpic22723|what is the plane of the image?|ap
+synpic40499|in what plane was this image taken?|axial
+synpic53776|what plane was used?|oblique
+synpic41566|which plane is the image taken?|axial
+synpic19670|in which plane is the mri displayed?|axial
+synpic54131|in what plane is this mri?|sagittal
+synpic29259|in what plane is this x-ray?|ap
+synpic52610|what is the plane of the image?|ap
+synpic41331|what plane is seen?|coronal
+synpic48319|what plane is seen?|axial
+synpic52545|what plane is demonstrated?|axial
+synpic56430|in which plane is the mri displayed?|axial
+synpic49862|what plane is this?|axial
+synpic48999|what imaging plane is depicted here?|coronal
+synpic49820|what plane is this mri in?|coronal
+synpic52018|in which plane is the ct scan displayed?|axial
+synpic51777|what plane is this?|lateral
+synpic48754|which plane is the image shown in?|axial
+synpic45704|which plane is this image taken?|axial
+synpic16985|which plane is this pet scan taken in?|axial
+synpic26315|what plane is this?|ap
+synpic22007|in what plane was this image taken?|axial
+synpic56658|what plane was used in this mri?|axial
+synpic33517|what is the plane of the image?|axial
+synpic52158|what plane is demonstrated?|axial
+synpic26588|what plane is this x-ray in?|frontal
+synpic32321|which plane is this x-ray taken in?|ap
+synpic40903|what plane is demonstrated?|sagittal
+synpic15352|what is the plane of the image?|sagittal
+synpic23998|what is the plane?|coronal
+synpic57733|in what plane is this mri?|sagittal
+synpic17207|which plane is this image in?|axial
+synpic39945|which plane is the image taken?|axial
+synpic25432|in what plane is this ct scan?|axial
+synpic39849|what plane is this?|lateral
+synpic33373|what is the plane?|axial
+synpic36952|what is the plane of the mri?|axial
+synpic35366|which plane is this image taken?|lateral
+synpic30717|in what plane is this image taken?|transverse
+synpic35231|in which plane is the angiogram displayed?|ap
+synpic36390|what plane is this ct scan in?|coronal
+synpic31053|what plane is seen?|ap
+synpic28719|what plane was used?|axial
+synpic51481|what plane is this film|ap
+synpic38276|what plane is this?|axial
+synpic30351|what plane is the image acquired in?|axial
+synpic33990|what imaging plane is depicted here?|axial
+synpic32274|in what plane is this image taken?|sagittal
+synpic26492|what plane is the image acquired in?|lateral
+synpic36069|what plane is this film|axial
+synpic19772|what imaging plane is depicted here?|axial
+synpic38141|what plane is this?|axial
+synpic53182|in what plane was this image taken?|axial
+synpic52090|in what plane is this mri taken?|axial
+synpic34461|in what plane is this mri?|axial
+synpic15869|what plane is this?|coronal
+synpic56781|in what plane is this mri?|coronal
+synpic29550|which plane is the image taken?|axial
+synpic32629|which plane is the image shown in?|ap
+synpic53683|which plane is this image taken?|sagittal
+synpic42281|what plane is this film|axial
+synpic17762|which plane is this image in?|axial
+synpic41288|what is the plane of the image?|transverse
+synpic33151|what is the plane?|frontal
+synpic46857|in what plane is this mri taken?|axial
+synpic58581|what is the plane?|lateral
+synpic41571|what is the plane of this mri?|coronal
+synpic57919|what plane is seen?|sagittal
+synpic36248|which plane is this image in?|coronal
+synpic39366|what imaging plane is depicted here?|transverse
+synpic40813|what plane is the image acquired in?|axial
+synpic50966|in what plane is this mri?|sagittal
+synpic21503|what plane is demonstrated?|axial
+synpic19264|which plane is this image taken?|axial
+synpic51973|what is the plane?|coronal
+synpic45054|in what plane is this image oriented?|sagittal
+synpic61287|what is the plane?|coronal
+synpic60629|what plane is demonstrated?|sagittal
+synpic37890|which plane is this mri taken in?|axial
+synpic31795|in what plane is this x-ray captured?|lateral
+synpic27140|what plane is this x-ray in?|oblique
+synpic48278|what plane was used in this ultrasound?|coronal
+synpic17266|what plane is this film|coronal
+synpic24177|in what plane is this ultrasound?|transverse
+synpic36318|in what plane was this image taken?|axial
+synpic57178|what plane is this ct scan in?|axial
+synpic48813|in what plane is this ct scan taken?|axial
+synpic43623|what plane is this film|axial
+synpic27419|in what plane is this gastrointestinal image?|frontal
+synpic53604|what plane is demonstrated?|coronal
+synpic27766|what plane is the image acquired in?|longitudinal
+synpic20460|which plane is the image shown in?|longitudinal
+synpic28357|in what plane is this mri?|sagittal
+synpic58177|in what plane is this ct scan?|3d reconstruction
+synpic34280|in what plane is this image oriented?|axial
+synpic31869|in what plane is this image taken?|axial
+synpic21028|in which plane is the ct scan displayed?|axial
+synpic18201|in what plane is this image taken?|lateral
+synpic21420|what plane was used?|axial
+synpic52292|in what plane is this image taken?|axial
+synpic15996|which plane is the image taken?|axial
+synpic33131|which plane is the image taken?|sagittal
+synpic54095|what plane is this angiogram in?|frontal
+synpic31782|what plane is demonstrated?|ap
+synpic45121|what is the plane of this ct scan?|axial
+synpic48279|what plane is seen?|sagittal
+synpic20228|in what plane is this mri taken?|axial
+synpic21313|what is the plane of the image?|axial
+synpic50898|what imaging plane is depicted here?|axial
+synpic33882|what is the plane of this mri?|coronal
+synpic19519|what plane is seen?|axial
+synpic51227|which plane is the image shown in?|axial
+synpic51773|what is the plane of the x-ray?|frontal
+synpic22241|in what plane is this x-ray?|frontal
+synpic27961|in what plane is this image oriented?|transverse
+synpic45393|in what plane is this mri?|axial
+synpic46453|in which plane is the ct scan displayed?|axial
+synpic59161|in what plane is this mri?|axial
+synpic18603|what plane is demonstrated?|coronal
+synpic53883|in which plane is the mri displayed?|axial
+synpic55705|what is the plane of the mri?|axial
+synpic45691|what is the plane of this ct scan?|axial
+synpic55318|which plane is this image in?|axial
+synpic52887|which plane is this image in?|sagittal
+synpic24913|which plane is this x-ray taken in?|pa
+synpic45689|which plane is the image taken?|ap
+synpic58796|what plane is this ct scan in?|axial
+synpic35229|what image plane is this?|lateral
+synpic27917|what plane is seen?|axial
+synpic27585|what plane is this?|axial
+synpic26969|in what plane is this mri?|coronal
+synpic21352|in what plane is this image oriented?|axial
+synpic22762|what is the plane of the image?|axial
+synpic23178|what plane is demonstrated?|axial
+synpic39483|what plane is seen?|sagittal
+synpic22258|which plane is this image in?|axial
+synpic23661|which plane is this mri taken in?|sagittal
+synpic22144|what plane was used?|mammo - cc
+synpic51687|which plane is the image shown in?|ap
+synpic47867|what plane is this?|axial
+synpic46434|which plane is the image shown in?|axial
+synpic47498|which plane is this x-ray taken in?|lateral
+synpic33449|what is the plane of the image?|axial
+synpic35235|in what plane is this mri?|axial
+synpic55404|in what plane is this ct scan captured?|coronal
+synpic45999|what plane is seen?|sagittal
+synpic22532|what is the plane of this ct scan?|axial
+synpic24736|what plane was used?|longitudinal
+synpic13386|which plane is this image in?|lateral
+synpic32852|what plane was used in this x-ray?|ap
+synpic32232|which plane is this x-ray taken in?|ap
+synpic33130|which plane is this image in?|transverse
+synpic55430|which plane is this image taken?|coronal
+synpic30246|what plane was used in this ct scan?|axial
+synpic25290|in what plane is this x-ray captured?|lateral
+synpic27377|what plane was used?|axial
+synpic26173|in what plane is this ct scan taken?|axial
+synpic33401|what plane is this?|transverse
+synpic40823|what plane was used?|sagittal
+synpic38293|what plane is the image acquired in?|sagittal
+synpic51544|in what plane is this ct scan taken?|axial
+synpic17748|what plane is demonstrated?|pa
+synpic39976|which plane is the image taken?|axial
+synpic48496|in what plane was this image taken?|sagittal
+synpic27244|what plane is this?|axial
+synpic50956|in which plane is the ct scan displayed?|axial
+synpic50015|in what plane is this mri?|axial
+synpic32266|what plane was used in this ct scan?|axial
+synpic53143|what plane is the image acquired in?|frontal
+synpic16565|what imaging plane is depicted here?|axial
+synpic24311|which plane is the image taken?|axial
+synpic52266|what is the plane of the mri?|axial
+synpic45022|which plane is the image shown in?|sagittal
+synpic20048|which plane is this image taken?|mammo - cc
+synpic35908|what plane was used in this ct scan?|axial
+synpic41324|what plane is demonstrated?|axial
+synpic40113|which plane is this image taken?|sagittal
+synpic32708|what is the plane of this mri?|sagittal
+synpic54242|in what plane is this image taken?|oblique
+synpic55261|in what plane was this image taken?|axial
+synpic21899|what imaging plane is depicted here?|axial
+synpic36990|in what plane is this image taken?|axial
+synpic16960|what plane is demonstrated?|axial
+synpic39255|which plane is the image shown in?|sagittal
+synpic36339|what plane is the image acquired in?|coronal
+synpic18311|in what plane is this image oriented?|sagittal
+synpic27120|what plane is this film|pa
+synpic23547|what plane is this mri in?|sagittal
+synpic38073|in what plane is this image oriented?|axial
+synpic33404|in which plane is the gastrointestinal image displayed?|lateral
+synpic46520|in what plane was this image taken?|coronal
+synpic41786|what plane was used?|coronal
+synpic29459|in what plane is this image taken?|axial
+synpic53326|what imaging plane is depicted here?|axial
+synpic46203|in what plane is this x-ray?|ap
+synpic13315|which plane is the image taken?|frontal
+synpic51912|which plane is this image taken?|sagittal
+synpic46701|in what plane is this image oriented?|axial
+synpic24079|in what plane is this ultrasound?|axial
+synpic22353|what is the plane of this x-ray?|ap
+synpic27153|what plane is demonstrated?|axial
+synpic43027|in what plane is this mri captured?|oblique
+synpic29254|what is the plane of the image?|frontal
+synpic55858|in what plane is this mri captured?|axial
+synpic56854|in what plane is this ct scan taken?|axial
+synpic50667|which plane is this image in?|axial
+synpic33002|what imaging plane is depicted here?|ap
+synpic27894|what plane was used in this x-ray?|ap
+synpic43015|in what plane is this image taken?|axial
+synpic51937|what is the plane?|axial
+synpic43926|what plane is demonstrated?|frontal
+synpic25752|what plane is this film|pa
+synpic14458|what is the plane of the image?|coronal
+synpic24964|what is the plane?|axial
+synpic52756|what plane is this?|frontal
+synpic39876|what plane is the image acquired in?|axial
+synpic46878|what is the plane of this mri?|axial
+synpic13316|what is the plane of the image?|frontal
+synpic45070|which plane is the image taken?|ap
+synpic39567|which plane is this image taken?|lateral
+synpic56527|in what plane is this ct scan captured?|axial
+synpic45490|in what plane is this image taken?|axial
+synpic54074|what plane is this?|axial
+synpic17898|what plane is this?|sagittal
+synpic40640|what is the plane of this mri?|axial
+synpic31069|what plane was used in this x-ray?|ap
+synpic50647|in what plane is this image taken?|axial
+synpic35978|what plane is this film|coronal
+synpic36233|in what plane is this image taken?|frontal
+synpic51350|what plane is seen?|axial
+synpic27812|what plane is this?|sagittal
+synpic24030|which plane is this image taken?|coronal
+synpic55272|which plane is this mri taken in?|axial
+synpic18911|what plane is seen?|coronal
+synpic53303|what image plane is this?|axial
+synpic30376|in what plane is this mri taken?|axial
+synpic23428|in what plane is this image taken?|axial
+synpic38983|what plane is this film|pa
+synpic27721|which plane is the image taken?|ap
+synpic19114|which plane is the image taken?|pa
+synpic43476|what is the plane of this x-ray?|lateral
+synpic59924|what plane is this film|axial
+synpic29719|what plane was used in this x-ray?|lateral
+synpic27425|what is the plane of this angiogram?|lateral
+synpic59509|in what plane is this image taken?|axial
+synpic37621|which plane is this image in?|transverse
+synpic54973|in which plane is the mri displayed?|axial
+synpic10739|in what plane was this image taken?|axial
+synpic35807|what imaging plane is depicted here?|coronal
+synpic47938|which plane is this image in?|axial
+synpic47707|what plane is demonstrated?|axial
+synpic24923|in what plane is this image taken?|axial
+synpic37980|what plane is demonstrated?|sagittal
+synpic40777|in what plane is this image taken?|axial
+synpic47423|which plane is this image taken?|axial
+synpic39816|in what plane was this image taken?|axial
+synpic37733|what plane is this?|axial
+synpic51229|what is the plane of the mri?|coronal
+synpic16217|what plane is demonstrated?|sagittal
+synpic45897|what plane was used?|axial
+synpic16967|which plane is the image taken?|ap
+synpic18872|which plane is this x-ray taken in?|lateral
+synpic52577|what plane is this?|sagittal
+synpic22386|what plane was used?|frontal
+synpic35961|what plane was used in this ct scan?|axial
+synpic16073|in what plane is this ct scan?|axial
+synpic26944|what is the plane of this ultrasound?|sagittal
+synpic38487|what plane was used?|axial
+synpic21861|in what plane is this ct scan captured?|coronal
+synpic56739|what is the plane of the image?|sagittal
+synpic55746|which plane is the image shown in?|axial
+synpic43814|what plane is this mri in?|sagittal
+synpic19208|which plane is this image in?|ap
+synpic21860|in what plane is this ct scan?|coronal
+synpic49068|which plane is the image shown in?|sagittal
+synpic32712|what plane is the image acquired in?|sagittal
+synpic40748|in what plane was this image taken?|axial
+synpic22956|what image plane is this?|frontal
+synpic58194|what plane is the image acquired in?|sagittal
+synpic55953|in what plane is this mri taken?|axial
+synpic26932|in what plane is this image taken?|coronal
+synpic58014|which plane is the image taken?|sagittal
+synpic32227|what plane is the image acquired in?|lateral
+synpic31687|what is the plane of the ct scan?|axial
+synpic48220|in what plane is this ct scan?|coronal
+synpic42996|what plane was used in this mri?|axial
+synpic40485|what plane was used in this mri?|axial
+synpic29841|what plane is the image acquired in?|lateral
+synpic29916|in which plane is the ct scan displayed?|axial
+synpic42059|in which plane is the mri displayed?|axial
+synpic23527|what is the plane of the x-ray?|frontal
+synpic27064|in what plane is this ct scan captured?|axial
+synpic50756|which plane is this image taken?|sagittal
+synpic22835|what plane is seen?|axial
+synpic41325|in what plane is this image oriented?|axial
+synpic56441|in what plane is this image taken?|sagittal
+synpic26215|what imaging plane is depicted here?|longitudinal
+synpic27462|in which plane is the mri displayed?|sagittal
+synpic37339|what plane is seen?|pa
+synpic40413|in what plane is this image taken?|axial
+synpic27900|in what plane is this image oriented?|longitudinal
+synpic47409|what is the plane of the ct scan?|axial
+synpic23065|in which plane is the ct scan displayed?|axial
+synpic24476|what plane is demonstrated?|axial
+synpic32374|what image plane is this?|oblique
+synpic38626|what is the plane of the image?|axial
+synpic54068|in which plane is the ct scan displayed?|axial
+synpic56758|which plane is this image taken?|axial
+synpic55974|which plane is this image in?|axial
+synpic40013|what plane is demonstrated?|lateral
+synpic20748|in what plane is this image oriented?|axial
+synpic17931|in what plane is this ct scan?|axial
+synpic35564|what imaging plane is depicted here?|axial
+synpic50044|what is the plane of this mri?|sagittal
+synpic32694|in what plane is this image oriented?|ap
+synpic38630|which plane is the image shown in?|axial
+synpic40445|what plane is demonstrated?|axial
+synpic42118|what is the plane?|sagittal
+synpic51077|what plane is seen?|axial
+synpic41201|what plane is demonstrated?|sagittal
+synpic56823|what imaging plane is depicted here?|3d reconstruction
+synpic15307|which plane is this image taken?|axial
+synpic46650|what plane is this?|axial
+synpic44982|in what plane is this image taken?|axial
+synpic23782|what plane is this film|axial
+synpic32628|in what plane is this x-ray?|oblique
+synpic56412|in what plane is this ct scan captured?|axial
+synpic55208|what is the plane?|axial
+synpic29032|what imaging plane is depicted here?|axial
+synpic55195|what plane is this mri in?|axial
+synpic23561|which plane is this image in?|ap
+synpic30993|which plane is this image taken?|lateral
+synpic15591|in what plane was this image taken?|sagittal
+synpic48304|in what plane was this image taken?|longitudinal
+synpic48900|in what plane was this image taken?|axial
+synpic24713|which plane is this image in?|frontal
+synpic41251|what is the plane?|transverse
+synpic21594|what imaging plane is depicted here?|coronal
+synpic45165|which plane is the image shown in?|sagittal
+synpic30495|in what plane is this mri?|axial
+synpic21104|in what plane is this image taken?|coronal
+synpic35705|in what plane was this image taken?|axial
+synpic48506|what plane is this?|axial
+synpic23289|in which plane is the ct scan displayed?|axial
+synpic34541|what imaging plane is depicted here?|axial
+synpic17520|in which plane is the x-ray displayed?|lateral
+synpic41283|in what plane is this mri captured?|coronal
+synpic39161|what plane is demonstrated?|frontal
+synpic19751|what is the plane of the mri?|sagittal
+synpic42212|which plane is this image taken?|axial
+synpic44049|in what plane is this image taken?|sagittal
+synpic55498|what plane is this film|axial
+synpic48902|in what plane is this mri captured?|coronal
+synpic38450|which plane is the image taken?|axial
+synpic45945|in what plane is this x-ray captured?|ap
+synpic41826|what plane was used?|sagittal
+synpic56199|what is the plane of this mri?|axial
+synpic59399|in what plane is this ct scan?|coronal
+synpic17310|what plane is this film|sagittal
+synpic50962|what plane was used in this mri?|axial
+synpic51817|what imaging plane is depicted here?|axial
+synpic49959|which plane is this image taken?|axial
+synpic57067|in what plane was this image taken?|axial
+synpic40836|in what plane is this mri captured?|sagittal
+synpic19338|which plane is this image taken?|axial
+synpic44991|what plane is seen?|axial
+synpic46111|which plane is the image shown in?|axial
+synpic38704|what plane was used in this ultrasound?|coronal
+synpic40433|in what plane is this x-ray captured?|ap
+synpic26908|what plane is this mri in?|sagittal
+synpic58976|what plane is this mri in?|axial
+synpic37430|what plane is the image acquired in?|axial
+synpic52666|in which plane is the angiogram displayed?|lateral
+synpic22354|in what plane is this image oriented?|ap
+synpic51293|in what plane is this mri taken?|sagittal
+synpic21697|in what plane is this gastrointestinal image?|oblique
+synpic15815|which plane is this image in?|pa
+synpic58434|in what plane is this image taken?|sagittal
+synpic27816|in what plane is this ultrasound taken?|sagittal
+synpic56406|in what plane is this mri captured?|axial
+synpic56914|what plane was used?|3d reconstruction
+synpic40521|what plane is this?|axial
+synpic45705|what plane is this film|axial
+synpic38218|which plane is this image taken?|coronal
+synpic30742|what image plane is this?|transverse
+synpic20884|in what plane is this image oriented?|axial
+synpic31776|what plane is the image acquired in?|frontal
+synpic29220|in what plane is this ct scan?|axial
+synpic35954|in what plane is this x-ray taken?|lateral
+synpic26535|which plane is this image taken?|axial
+synpic38841|in what plane was this image taken?|axial
+synpic50846|what plane was used in this mri?|sagittal
+synpic46083|what is the plane of the image?|axial
+synpic21431|in what plane is this ct scan taken?|coronal
+synpic21633|what image plane is this?|axial
+synpic35133|which plane is this image taken?|axial
+synpic52581|which plane is this x-ray taken in?|coronal
+synpic36544|what plane is the image acquired in?|axial
+synpic48979|in what plane was this image taken?|axial
+synpic50655|what plane was used in this ct scan?|axial
+synpic17350|in which plane is the mri displayed?|axial
+synpic52122|which plane is this image taken?|sagittal
+synpic57443|which plane is this image taken?|coronal
+synpic32703|in what plane was this image taken?|lateral
+synpic33033|what is the plane of the x-ray?|pa
+synpic55302|which plane is this image taken?|coronal
+synpic40335|what image plane is this?|ap
+synpic15809|what is the plane of this x-ray?|pa
+synpic54954|what imaging plane is depicted here?|axial
+synpic41335|what plane is seen?|coronal
+synpic58018|in what plane is this image taken?|axial
+synpic33288|which plane is the image taken?|axial
+synpic51868|which plane is this image taken?|coronal
+synpic52906|what plane is the image acquired in?|sagittal
+synpic25444|in what plane is this image taken?|pa
+synpic34447|in what plane is this image taken?|pa
+synpic55988|what is the plane of the mri?|coronal
+synpic54236|which plane is this mri taken in?|axial
+synpic30734|what is the plane of the image?|transverse
+synpic22011|which plane is this ct scan taken in?|axial
+synpic45877|which plane is this image in?|axial
+synpic24628|what plane is seen?|axial
+synpic54687|what imaging plane is depicted here?|coronal
+synpic32205|what image plane is this?|axial
+synpic55589|what is the plane of this mri?|coronal
+synpic100407|what is the plane?|oblique
+synpic371|what plane is demonstrated?|sagittal
+synpic28097|what plane was used in this mri?|sagittal
+synpic54565|in what plane is this image oriented?|axial
+synpic14961|what plane is the image acquired in?|coronal
+synpic39028|what plane is this?|coronal
+synpic47718|in which plane is the angiogram displayed?|frontal
+synpic19533|which plane is this ct scan taken in?|axial
+synpic30369|what imaging plane is depicted here?|axial
+synpic18134|what plane is this film|ap
+synpic57896|which plane is this image taken?|axial
+synpic52440|what plane is demonstrated?|axial
+synpic59211|in what plane is this image taken?|lateral
+synpic45551|what is the plane?|axial
+synpic21158|what plane was used?|axial
+synpic14954|in what plane is this ct scan?|axial
+synpic43494|in what plane is this image taken?|ap
+synpic25373|what plane was used?|transverse
+synpic52059|what plane is seen?|axial
+synpic55717|what is the plane of the image?|axial
+synpic40065|what is the plane?|coronal
+synpic46430|what is the plane of this mri?|axial
+synpic35243|what imaging plane is depicted here?|coronal
+synpic33116|what is the plane of this x-ray?|ap
+synpic43702|in what plane is this image oriented?|coronal
+synpic30326|which plane is the image shown in?|axial
+synpic50416|which plane is this mri taken in?|sagittal
+synpic53118|what is the plane?|longitudinal
+synpic43842|what is the plane of this angiogram?|lateral
+synpic40924|in what plane is this image oriented?|coronal
+synpic21910|what plane was used in this mri?|axial
+synpic38966|in what plane is this image taken?|ap
+synpic36246|in which plane is the ct scan displayed?|coronal
+synpic23773|which plane is this image taken?|sagittal
+synpic52967|in which plane is the ct scan displayed?|axial
+synpic55786|what plane was used?|axial
+synpic41858|what is the plane?|axial
+synpic29734|what is the plane of the image?|lateral
+synpic22557|what plane is this?|axial
+synpic55041|in what plane is this mri?|sagittal
+synpic31660|which plane is the image shown in?|axial
+synpic31649|what plane is the image acquired in?|frontal
+synpic20531|what is the plane of the ct scan?|axial
+synpic44440|what plane is seen?|axial
+synpic56821|which plane is the image taken?|sagittal
+synpic47724|what is the plane of this ct scan?|axial
+synpic22586|what plane was used?|ap
+synpic54991|which plane is this ct scan taken in?|axial
+synpic46315|what is the plane of this mri?|sagittal
+synpic59929|what plane was used in this ct scan?|sagittal
+synpic45683|what is the plane of the x-ray?|frontal
+synpic41255|in what plane was this image taken?|ap
+synpic48571|in what plane is this image oriented?|axial
+synpic41911|what plane is this film|coronal
+synpic20091|which plane is the image shown in?|ap
+synpic42298|what is the plane of the image?|axial
+synpic24454|in what plane is this image oriented?|axial
+synpic55563|what image plane is this?|axial
+synpic23554|what is the plane of the ct scan?|axial
+synpic46183|what is the plane of the ct scan?|axial
+synpic18464|what plane is demonstrated?|pa
+synpic40496|what plane was used?|axial
+synpic56396|in what plane was this image taken?|axial
+synpic41984|in what plane is this image taken?|pa
+synpic21344|in what plane is this image taken?|longitudinal
+synpic31716|which plane is the image shown in?|axial
+synpic58398|which plane is this angiogram taken in?|ap
+synpic40228|in which plane is the mri displayed?|coronal
+synpic22904|what image plane is this?|lateral
+synpic20045|in what plane is this image oriented?|mammo - cc
+synpic29147|in what plane is this ct scan?|axial
+synpic60348|in what plane is this image taken?|coronal
+synpic44902|what plane was used?|oblique
+synpic24629|in what plane was this image taken?|sagittal
+synpic49805|what is the plane of the mri?|axial
+synpic26818|which plane is the image taken?|axial
+synpic48725|what plane is this mri in?|axial
+synpic16429|in what plane is this mri?|axial
+synpic48717|in what plane is this image oriented?|axial
+synpic18463|what plane is this?|pa
+synpic21387|what plane is the image acquired in?|axial
+synpic41873|what plane is this film|axial
+synpic20194|which plane is the image taken?|ap
+synpic50025|what plane is the image acquired in?|sagittal
+synpic15006|what plane is this?|pa
+synpic56719|in what plane is this mri taken?|sagittal
+synpic59658|in what plane was this image taken?|coronal
+synpic32727|in what plane is this image taken?|axial
+synpic19071|what is the plane of the image?|ap
+synpic51751|what is the plane of this mri?|axial
+synpic26981|what image plane is this?|mammo - mlo
+synpic25586|in what plane is this ultrasound captured?|transverse
+synpic28383|which plane is the image taken?|longitudinal
+synpic26603|what plane was used?|axial
+synpic55541|what plane is seen?|axial
+synpic51154|in what plane was this image taken?|sagittal
+synpic31316|in which plane is the mammograph displayed?|mammo - mlo
+synpic30468|what plane is seen?|sagittal
+synpic56988|what image plane is this?|axial
+synpic41692|which plane is this mri taken in?|coronal
+synpic55711|what imaging plane is depicted here?|axial
+synpic32726|in what plane is this image taken?|axial
+synpic38503|which plane is the image shown in?|axial
+synpic56278|what plane is this film|axial
+synpic27732|in what plane is this image taken?|transverse
+synpic25021|in what plane is this ct scan taken?|axial
+synpic53239|what is the plane of the image?|axial
+synpic50342|in what plane is this image taken?|axial
+synpic26919|what plane was used in this mri?|sagittal
+synpic60826|what plane is seen?|axial
+synpic20931|in what plane is this x-ray taken?|frontal
+synpic49108|which plane is this image in?|sagittal
+synpic20832|in what plane is this ct scan?|axial
+synpic33701|which plane is the image taken?|sagittal
+synpic45778|what plane was used in this ct scan?|axial
+synpic22374|in what plane was this image taken?|frontal
+synpic31506|in what plane is this image taken?|axial
+synpic46657|what plane was used in this mri?|axial
+synpic41139|which plane is the image shown in?|axial
+synpic39021|which plane is this image taken?|axial
+synpic44100|what plane is this ct scan in?|axial
+synpic46752|what plane is this film|coronal
+synpic26652|in what plane is this image taken?|lateral
+synpic21727|what plane was used?|axial
+synpic52810|in what plane is this image oriented?|axial
+synpic47559|which plane is the image taken?|axial
+synpic53076|which plane is the image shown in?|axial
+synpic27620|what plane is the image acquired in?|axial
+synpic58579|which plane is the image taken?|lateral
+synpic21968|what is the plane of this x-ray?|frontal
+synpic54547|what plane is this x-ray in?|ap
+synpic17212|what plane is demonstrated?|axial
+synpic33616|what plane is seen?|sagittal
+synpic20627|which plane is the image shown in?|axial
+synpic51263|in which plane is the mri displayed?|axial
+synpic39725|what plane is this mri in?|sagittal
+synpic23323|what plane is this x-ray in?|pa
+synpic26146|in what plane is this image oriented?|ap
+synpic35369|which plane is this image in?|axial
+synpic21793|in what plane is this image taken?|sagittal
+synpic60628|in what plane is this mri?|axial
+synpic100109|which plane is this image taken?|lateral
+synpic38936|which plane is this image in?|axial
+synpic53237|what plane is this?|axial
+synpic53669|which plane is this mri taken in?|sagittal
+synpic49403|what is the plane of this mri?|3d reconstruction
+synpic36193|what is the plane?|3d reconstruction
+synpic45975|what plane is demonstrated?|sagittal
+synpic46709|what is the plane?|sagittal
+synpic39293|what is the plane of the ct scan?|axial
+synpic20319|in what plane is this image oriented?|longitudinal
+synpic31915|which plane is this x-ray taken in?|pa
+synpic59847|in what plane is this image taken?|3d reconstruction
+synpic28350|what plane is this film|oblique
+synpic59137|what plane is seen?|coronal
+synpic56014|what is the plane?|axial
+synpic46433|what image plane is this?|axial
+synpic51210|in what plane was this image taken?|axial
+synpic17328|what is the plane of this mri?|axial
+synpic56714|in what plane is this mri captured?|axial
+synpic39588|in what plane is this mri?|axial
+synpic41492|in what plane is this image oriented?|coronal
+synpic20353|in what plane is this ct scan?|axial
+synpic49067|what plane is seen?|sagittal
+synpic32815|in what plane was this image taken?|oblique
+synpic28492|what plane is seen?|axial
+synpic36777|which plane is this image taken?|coronal
+synpic20863|what image plane is this?|axial
+synpic53591|what image plane is this?|sagittal
+synpic17486|in what plane is this ct scan?|axial
+synpic60661|what plane was used?|axial
+synpic35347|which plane is this image taken?|axial
+synpic45744|in what plane was this image taken?|pa
+synpic21715|what imaging plane is depicted here?|axial
+synpic21285|what plane is this x-ray in?|ap
+synpic36494|what is the plane?|lateral
+synpic49313|what is the plane?|sagittal
+synpic54732|in what plane is this ct scan?|oblique
+synpic34143|in what plane is this x-ray taken?|ap
+synpic33271|what plane is this?|lateral
+synpic31229|what plane is demonstrated?|pa
+synpic41615|in what plane is this ct scan taken?|3d reconstruction
+synpic31357|which plane is this image taken?|coronal
+synpic19644|what plane is this film|axial
+synpic18511|in what plane is this x-ray taken?|oblique
+synpic53173|in what plane is this ct scan?|axial
+synpic21456|what plane is seen?|axial
+synpic59019|in what plane is this mri taken?|coronal
+synpic48298|which plane is the image taken?|axial
+synpic44126|what plane was used in this x-ray?|pa
+synpic55710|what imaging plane is depicted here?|axial
+synpic47945|which plane is this image taken?|longitudinal
+synpic35092|in what plane is this image taken?|axial
+synpic41291|which plane is this image in?|axial
+synpic52495|what image plane is this?|sagittal
+synpic45635|what image plane is this?|axial
+synpic26350|in what plane is this image taken?|sagittal
+synpic57890|in what plane is this image oriented?|3d reconstruction
+synpic27303|which plane is this image in?|axial
+synpic31838|which plane is this x-ray taken in?|ap
+synpic33194|what is the plane?|axial
+synpic36071|what is the plane of the mri?|axial
+synpic43056|what is the plane of the image?|axial
+synpic45706|what is the plane of this mri?|axial
+synpic48877|which plane is this image in?|axial
+synpic49125|what plane is demonstrated?|axial
+synpic55648|in what plane is this image taken?|axial
+synpic57413|what imaging plane is depicted here?|axial
+synpic58453|what imaging plane is depicted here?|coronal
+synpic100595|what plane is this?|axial
+synpic16198|what is the plane of this ct scan?|axial
+synpic21661|what plane was used?|sagittal
+synpic23294|in what plane is this mri?|axial
+synpic24912|which plane is this x-ray taken in?|pa
+synpic24930|in what plane is this image taken?|frontal
+synpic26448|what plane is the image acquired in?|frontal
+synpic27736|which plane is the image taken?|frontal
+synpic27827|what plane was used?|longitudinal
+synpic30911|what imaging plane is depicted here?|lateral
+synpic37886|what imaging plane is depicted here?|axial
+synpic40493|in what plane is this mri?|sagittal
+synpic36489|in what plane is this image taken?|pa
+synpic47973|in what plane is this ct scan?|axial
+synpic50387|which plane is the image shown in?|coronal
+synpic51724|what plane is this?|axial
+synpic52115|in what plane is this image taken?|axial
+synpic53335|in which plane is the mri displayed?|sagittal
+synpic56783|in what plane is this mri?|sagittal
+synpic57719|what plane is this mri in?|sagittal
+synpic59834|in what plane is this x-ray captured?|pa
+synpic16034|which plane is this ultrasound taken in?|transverse
+synpic16739|in which plane is the ct scan displayed?|axial
+synpic18717|what plane is this film|axial
+synpic24348|what plane was used?|axial
+synpic26210|what is the plane of the ultrasound?|sagittal
+synpic34751|in what plane was this image taken?|coronal
+synpic37216|in what plane is this mri?|axial
+synpic37605|in what plane is this mri taken?|axial
+synpic38175|in what plane is this x-ray captured?|ap
+synpic39078|what plane is this?|axial
+synpic39385|which plane is this mri taken in?|coronal
+synpic43780|what plane was used?|sagittal
+synpic45045|which plane is this ct scan taken in?|axial
+synpic47882|in which plane is the ct scan displayed?|axial
+synpic48944|in what plane is this ct scan taken?|axial
+synpic51569|what is the plane of this mri?|axial
+synpic52800|what is the plane of this ultrasound?|sagittal
+synpic56618|which plane is this image in?|axial
+synpic57259|what plane is demonstrated?|axial
+synpic57417|in what plane is this image oriented?|coronal
+synpic59178|what is the plane of the image?|sagittal
+synpic60066|what is the plane?|sagittal
+synpic60711|what plane was used?|axial
+synpic8929|what plane was used?|oblique
+synpic16539|in what plane is this image oriented?|axial
+synpic17015|what plane was used in this angiogram?|ap
+synpic19353|in what plane is this mammograph taken?|mammo - mlo
+synpic24174|in what plane was this image taken?|lateral
+synpic26211|in what plane is this x-ray?|frontal
+synpic28315|what plane was used in this ultrasound?|coronal
+synpic28895|which plane is the image taken?|ap
+synpic29774|in what plane is this image taken?|lateral
+synpic31831|in what plane is this image taken?|axial
+synpic32276|what plane is the image acquired in?|sagittal
+synpic34214|what plane was used in this mri?|sagittal
+synpic36702|which plane is this image in?|sagittal
+synpic37562|what plane is this?|coronal
+synpic37874|what is the plane of this mri?|sagittal
+synpic40585|which plane is this mri taken in?|axial
+synpic40892|in what plane is this mri?|coronal
+synpic41038|what plane is the image acquired in?|axial
+synpic41294|in what plane is this mri captured?|axial
+synpic41681|what imaging plane is depicted here?|axial
+synpic41989|in what plane was this image taken?|ap
+synpic42080|in what plane is this mri?|sagittal
+synpic44881|what plane is this?|axial
+synpic46383|in which plane is the nuclear medicine image displayed?|frontal
+synpic47044|what plane is demonstrated?|axial
+synpic49105|in what plane is this mri taken?|coronal
+synpic49514|what is the plane?|coronal
+synpic50404|what plane is seen?|axial
+synpic51078|which plane is the image shown in?|axial
+synpic51222|what image plane is this?|axial
+synpic53046|what is the plane of the mri?|coronal
+synpic53779|which plane is the image shown in?|sagittal
+synpic53970|which plane is this image in?|coronal
+synpic56482|what plane is this x-ray in?|ap
+synpic57358|what is the plane of this mri?|axial
+synpic58471|what plane is demonstrated?|axial
+synpic59533|what plane is the image acquired in?|axial
+synpic25793|what plane was used in this mammograph?|mammo - cc
+synpic35690|what plane was used in this mri?|sagittal
+synpic54544|in what plane is this image taken?|lateral
+synpic16121|what plane is this film|axial
+synpic24026|what plane was used in this ultrasound?|sagittal
+synpic25074|in what plane was this image taken?|pa
+synpic25639|which plane is this x-ray taken in?|ap
+synpic25642|what plane is this x-ray in?|lateral
+synpic25654|what is the plane of this x-ray?|ap
+synpic25660|in what plane is this image taken?|ap
+synpic26283|what plane was used?|mammo - mlo
+synpic28398|which plane is this image in?|longitudinal
+synpic35676|in what plane is this image taken?|coronal
+synpic35679|in what plane is this image taken?|coronal
+synpic35692|in what plane is this mri?|sagittal
+synpic35695|in what plane is this image taken?|sagittal
+synpic21779|what is the plane?|3d reconstruction
+synpic41953|in what plane is this image taken?|coronal
+synpic41954|what imaging plane is depicted here?|coronal
+synpic41956|what plane is this film|coronal
+synpic48035|in what plane is this ct scan?|axial
+synpic48039|in what plane is this ct scan taken?|axial
+synpic54541|what plane is this nuclear medicine image in?|lateral
+synpic54894|in what plane is this image taken?|sagittal
+synpic16120|in which plane is the ct scan displayed?|axial
+synpic16122|in what plane is this ct scan?|axial
+synpic18103|what imaging plane is depicted here?|pa
+synpic18105|what is the plane?|ap
+synpic18106|which plane is this angiogram taken in?|ap
+synpic25635|in what plane is this x-ray?|frontal
+synpic25652|what is the plane of this x-ray?|ap
+synpic25657|what imaging plane is depicted here?|ap
+synpic25749|in what plane is this x-ray?|ap
+synpic25798|in what plane is this gastrointestinal image?|oblique
+synpic26844|in what plane is this mri taken?|sagittal
+synpic35670|in what plane is this mri?|coronal
+synpic35672|what plane was used in this mri?|coronal
+synpic35673|in what plane is this mri?|coronal
+synpic35680|in which plane is the mri displayed?|coronal
+synpic35688|in what plane is this mri taken?|sagittal
+synpic54895|what imaging plane is depicted here?|sagittal
+synpic17687|which plane is this image taken?|axial
+synpic18668|in what plane is this ultrasound taken?|sagittal
+synpic18670|in what plane is this image oriented?|transverse
+synpic24025|which plane is this image in?|sagittal
+synpic25073|which plane is this image taken?|pa
+synpic25619|which plane is this image taken?|ap
+synpic25631|which plane is this image in?|ap
+synpic25640|what plane is seen?|ap
+synpic25655|in what plane is this x-ray?|ap
+synpic25787|what imaging plane is depicted here?|ap
+synpic25796|what plane is the image acquired in?|mammo - mlo
+synpic26416|what plane was used in this ultrasound?|transverse
+synpic26845|what plane is the image acquired in?|sagittal
+synpic26846|what imaging plane is depicted here?|sagittal
+synpic33350|what is the plane of the x-ray?|pa
+synpic34660|what plane is the image acquired in?|oblique
+synpic34662|what is the plane?|lateral
+synpic35667|what plane is this mri in?|coronal
+synpic35668|what plane is this film|coronal
+synpic35671|which plane is this image taken?|coronal
+synpic35674|in what plane is this mri captured?|coronal
+synpic35699|what plane is this mri in?|sagittal
+synpic39180|in what plane is this image oriented?|axial
+synpic41951|in which plane is the gastrointestinal image displayed?|coronal
+synpic41952|in what plane is this image taken?|coronal
+synpic54543|in what plane is this image oriented?|lateral
+synpic54892|in which plane is the mri displayed?|sagittal
+synpic54898|what plane is demonstrated?|sagittal
+synpic4288|what plane is demonstrated?|axial
+synpic18104|which plane is this angiogram taken in?|ap
+synpic18667|which plane is this image in?|sagittal
+synpic18669|in what plane is this ultrasound?|sagittal
+synpic18671|what is the plane?|transverse
+synpic18672|in what plane is this image oriented?|sagittal
+synpic25649|which plane is this image in?|lateral
+synpic25650|which plane is this image in?|lateral
+synpic25662|what is the plane of the image?|ap
+synpic25797|which plane is this gastrointestinal image taken in?|ap
+synpic26841|what plane was used in this mri?|sagittal
+synpic26843|what plane is demonstrated?|sagittal
+synpic28827|what imaging plane is depicted here?|sagittal
+synpic34659|which plane is this x-ray taken in?|ap
+synpic34661|what plane is this?|oblique
+synpic35685|in what plane is this mri?|sagittal
+synpic35687|which plane is this image in?|sagittal
+synpic35701|what is the plane of the image?|sagittal
+synpic48036|what imaging plane is depicted here?|axial
+synpic54897|what plane was used in this mri?|sagittal
