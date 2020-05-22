@@ -142,7 +142,6 @@ def run():
 
         total_eval_accuracy = 0
         total_eval_loss = 0
-        nb_eval_steps = 0
 
         for batch in valid_data_loader:
             b_input_ids = batch[0].to(device)
