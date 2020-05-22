@@ -35,12 +35,12 @@ def format_time(elapsed):
     return str(datetime.timedelta(seconds=elapsed_rounded))
 
 
-def run():
+def train_questions():
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
     print("using ", device)
 
-    train_path = r"../data/train/QAPairsByCategory"
-    valid_path = r"../data/valid/QAPairsByCategory"
+    train_path = r"src/data/train/QAPairsByCategory"
+    valid_path = r"src/data/valid/QAPairsByCategory"
 
     df_train = get_text_data_train(train_path)
     df_valid = get_text_data_valid(valid_path)
@@ -209,4 +209,4 @@ def print_training_timings(training_stats):
 
 
 if __name__ == "__main__":
-    run()
+    train_questions()
