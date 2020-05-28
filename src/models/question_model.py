@@ -14,5 +14,5 @@ class BertClassifier(nn.Module):
         )
 
     def forward(self, ids, mask, token_type_ids):
-        _, o2 = self.bert(ids, attention_mask=mask, token_type_ids=token_type_ids)
+        o2 = self.bert(ids, attention_mask=mask, token_type_ids=token_type_ids)
         return o2
