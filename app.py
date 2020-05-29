@@ -1,4 +1,5 @@
 _author_ = "Rohit Patil"
+
 import json
 import logging
 
@@ -20,6 +21,8 @@ DEVICE = None
 TOKENIZER = None
 BERT_MODEL = None
 ORGAN_MODEL = None
+PLANE_MODEL = None
+MODALITY_MODEL = None
 
 
 def tokenize_sentences(sentence, tokenizer, max_seq_len=128):
@@ -70,6 +73,29 @@ def get_organ_model(model_path):
     return model
 
 
+def get_plane_model(model_path):
+    logger.info("Loading plane model started.")
+    model = models.vgg16(pretrained=False)
+
+    for param in model.parameters():
+        param.requires_grad = False
+    n_inputs = model.classifier[6].in_features
+
+    model.classifier[6] = torch.nn.Sequential(
+        torch.nn.Linear(n_inputs, 256),
+        torch.nn.ReLU(),
+        torch.nn.Dropout(0.2),
+        torch.nn.Linear(256, 15),
+        torch.nn.LogSoftmax(dim=1),
+    )
+
+    model.load_state_dict(torch.load(model_path, map_location=DEVICE))
+    model.to(DEVICE)
+    model.eval()
+    logger.info("Loading plane model finished.")
+    return model
+
+
 def question_classifier(question):
     label_dict = {0: "Modality", 1: "Plane", 2: "Organ", 3: "Abnormality"}
 
@@ -99,30 +125,7 @@ def predict_question_type():
         return output
 
 
-@app.route("/predict_answer", methods=["POST"])
-def predict_answer():
-    if request.method == "POST":
-        logger.info("Received request for predict_answer.")
-        data = request.get_json()
-        question_type = question_classifier(data["question"])
-        image_json = data["image"]
-        answer = "Sorry system does not know answer."
-        if question_type == "Organ":
-            answer = predict_organ_type(image_json)
-        output = jsonify(
-            {
-                "question": data["question"],
-                "question_type": question_type,
-                "answer": answer,
-            }
-        )
-        logger.info("Request processed for predict_question_type. Response is :-")
-        parsed = json.loads(output.data)
-        logger.info(json.dumps(parsed, indent=2))
-        return output
-
-
-def predict_organ_type(image_json):
+def predict_answer_from_image(image_json, model_type):
     organ_types = {
         0: "breast",
         1: "face, sinuses, and neck",
@@ -136,6 +139,24 @@ def predict_organ_type(image_json):
         9: "vascular and lymphatic",
     }
 
+    plane_types = {
+        0: "3d reconstruction",
+        1: "ap",
+        2: "axial",
+        3: "coronal",
+        4: "decubitus",
+        5: "frontal",
+        6: "lateral",
+        7: "longitudinal",
+        8: "mammo - cc",
+        9: "mammo - mag cc",
+        10: "mammo - mlo",
+        11: "oblique",
+        12: "pa",
+        13: "sagittal",
+        14: "transverse",
+    }
+
     organ_trans = transforms.Compose(
         [
             transforms.Resize(224),
@@ -146,9 +167,41 @@ def predict_organ_type(image_json):
     )
     image = Image.fromarray(np.array(json.loads(image_json), dtype="uint8"))
     tensor = organ_trans(image).unsqueeze(0)
-    outputs = ORGAN_MODEL.forward(tensor)
-    _, y_hat = outputs.max(1)
-    return organ_types.get(y_hat.item())
+    if model_type == "Organ":
+        outputs = ORGAN_MODEL.forward(tensor)
+        _, y_hat = outputs.max(1)
+        return organ_types.get(y_hat.item())
+    elif model_type == "Modality":
+        outputs = ORGAN_MODEL.forward(tensor)
+        _, y_hat = outputs.max(1)
+        return organ_types.get(y_hat.item())
+    elif model_type == "Plane":
+        outputs = PLANE_MODEL.forward(tensor)
+        _, y_hat = outputs.max(1)
+        return plane_types.get(y_hat.item())
+    else:
+        return "Sorry system does not know answer."
+
+
+@app.route("/predict_answer", methods=["POST"])
+def predict_answer():
+    if request.method == "POST":
+        logger.info("Received request for predict_answer.")
+        data = request.get_json()
+        question_type = question_classifier(data["question"])
+        image_json = data["image"]
+        answer = predict_answer_from_image(image_json, question_type)
+        output = jsonify(
+            {
+                "question": data["question"],
+                "question_type": question_type,
+                "answer": answer,
+            }
+        )
+        logger.info("Request processed for predict_question_type. Response is :-")
+        parsed = json.loads(output.data)
+        logger.info(json.dumps(parsed, indent=2))
+        return output
 
 
 def load_properties(filepath, sep="=", comment_char="#"):
@@ -183,5 +236,6 @@ if __name__ == "__main__":
     TOKENIZER, BERT_MODEL = get_bert_model(
         model_path=properties.get("question_classifier_path")
     )
+    PLANE_MODEL = get_plane_model(model_path=properties.get("plane_classifier_path"))
     ORGAN_MODEL = get_organ_model(model_path=properties.get("organ_classifier_path"))
     app.run(debug=False)
