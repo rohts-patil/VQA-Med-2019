@@ -1,6 +1,16 @@
 _author_ = "Rohit Patil"
+import logging
+
 import torch.utils.data
+from flask import Flask, jsonify, request
 from transformers import BertTokenizer, BertForSequenceClassification
+
+logging.basicConfig(level=logging.DEBUG, format="%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s")
+app = Flask(__name__)
+logger = logging.getLogger('app')
+
+TOKENIZER = None
+BERT_MODEL = None
 
 
 def tokenize_sentences(sentence, tokenizer, max_seq_len=128):
@@ -16,7 +26,7 @@ def tokenize_sentences(sentence, tokenizer, max_seq_len=128):
 
 
 def get_bert_model(model_path, device):
-    print("Starting loading Bert.")
+    logger.info("Starting loading Bert.")
     model = BertForSequenceClassification.from_pretrained(model_path)
     tokenizer = BertTokenizer.from_pretrained(model_path)
 
@@ -24,43 +34,49 @@ def get_bert_model(model_path, device):
     for param in model.parameters():
         param.requires_grad = False
     model.eval()
-    print("Bert loaded")
+    logger.info("Bert loaded")
     return tokenizer, model
 
 
-def run():
-    if torch.cuda.is_available():
-        device = torch.device("cuda")
-        print("There are %d GPU(s) available." % torch.cuda.device_count())
-        print("We will use the GPU:", torch.cuda.get_device_name(0))
-    else:
-        print("No GPU available, using the CPU instead.")
-        device = torch.device("cpu")
+def question_classifier(question):
+    label_dict = {0: "Modality", 1: "Plane", 2: "Organ", 3: "Abnormality"}
 
-    tokenizer, model = get_bert_model(
-        model_path="C:\\Users\\lenovo\Downloads\\bert\\model_save", device=device,
-    )
-
-    # text = "Which organ is shown in scan?"
-    # text = "what modality is shown?"
-    # text = "what type of contrast did this patient have?"
-    # text = "what kind of scan is this?"
-    # text = "what imaging plane is depicted here?"
-    # text = "what part of the body does this x-ray show?"
-    text = "does this image look normal?"
-    input_ids, attention_mask = tokenize_sentences(text, tokenizer, 512)
-    outputs = model(
+    input_ids, attention_mask = tokenize_sentences(question, TOKENIZER, 512)
+    outputs = BERT_MODEL(
         input_ids.to(device),
         token_type_ids=None,
         attention_mask=attention_mask.to(device),
     )
     logits = outputs[0]
+    question_type = label_dict.get(torch.argmax(logits).item())
 
-    label_dict = {0: "Modality", 1: "Plane", 2: "Organ", 3: "Abnormality"}
-    print(
-        text + "    classified to class:-" + label_dict.get(torch.argmax(logits).item())
+    logger.info(
+        question + "    classified to class:-" + question_type
     )
+    return question_type
 
 
-if __name__ == "__main__":
-    run()
+@app.route('/predict_question_type', methods=['POST'])
+def predict_question_type():
+    if request.method == 'POST':
+        logger.info("Received request for predict_question_type.")
+        data = request.get_json()
+        question_type = question_classifier(data['question'])
+        output = jsonify({'question': data['question'], 'question_type': question_type})
+        logger.info("Request processed for predict_question_type. Output :-" + str(output.data))
+        return output
+
+
+if __name__ == '__main__':
+    if torch.cuda.is_available():
+        device = torch.device("cuda")
+        logger.info("There are %d GPU(s) available." % torch.cuda.device_count())
+        logger.info("We will use the GPU:", torch.cuda.get_device_name(0))
+    else:
+        logger.info("No GPU available, using the CPU instead.")
+        device = torch.device("cpu")
+
+    TOKENIZER, BERT_MODEL = get_bert_model(
+        model_path="C:\\Users\\rohit.patil\\Downloads\\bert", device=device,
+    )
+    app.run(debug=False)
