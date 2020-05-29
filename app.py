@@ -5,9 +5,12 @@ import torch.utils.data
 from flask import Flask, jsonify, request
 from transformers import BertTokenizer, BertForSequenceClassification
 
-logging.basicConfig(level=logging.DEBUG, format="%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s")
+logging.basicConfig(
+    level=logging.DEBUG,
+    format="%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s",
+)
 app = Flask(__name__)
-logger = logging.getLogger('app')
+logger = logging.getLogger("app")
 
 TOKENIZER = None
 BERT_MODEL = None
@@ -50,24 +53,24 @@ def question_classifier(question):
     logits = outputs[0]
     question_type = label_dict.get(torch.argmax(logits).item())
 
-    logger.info(
-        question + "    classified to class:-" + question_type
-    )
+    logger.info(question + "    classified to class:-" + question_type)
     return question_type
 
 
-@app.route('/predict_question_type', methods=['POST'])
+@app.route("/predict_question_type", methods=["POST"])
 def predict_question_type():
-    if request.method == 'POST':
+    if request.method == "POST":
         logger.info("Received request for predict_question_type.")
         data = request.get_json()
-        question_type = question_classifier(data['question'])
-        output = jsonify({'question': data['question'], 'question_type': question_type})
-        logger.info("Request processed for predict_question_type. Output :-" + str(output.data))
+        question_type = question_classifier(data["question"])
+        output = jsonify({"question": data["question"], "question_type": question_type})
+        logger.info(
+            "Request processed for predict_question_type. Output :-" + str(output.data)
+        )
         return output
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     if torch.cuda.is_available():
         device = torch.device("cuda")
         logger.info("There are %d GPU(s) available." % torch.cuda.device_count())
